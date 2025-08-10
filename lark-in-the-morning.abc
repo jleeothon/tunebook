@@ -4,11 +4,11 @@ R: jig
 M: 6/8
 L: 1/8
 K: Dmaj
-|: "D" AFA AFA | "G" BGB BdB | "D" AFA Ade | "D" fed "G"  BdB |
-"D" AFA AFA | "G" BGB BdB | "D" def afe | "G" fdB BdB :|
-|: "D" def a2a | "G" baf "D" afe | "D" def afe | fdB BdB |
-"D" def a2a | "G" baf a2f | "G" g2e "Bm" fed | "A" edB "G" BdB :|
-|: "D" d2f fef | fef fef | "D" d2f fef | "A" edB BdB |
-"D" d2f fef | fef def | "G" g2e "D" fed | "A" edB BdB :|
-|: "D" Add fdd | ede fdB | Add fdd | "A" efe edB |
-"D" Add fdd | "A" edB def | "G" g2e fed | "A" edB BdB :|
+|: "D" AFA AFA | "G" BGB BdB     | "D" AFA Ade      | "G" fed BdB |
+   "D" AFA AFA | "G" BGB BdB     | "D" def afe      | "G" fdB BdB :|
+|: "D" def a2a | "G" baf "A" afe | "D" def afe      | "G" fdB BdB |
+   "D" def a2a | "G" baf "A" a2f | "G" g2e "Bm" fed | "A" edB BdB :|
+|: "D" d2f fef | fef fef         | "D" d2f fef      | "A" edB BdB |
+   "D" d2f fef | fef def         | "G" g2e "D" fed  | "A" edB BdB :|
+|: "D" Add fdd | ede fdB         | Add fdd          | "A" efe edB |
+   "D" Add fdd | "A" edB def     | "G" g2e fed      | "A" edB BdB :|
