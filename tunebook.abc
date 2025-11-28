@@ -881,16 +881,18 @@ G2B BcB|EFG FED|EFG FGA|EFG AFD|
 d2d e2e|f2f g3|g2d g2c|g2B Aag|
 fed ded|dcB Adc|BAG AGF|G3 G2:|
 
+
 X: 15
 T: Planxty Lady Wrixon
 R: planxty
 M: 6/8
 L: 1/8
 K: Ador
-f | "Am" e2A cBA | e2A efg | "G" d2G BAG | d2G Bcd |
-"Am" e2A cBA | e2A efg | "G" d2B g2B | "Am" BAA A2 :|
-|: e | "Am" a2a "Em" bge | "Am" a2a "Em" bge | "G" g2g "D" faf | "G" gBG "C" e2g |
-"D" faf "C" ege | "D" dfd "Am" cec | "G" BdB "Em" BgB | "Am"  BAA A2 :|
+f    | "Am" e2A cBA      | e2A efg           | "G" d2G BAG      | d2G Bcd           |
+       "Am" e2A cBA      | e2A efg           | "G" d2B g2B      | "Am" BAA A2    :|
+|: e | "Am" a2a "Em" bge | "Am" a2a "Em" bge | "G" g2g "D" faf  | "G" gBG "C" e2g   |
+       "D" faf "C" ege   | "D" dfd "Am" cec  | "G" BdB "Em" BgB | "Am"  BAA A2   :|
+
 
 X: 61
 T: Carolan's Welcome
@@ -1174,14 +1176,28 @@ K: G
         "G" D2GA B2e>d | dBAG g3e        | "D" d>cBG A>GED | DEG>A "G" G2            :|
 |: Bc | "G" d>Bde d2 ga/g/ | "Em" e>def e2ef | "G" g>fag "D" f>edc | "E" BGAG E2GE   |
         "G" D2EG G2gf      | "Em" e>fed B2ed | "D" d>cBG A>GED     | DEG>A G2        :|
+
 X:65
-T: Bonaparte’s Grand March
+T: Bonaparte's Grand March
 R: march
 M: 4/4
 L: 1/8
-K: G
-Q: 200
-D>E   | G2 G>F G2 D/E/F/G/ | A>G AB A2 D/E/G/A/ | B2 AB cB AG | A>G AB A2 |
-DE/F/ | GG DD B,B, DD  | GG DD B,B, DD | A>G AB AG AB | G2 G>F G2 :|
-cB    | AG FE DE G/F/D | G2 G>F GA BA | BA GF EF G/F/E |  G2 G>F GA B/A/G |
-G2 d>d d/c/B/A/ | GB/B/ BB Bd cB | A2 A>G AG AB | G2 G>F GA BA :|
+K: D
+   A>B      | d2 d>c d2 A/B/c/d/ | e>d ef e2 A/B/d/e/ | f2 ef gf ed       | e2 e>f e2    |
+   AB/c/    | dd AA FF AA        | dd AA FF AA        | d>c df ed ef      | d2 d>c d2   :|
+|: gf       | ed cB AB c/B/A     | d2 d>c de fd       | ed cB AB c/B/A    |  d2 d>c de   |
+   f/e/d/c/ | B2 g>g g2 g/f/e/d/ | Af/f/ ff fa gf     | e2 e>f ed ef      |1 d2 d>c df  :|2 d2 d>c de ||
+|: fg       | a2 aa b2 bb        | a2 aa f2 af        | g2 gg f2 af       | g>f ed e2   .| A/d/e/f/ | gf ed ce A2 |
+              aa ff dd A2        |1 fA d/e/f/a/ gf ed | Aa/a/ aa ae      :|2 fA d/e/f/a/ gf ef      | d2 d>c d2   |]
+
+X: 1
+T: Bonaparte Crossing The Alps
+T: Napóilean Ag Trasnú Na NAlp
+R: march
+M: 4/4
+L: 1/8
+K: Amix
+|:E2FG|A4 A4|ABAG E2D2|B2d2 e2B2|d4 e2fg|
+a2ag eged|BdBA G2E2|G3G G2A2|G4:|
+|:e2fg|a2ag eged|Bcd2 e2f2|g3a g2e2|g4 e2fg|
+a2ag eged|BdBA G2E2|G3G G2E2|G4:|
