@@ -83,7 +83,7 @@ K: D
 L: 1/4
 A    | "D" dA de  | "D" f>e dc  | "G" BA B/c/d/B/ | "D" AF E |
 A    | "D" dA de  | "Bm" f>e dc | "G" BA "A"Bc       | "D" d2 d  :|
-|: A | "G" B//c//B/A FA | B//c//B/A Fd/d/ | "G" dc/c/ "A" cB/B/ | "G" BA A |
+|: A | "D" B//c//B/A FA | B//c//B/A Fd/d/ | "G" dc/c/ "A" cB/B/ | "D" BA A |
 d/d/ | "D" dc "A" ce/e/ | "D" ed df/f/    | "G" fe "A" Bc       | "D" d2 d :|
 
 
@@ -154,13 +154,13 @@ ge e/f/g/e/|dB g>e|dB AB/A/|G2 G2:|
 X:41
 T: The Rakes of Mallow
 R: polka
-M: 4/4
-L: 1/4
+M: 2/4
+L: 1/8
 K: Gmaj
-GB GB | GB c/B/A/G/ | FA FA | FA d/c/B/A/ |
-GB GB | GB d2 | c/B/A/G/ F/G/A/c/ | BG G2 :|
-|: gf ed | Bc d2 | gf ed | Bc A2 |
-gf ed | Bc d2 | c/B/A/G/ F/G/A/c/ | BG G2 :|
+"G" GB GB | GB c/B/A/G/ | "D" FA FA | FA d/c/B/A/ |
+"G" GB GB | GB d2 | "C" c/B/A/G/ "D" F/G/A/c/ | "G" BG G2 :|
+|: "G" gf ed | Bc d2 | gf ed | Bc "D" A2 |
+"G" gf ed | Bc d2 | "C" c/B/A/G/ "D" F/G/A/c/ | "G" BG G2 :|
 
 X:42
 T: The Ballydesmond 1
@@ -296,10 +296,10 @@ M: 4/4
 L: 1/8
 K: Gmaj
 P: like a reel, without swing
-gf|g2G2G2dc|Bdgf gbag|a2A2A2AG|FAd2d2|
-ef|gfed edcB|cBAG GFED|EGFA GBAc|B2G2G2:|
-|:dc|Bdgd Bdgd|e2c2c2ed|^ceae ^ceae|f2d2d2|
-ef|gfed edcB|cBAG GFED|EGFA GBAc|B2G2G2:|
+   gf | "G" g2G2G2dc | Bdgf gbag | "D" a2A2A2AG  | FAd2d2    |
+   ef | "G" gfed "C" edcB | "Am" cBAG "G" GFED | "C" EGFA "G" GB"D"Ac | "G"B2G2G2   :|
+|: dc | "G" Bdgd Bdgd    |  "C" e2c2c2ed | "A" ^ceae ^ceae | "D" f2d2d2   |
+   ef | "G"gfed "C" edcB    | "Am" cBAG "G" GFED | "C" EGFA "G" GB"D"Ac   | "G"B2G2G2 :|
 
 
 X:9
@@ -530,26 +530,27 @@ K: Gmaj
 
 X: 18
 T: The Holly Bush
+T: Three Little Drummers
 R: jig
 M: 6/8
 L: 1/8
 K: Gmaj
-"G" BAG GDG | GDG "D" ABc | "G" BAG "C" edc | "G" BdB "C" cBA |
-"G" BAG GDG | GDG "D" ABc | "G" BAG "C" edB | "D" def "G" g3 :|
-|: "G" gdd gdd | gdd "Bm" dcB | "Am" Acc Acc | Acc "D" cBA |
-"G" BAB "D" cdc | "G" BAG "C" Adc |"G" BAG "C" edB | "D" def "G" g3 :|
+   "G" BAG GDG     | GDG "D" ABc     | "G" BAG "C" edc | "G" BdB "C" cBA  |
+   "G" BAG GDG     | GDG "D" ABc     | "G" BAG "C" edB |1 "D" def "G" g3 :|2 "D" def "G" g3 d ||
+|: "G" gdd gdd     | gdd "Bm" dcB    | "Am" ABc ABc    | ABc "D" cBA      |
+   "G" BAB "D" cdc | "G" BAG "C" Adc | "G" BAG "C" edB | "D" def "G" g3  :|
 
 X: 20
 T: Patsy Geary's
 T: An Crú Capaill
 R: jig
 M: 6/8
-K: Bmin
+K: Ador
 L: 1/8
-   "Bm"f3 f2e  | fdB d2 A          | "D"d3 dfa       | "G"bge "Em"efg |
-   "Bm"fge f2e | fdB d2 e          | "D"fga "G"bge   | "D"dBA "D7"AB/c/d :|
-|: "A"e3 efe   | "D"dBA "A/E" A2 d | "G"BAB "Em"g2 e | "D"fdB "D7"AB/c/d  |
-   "A"e3 efe   | "D"dBA "A/E" A2 g | "D"fga "G"bge   | "D"dBA "D7"AB/c/d :|
+   "Bm" f3 f2e   | fdB d2 A          | "D" d3       dfa  | "G" bge "Em" efg     |
+   "Bm" fge f2e  | fdB d2 e          | "D" fga "G"  bge  | "D" dBA "D7" AB/c/d :|
+|: "A"  e3 efe   | "D"dBA "A/E" A2 d | "G" BAB "Em" g2 e | "D" fdB "D7" AB/c/d  |
+   "A"  e3 efe   | "D"dBA "A/E" A2 g | "D" fga "G" bge   | "D" dBA "D7" AB/c/d :|
 
 X: 2
 T: The Old Favourite
@@ -558,10 +559,10 @@ R: jig
 M: 6/8
 L: 1/8
 K: Gmaj
-"G" B3 BAB | "D" dBA "G" G2B | "D" ded "G" d2B | "D" ded "Bm/G" B2A|
-"G" B3 BAB | "D" dBA "G" G2B | "C/E" ded "D/F#" cBA |1 "G" G3 "Dsus4" GAd :|2 "G" G3 GBd ||
-|: "G" g3 "D" f3 | "C" ege "G" d2B | "D" ded "G" d2B | "D" ded "Bm/G" B2d || "G" g3 "D" f3|
-"C" ege "G" d2B |1 "D" dge "D/F#" dBA | "G" G3 GBd:|2 "G" dge "Bm/F#" dge | "Em7" dge "D" dBA ||
+   "G" B3 BAB      | "D" dBA "G" G2B | "D" ded "G" d2B      |  "D" ded "Bm/G" B2A   |
+   "G" B3 BAB      | "D" dBA "G" G2B | "C/E" ded "D/F#" cBA |1 "G" G3 "Dsus4" GAd  :|2 "G" G3 GBd    ||
+|: "G" g3 "D" f3   | "C" ege "G" d2B | "D" ded "G" d2B      |  "D" ded "Bm/G" !mediumphrase! B2d | "G" g3 "D" f3  | "C" ege "G" d2B |
+|1 "D" dge "D/F#" dBA | "G" G3 GBd  :|2 "G" dge "Bm/F#" dge |  "Em7" dge "D" dBA    |]
 
 
 X: 3
@@ -570,10 +571,10 @@ R: jig
 M: 6/8
 L: 1/8
 K: Dmaj
-e | "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "G" gfg "A" eag |
-    "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "A" gec "D" d2 :|
-|: G | "D" FAA "G" BAA | "D" FAA "G" BAA | "D" FAA def | "G" gfg "A" eag |
-       "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "A" gec "D" d2 :|
+e    | "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "G" gfg "A" eag  |
+       "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "A" gec "D" d2  :|
+|: G | "D" FAA "G" BAA | "D" FAA "G" BAA | "D" FAA def | "G" gfg "A" eag  |
+       "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "A" gec "D" d2  :|
 
 
 X: 21
@@ -610,8 +611,8 @@ R: slip jig
 M: 9/8
 L: 1/8
 K: Ador
-|:A3 ABA AGE|A2 EG2 E DEG|A3 ABA AGE|~G3 G2 E DEG:|
-|:c2 A BAG AGE|cBA BGE DEG|c2 A BAG AGE|~G3 G2 E DEG:|
+|: "Am" A3 ABA "G" AGE | "Am" A2E "Em" G2E DEG | "Am" A3 ABA "G" AGE | "Em" G3 G2E DEG:|
+|: "C"  c2A "G" BAG AGE | "C" cBA "G" BGE DEG   | "C" c2A "G" BAG AGE | "Em" G3 G2E DEG:|
 
 
 X:29
@@ -772,10 +773,10 @@ C: Ian Burns
 M: C|
 L: 1/8
 K: Dmaj
-D2 | "D" A2FA2 DFA | "G" B2GB2 DGB | "D" A2FA2 DFA | "G" EFGA "A" GFED |
+   D2 | "D" A2FA2 DFA | "G" B2GB2 DGB | "D" A2FA2 DFA | "G" EFGA "A" GFED |
      "D" A2FA2 DFA | "G" B2GB2 DGB | "A" ABcd efge | "D" f2d2 d2 :|
-e2 | "D" f2ef2 fdf | "G" gfaf gfed | "D" f2df2 Adf | "A" ABcd efge |
-   | "D" f2ef2 fdf | "G" gfaf gfed | "A" ABcd efge | "D" f2d2 d2 |
+|: e2 | "D" f2ef2 fdf | "G" gfaf gfed | "D" f2df2 Adf | "A" ABcd efge |
+     "D" f2ef2 fdf | "G" gfaf gfed | "A" ABcd efge | "D" f2d2 d2 :|
 
 
 X: 4
@@ -801,9 +802,21 @@ M: 3/4
 L: 1/8
 K: Gmaj
 D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
-D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A || 
+D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
+
+X: 58
+T: Spancil Hill
+R: waltz
+M: 3/4
+L: 1/8
+K: Edor
+|: dc | "Em" B4 E2 | B4 cB | "D" A4 F2 | D4 E2 | F2 A2 G2  | E4 D2    | "Em" E6- | E4 ||
+   B2 | "Em" B4 e2 | e4 f2 | e4 d2     | B4 c2 | "D" d4 e2 | d2 c2 B2 | A6-      | A4  |
+   A2 | "Em" B4 e2 | e4 f2 | e4 d2     | B4 c2 | "D" d4 e2 | d2 c2 B2 | A6-      | A4 ||
+   dc | "Em" B4 E2 | B4 cB | "D" A4 F2 | D4 E2 | F2 A2 F2  | E4 D2    | "Em" E6- | E4 :|
+
 
 
 X: 57
@@ -815,19 +828,9 @@ L: 1/8
 K: Gmaj
 |: GA | "G" B2 BG "D" cA |"G"d2 d2 gf|"C"e2 e2 ge|"G"d2 d2 |
    GA | "G" B2 BG "D"cA     | "G"d2 d2 "D"cA     |"G"G2 G2 "D"AB|"G"G4:|
-|: AB | "C" c2 cd Bc     | "D" A2 A2 Bc     |"G"d2 de cd|"Em"B2 B2
+|: AB | "C" c2 cd Bc     | "D" A2 A2 Bc     |"G"d2 de cd|"Em"B2 B2 |
    gf | "C"e2 e2 ge     | "G"d2 d2 GA | "G" B2 Bc "D"AB|"G"G4:|
 
-X: 58
-T: Spancil Hill
-R: waltz
-M: 3/4
-L: 1/8
-K: Edor
-|:dc|"Em" B4 E2|B4 cB|"D" A4 F2|D4 E2|F2 A2 G2|E4 D2|"Em" E6-|E4||
-B2|     "Em" B4 e2|e4 f2|e4 d2|B4 c2|"D" d4 e2|d2 c2 B2|A6-|A4|
-A2|     "Em" B4 e2|e4 f2|e4 d2|B4 c2|"D" d4 e2|d2 c2 B2|A6-|A4||
-dc|     "Em" B4 E2|B4 cB|"D" A4 F2|D4 E2|F2 A2 F2|E4 D2|"Em" E6-|E4:|
 
 X: 60
 T: Paddy's Green Shamrock Shore
@@ -840,6 +843,74 @@ A2 | "A" e3f g2 | e4 A2      | e3c e2     | "D"d2c2A2 | "G" G3F G2 | "A" A4 B2  
 a2 | "D" f3e d2 | "A" e3f g2 | "A" a3g f2 | e4 a2     | "G" g3fe2  | "D" d2A2B2 | "G" G6- | G4  |
 ag | "D" f3e d2 | "A" e3f g2 | "A" a3g f2 | e4 a2     | "G" g3f e2 | "D" d2A2B2 | "G" G6- | G4  |
 A2 | "A" e3f g2 | e4A2       | e3c e2     | "D"d2c2A2 | "G" G3F G2 | "D" A4 B2  | "A" A6- | A4 :|
+
+X: 61
+T: Carolan's Welcome
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+dc | B2 de f2|B2 de f2|ef ed cB|(3ABc A2 F2|
+d3c B2|e3d c2|df F2 A2|B4 dc|
+B2 de f2|B2 de f2|ef ed cB|(3ABc A2 F2|
+a3g f2|b3a fe|df ed cd| B4 :|
+|: B2 | F2 Bc d2|F2 Bc d2|dc BA Bc|d2 F2 F2|
+G2 BG FE| F2 AF ED | E2 F2 A2|B6|
+ba fa b2|afef a2|fe de fd|e2 c2 (3ABc|
+d3c B2|e3d c2|df F2 A2| B4 :|
+
+
+X: 1
+T: Orange In Bloom
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|: D2 | "C"  E3 G E2  | "G" D2 G2 A2  | B2 d2 B2      | "Am" A4 BA       |
+        "Am" G3 E E2  | "D" D2 G2 A2  | "C" B2 G2 G2  | "G" G4          :|
+|: A2 | "G"  B3 A Bc  | "Bm" d2 c2 B2 | "Am" A2 G2 A2 | "G" B2 c2 d2     |
+        "C"  e2 d2 B2 | "Am" A2 G2 A2 | "Am" B2 A2 G2 | "C" E4          ||
+   D2 | "C"  E3 G E2  | "G" D2 G2 A2  | B2 d2 B2      | "Am" A4 BA       |
+        "Am" G3 E E2  | "D" D2 G2 A2  | "C" B2 G2 F2  | "G" G4          :|
+
+X: 1
+T: Sweet Jennie Jones
+T: Cadair Idris
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+|: A2 | "D" d2 A2 F2 | "Bm" D3 E F2  | "Em" G2 B2 e2 | "A" c2 A2 |
+   c2 | "D" d2 A2 F2 | "G"  G3 A B2  | "A" A2 d2 c2  | "D" d4       :|
+|: de | "D" f2 d2 f2 | "A"  e2 c2 A2 | "G" d2 B2 d2  | "A" c2 A2     |
+   de | "D" f2 d2 f2 | "A" e2 c2 A2  | "G" d2 c2 B2  | "A" A4        ||
+   Bc | "D" d2 A2 F2 | "Bm" D3E F2   | "Em" G2 B2 e2 | "A" c2 A2 c2  |
+        "D" d2 A2 F2 | "G" G3A B2    | "A" A2 d2 c2  | "D" d4 |]
+
+X:62
+T: Flatwater Fran
+C: Phil Cunningham
+R: mazurka
+M: 3/4
+L: 1/8
+K: Gmaj
+   DE    | "G"  G2 G2 DE |      G2 G2 B/c/d | "C"  e2 d2 G2       | "G"  !mediumphrase! B4 DE    | "G"  G2 G2 DE | "Am" A2 A2 GA    | "Em" B2 AG ED       | "C"  E4   |
+   D/E/F | "G"  G2 G2 DE |      G2 G2 B/c/d | "C"  e2 d2 g2       | "G"  !mediumphrase! B4 dB    | "Am" A2 AG AB | "Em" AG E2 GE    | "C"  DE G2 "D7" G2  | "G"  G4  :|
+|: B/c/d | "C"  e2 d2 G2 | "G"  B4 B/c/d    | "C"  e2 d2 G2       | "G"  !mediumphrase! B4 B/c/d | "C"  e2 d2 g2 | "Em" B2 dB AG    | "Am" A2 AG AB       | "D"  A4   |
+   B/c/d | "C"  e2 d2 g2 | "G"  B2 dB AG    | "D7" A2 "Bm" d3 c   | "Em" !mediumphrase! B3 B AG  | "Am" EA AG AB | "Em" AG E2 GE    | "C"  DE G2 "D7"  G2 | "G"  G4  :|
+
+X: 3
+T: Kevin Keegan's
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+   BG DG Bd | c2 B2 c2 | d2 g3e      |  d3e dc       !f! | BG DG Bd | c2 A3G   | F/G/A d2 D2 |  F/G/A d2 D2  |
+   BG DG Bd | c2 B2 c2 | d2 g3e      |  d3e dc       !mediumphrase! | BG DG Bd | c2  A2 F2 | G3B AF      |1 G4 dc      :|2 G3 A Bd ||
+|: g3 g g2  | f3 f f2  | e2 f2 g2    |  d3e dc       !mediumphrase! | BG DG Bd | c2 A3G   | F/G/A d2 D2 |  F/G/A d2 D2  |
+[1 g3 g g2  | f3 f f2  | e2 f2 g2    | d3e dc        !mediumphrase! | BG DG Bd | c2 A2 F2 | G3B AF      | G3 A Bd                     :|
+[2 BG DG Bd | c2 B2 c2 | d2 g3 e     | d3 e dc       !mediumphrase! | BG DG Bd | c2 A2 F2 | G3B AF      | G4   dc       |]
+
 
 
 X: 59
@@ -894,81 +965,6 @@ f    | "Am" e2A cBA      | e2A efg           | "G" d2G BAG      | d2G Bcd       
        "D" faf "C" ege   | "D" dfd "Am" cec  | "G" BdB "Em" BgB | "Am"  BAA A2   :|
 
 
-X: 61
-T: Carolan's Welcome
-R: waltz
-M: 3/4
-L: 1/8
-K: Bmin
-dc | B2 de f2|B2 de f2|ef ed cB|(3ABc A2 F2|
-d3c B2|e3d c2|df F2 A2|B4 dc|
-B2 de f2|B2 de f2|ef ed cB|(3ABc A2 F2|
-a3g f2|b3a fe|df ed cd| B4 :|
-|: B2 | F2 Bc d2|F2 Bc d2|dc BA Bc|d2 F2 F2|
-G2 BG FE| F2 AF ED | E2 F2 A2|B6|
-ba fa b2|afef a2|fe de fd|e2 c2 (3ABc|
-d3c B2|e3d c2|df F2 A2| B4 :|
-
-
-X: 1
-T: Orange In Bloom
-R: waltz
-M: 3/4
-L: 1/8
-K: Gmaj
-|: D2 | "C"  E3 G E2  | "G" D2 G2 A2  | B2 d2 B2      | "Am" A4 BA       |
-        "Am" G3 E E2  | "D" D2 G2 A2  | "C" B2 G2 G2  | "G" G4          :|
-|: A2 | "G"  B3 A Bc  | "Bm" d2 c2 B2 | "Am" A2 G2 A2 | "G" B2 c2 d2     |
-        "C"  e2 d2 B2 | "Am" A2 G2 A2 | "Am" B2 A2 G2 | "C" E4          ||
-   D2 | "C"  E3 G E2  | "G" D2 G2 A2  | B2 d2 B2      | "Am" A4 BA       |
-        "Am" G3 E E2  | "D" D2 G2 A2  | "C" B2 G2 F2  | "G" G4          :|
-
-X: 1
-T: Sweet Jennie Jones
-T: Cadair Idris
-R: waltz
-M: 3/4
-L: 1/8
-K: Dmaj
-|: A2 | "D" d2 A2 F2 | "Bm" D3 E F2  | "Em" G2 B2 e2 | "A" c2 A2 |
-   c2 | "D" d2 A2 F2 | "G"  G3 A B2  | "A" A2 d2 c2  | "D" d4       :|
-|: de | "D" f2 d2 f2 | "A"  e2 c2 A2 | "G" d2 B2 d2  | "A" c2 A2     |
-   de | "D" f2 d2 f2 | "A" e2 c2 A2  | "G" d2 c2 B2  | "A" A4        ||
-   Bc | "D" d2 A2 F2 | "Bm" D3E F2   | "Em" G2 B2 e2 | "A" c2 A2 c2  |
-        "D" d2 A2 F2 | "G" G3A B2    | "A" A2 d2 c2  | "D" d4 |]
-
-X:62
-T: Flatwater Fran
-C: Phil Cunningham
-R: waltz
-M: 3/4
-L: 1/8
-K: Gmaj
-   DE    | "G"  G2 G2 DE |      G2 G2 B/c/d | "C"  e2 d2 G2       | "G"  B4   |
-   DE    | "G"  G2 G2 DE | "Am" A2 A2 GA    | "Em" B2 AG ED       | "C"  E4   |
-   D/E/F | "G"  G2 G2 DE |      G2 G2 B/c/d | "C"  e2 d2 g2       | "G"  B4   |
-   dB    | "Am" A2 AG AB | "Em" AG E2 GE    | "C"  DE G2 "D7" G2  | "G"  G4  :|
-|: B/c/d | "C"  e2 d2 G2 | "G"  B4 B/c/d    | "C"  e2 d2 G2       | "G"  B4   |
-   B/c/d | "C"  e2 d2 g2 | "Em" B2 dB AG    | "Am" A2 AG AB       | "D"  A4   |
-   B/c/d | "C"  e2 d2 g2 | "G"  B2 dB AG    | "D7" A2 "Bm" d3 c   | "Em" B3 B |
-   AG    | "Am" EA AG AB | "Em" AG E2 GE    | "C"  DE G2 "D7"  G2 | "G"  G4  :|
-
-X: 3
-T: Kevin Keegan's
-R: waltz
-M: 3/4
-L: 1/8
-K: Gmaj
-   BG DG Bd | c2 B2 c2 | d2 g3e      |  d3e dc       |
-   BG DG Bd | c2 A3G   | F/G/A d2 D2 |  F/G/A d2 D2  |
-   BG DG Bd | c2 B2 c2 | d2 g3e      |  d3e dc       |
-   BG DG Bd | c2  A2 F2 | G3B AF      |1 G4 dc      :|2 G3 A Bd ||
-|: g3 g g2  | f3 f f2  | e2 f2 g2    |  d3e dc       |
-   BG DG Bd | c2 A3G   | F/G/A d2 D2 |  F/G/A d2 D2  |
-[1 g3 g g2  | f3 f f2  | e2 f2 g2    | d3e dc        |
-   BG DG Bd | c2 A2 F2 | G3B AF      | G3 A Bd      :|
-[2 BG DG Bd | c2 B2 c2 | d2 g3 e     | d3 e dc       |
-   BG DG Bd | c2 A2 F2 | G3B AF      | G4   dc       |]
 
 X:63
 T: Glân Meddwdod Mwyn
@@ -1201,3 +1197,26 @@ K: Amix
 a2ag eged|BdBA G2E2|G3G G2A2|G4:|
 |:e2fg|a2ag eged|Bcd2 e2f2|g3a g2e2|g4 e2fg|
 a2ag eged|BdBA G2E2|G3G G2E2|G4:|
+
+
+X: 3
+T: The Dublin Lads
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+Q: 180
+%|: "G" g3d BG~G2 | "D" ABcA DFAd  | "G" ~g3d Bcde    |1 "D" fdcA "G" GABd  :|2 "D" fdcA "G" ~G3c  ||
+|: "G"BGAF "D" DEFE | ~F2df "C" ecdc | "G" BG"D/A"AF "D"Dfeg    |1 "D" fdcA "G" ~G3c  :|2 "D"fdcA "G"GABc  ||
+|: "G"dg~g2 dg~g2| "D"dffe fgfe  |1 "G"dg~g2 "D"d^cde | fdcA "G"GABc    :|2 "D"defg ~a3g  | fdcA "G" GABd |]
+
+
+X:66
+T: Princess Royal
+Z: J. Lee Othon, from "Bellows" (J. Spiers & J. Boden)
+R: bardnace
+M: C
+L: 1/8
+K: G
+Q: 180
+dc | B2 A2 G2 dc | B2 A2 G2 dd | e2 GG GA dG | C
