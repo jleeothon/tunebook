@@ -1,0 +1,16 @@
+%%printtempo false
+%%infoline   true
+
+
+
+X:22
+T: A ja taká dzivočka
+M: 2/4
+K: Dm
+L: 1/8
+Q: Slovakia
+|: "Dm" f2 f2 | "A" e2 d2 | "A7" A2 g2 | "Dm" f4 | "A7" ed ^ce | "Dm" d2 z2 :|
+|: "F" f2 a2 | a2 a2 | "C7" g2 b2 | "F" a4 | "Gm" gf ef | "A7" g2 "E7" ^g2 | "A" a4 |
+"Dm" f2 f2 | "A" e2 d2 | "A7" A2 g2 | "Dm" f4 | "A7" ed ^ce | "Dm" d2 z2 :|
+T: variation
+|: cdef fede :|
