@@ -770,6 +770,18 @@ K: Gmaj
 |1 "Em" gfe     fed  |      efe  dBA | "Am" BAB GAB | "D7" AGF "G"G2f  :|
 |2 "Em" gfg "D" aga  | "Em" bge dBA  | "Am" B2B GAB | "D7" AGF "G"G3   |]
 
+X: 1
+T: Jimmy Ward's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: D | G3 GAB|AGE GED|GGG AGE|GED DEF|
+G3 GAB|AGE GAB|cBA BGE | DED D2 :|
+|: B | cBA BAG|ABA AGB|cBA BGE|DED GAB|
+cBA BAG|ABA ABc|dcB AGE| GED D2 :|
+
+
 
 X: 61
 T: Tripping Up The Stairs
@@ -788,7 +800,7 @@ R: slide
 M: 12/8
 L: 1/8
 K: Dmaj
-|:dcd e2d .| BAB d2B   |A3 AGA . |B2A G2A |
+|:dcd e2d .| BAB d2B   |A3 AGA . |B2A G2B |
 dcd e2d .  | BAB d2B   |A3 B2A . |G3 G3  :|
 |:d3 def . | g3 gfg    |a3 aga . |b2ag2e  |
 d3 def .   |g3 gfg     |a2gf2e . |def g3 :|
