@@ -939,10 +939,10 @@ R: reel
 M: C|
 L: 1/8
 K: Ador
-|:eAcA eAcA|cdef gedB|G2BG dGBG|cdef g2fg|
-eA c/B/A eA c/B/A|cdef g2fg|afge dBGB|AcBG A2 gf:|
-|:eaag abag|edef gedB|G/F/G BG dGBG|cdef g2fg|
-eaag abag|edef g2fg|afge dBGB|AcBG A2 gf:|
+|: eAcA eAcA         | cdef gedB | G2BG dGBG     | cdef g2fg   |
+   eA c/B/A eA c/B/A | cdef g2fg | afge dBGB     | AcBG A2 gf :|
+|: eaag abag         | edef gedB | G/F/G BG dGBG | cdef g2fg   |
+   eaag abag         | edef g2fg | afge dBGB     | AcBG A2 gf :|
 
 
 X:74
