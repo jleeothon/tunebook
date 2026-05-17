@@ -2,6 +2,103 @@
 %%infoline   true
 
 
+X:24 
+T: Vem kann segla förutan vind
+M: 6/4
+K: Dm
+L: 1/4
+Q: Sweden
+"Dm" d2e f>ed | "Am" a2a a3 | "Gm" b2c' d'>c'b | "Dm" a3 a3 |
+"Gm" g2g b>ag | "Dm" f2f f3 | "Am" e>fe A2^c | "Dm" d3 d3 |]
+W: Vem kan segla för utan vind, vem kan ro utan åror?
+W: Vem kan skiljas från vänen sin utan att fälla tårar?
+W: Vem kan segla för utan vind? Jag kan ro utan åror.
+W: Men ej skiljas från vänen sin utan att fälla tårar?
+W: Vem kan segla för utan vind, vem kan ro utan åror?
+W: Vem kan skiljas från vänen sin utan att fälla tårar?
+
+
+X: 1
+T: H\aargal\aaten
+O: Sweden
+R: hambo
+M: 3/4
+L: 1/8
+K: Gm
+|: "Gm" d2 d>e d>c | c>B B>D G>B   | "D7"B>A A>D ^F>A | "Gm" G>^F G>A B>c  |
+   "Gm" d2 d>e d>c | c>B B>D G>B   | "D7"B>A A>D ^F>A | "Gm" G2 G4        :|
+|: "Bb" B>c d2 B2  | "F7"c>d e2 c2 | f2 f>g f>e        | "Bb" e>d d4        |
+   "Bb" B>c d2 B2  | "F7"c>d e2 c2 | f2 f>g f>e        | "D7" e>d d4        |
+   "Gm" d2 d>e d>c | c>B B2 G>B    | "D7" B>A A>D ^F>A | "Gm" G>^F G>A B>c   |
+   "Gm" d2 d>e d>c | c>B B2 G>B    | "D7" B>A A>D ^F>A | "Gm" Gz G4         :|
+|: "Gm" G2 {AG}^F2 G2 | "D7"A2 {BA}G2 A2 | "Gm" B>c B>A B>c  | "D7"d2- d>c B>A  |
+   "Gm" G2 {AG}^F2 G2 | "D7"A2 {BA}G2 A2 | "Gm" B>c B>A B>c  | "Bb"d2 e2 =e2    |
+   "F7" f>e c2 (3cde  | "Bb"d>c B4       | "D7" d>c A2 (3ABc | "Gm"B>A G4       |
+   "Cm" g>e c2 (3cde  | "Gm"d>B G2 G>B   | "D7" A2 A>c B>A   | "Gm"Gz G4       :|
+
+
+X:23
+T: Målselvhallingen
+M: 4/4
+K: Ddor
+L: 1/8
+Q: Scandinavia
+D2 DE F2 FG | A2 AB A2 z2 | d2 df e^c A2 | d2 ef e^c A2 |
+D2 DE F2 FG | A2 AB A2 z2 | d2 ef e^c A^c | d4 z4 ||
+a2 a2 a^g ge | f2 ^gf e2 z2 |  fe d^c de f2 | ed ^cd e2 A2 | 
+a2 a2 a^g ge | f2 ^gf e2 z2 | fe df e2 A^c | d4 d4 |]
+
+X:330
+T: Kjerringa med staven
+O: Norway
+R: Springdans
+M: 3/4
+L: 1/8
+K: G
+N: TO BE TRANSPOSED TO C MAJOR
+"G"d2d2B>B|"G"d4B2|"G"d2d>d B>B|"G"d4B2|
+|:"G"G>A B>c d>B|"G"A>B c>d B2:|"G"G2B2A>F|"G"G4G2|]
+W:Kjerringa med staven, h\ogt oppi Hakadalen.
+W:\AAtte potter r\omme, fire merker smør,
+W:s\aa kinna Kari, Ola hadde før.
+W:Kjerringa med staven.
+
+X:9830 
+T: Jens Vejmand / Hvem sidder der bag skæarmen
+O: Denmark
+M: 4/4
+L: 1/4
+K: D
+N: to be transposed to C major 
+A, | "D" D>E FG | "A" A2 "D" AB | "Bm" FF "A" EE | "D" D3 |
+A, | "D" D>E FG | "A" A2 "D" AA | "Bm" B>c "E7" A^G | "A" A3 ||
+d  | "F#m" cA "G" BG | "D" A2 A B  | "D7" AF "Em" GE | "F#" F3 |
+D  |"G" E E "E7/G#" E E | "A" E2 "D" F "G" G | "D" FF "A" EE | "D" D3 |]
+
+
+
+X:9829
+T:P\aal sine høner
+C:anon.
+O:Norway
+R:Reinlender
+M:C|
+L:1/8
+K:D
+"D"d2d>fa2a>f|"G"b2b>g"D"a2a2|"A7"g2g>e"D"f2f>d|"A7"e2e>c"D"d2z2:|
+"D"a2zfd2zf|"E7"e2e>d"A7"c2A2|"D"a2zfd2zf|"E7"e2e>d"A7"c2A2|
+"D"d3fa3f|"G"b2b>g"D"a2a2|"A7"g2g>e "D"ff fd|"A7"e2e>c"D"d2z2|]
+W:P\aal sine h\oner p\aa haugen utslepte,
+W:h\ona s\aa lett over haugane sprang.
+W:P\aal kunne vel p\aa h\ona fornemma,
+W:reven var ute med rumpa s\aa lang.
+W:
+W:Klukk, klukk, klukk, sa h\ona p\aa haugen.
+W:Klukk, klukk, klukk, sa h\ona p\aa haugen.
+W:P\aal han sprang og rengde med auga:
+W:"No t\or eg ikkje koma heim \aat ho mor."
+
+
 
 X:22
 T: A ja taká dzivočka
@@ -14,3 +111,14 @@ Q: Slovakia
 "Dm" f2 f2 | "A" e2 d2 | "A7" A2 g2 | "Dm" f4 | "A7" ed ^ce | "Dm" d2 z2 :|
 T: variation
 |: cdef fede :|
+
+
+X:1
+T:Wellerman, The
+M:4/4
+L:1/8
+K:Em
+B2 | "Em" E2EE E2G2 | B2B2 B2BB | "Am" c2AA A2cc | "Em" eeB2 B2>B2 |
+"Em" E2 F2 G2 A2 | B2 B2 B2>A2 | "B" B2 A2 GG F2 | "Em" E6 z2 ||
+"C" e4 e3c | "G" ddB2 B3B | "Am" c2A2 ABc2 | "Em" e2B2 B2 z2 |
+"C" e4 e2cc | "G" dd B2 B3B | "B" B2A2 G2F2 | "Em" E6 |]
