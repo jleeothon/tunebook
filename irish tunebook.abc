@@ -318,20 +318,6 @@ Q: Shropshire Morris tune
 
 %%newpage
 
-X:22
-T: Kyckling Polka
-M: 2/4
-K: Clyd
-L: 1/8
- "C" GG GG | GG e2 | "G" GG "G" d2 | "C" GG c2 |
- "C" GG GG | GG e2 | "G" GG dG | "C" c4   :|
-L: 1/16
-|: "Am" cBAB cBAc | "E" B2ee e2e2 | "Am" cBAB cBAc |1 "E" B2E2 E4   :|2 "E" e8||
-|: "C" edcd edce | "G" dcBc dcBd | "F#dim" cBAB cAFA | "G" GABc dGBd   |
-   "C" edcd edce | "G" dcBc dcBd | "F#dim" cBAB cAFA | "G" A2G2 GGBd  :|
-
-%%newpage
-
 X:23
 T: Bonaparte's Grand March
 R: march
