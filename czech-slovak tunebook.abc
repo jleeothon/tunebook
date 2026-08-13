@@ -1,0 +1,58 @@
+%%printtempo false
+%%infoline   true
+
+
+
+X:22
+T: A ja taká dzivočka
+M: 2/4
+K: Dm
+L: 1/8
+Q: Slovakia
+|: "Dm" f2 f2 | "A" e2 d2 | "A7" A2 g2 | "Dm" f4 | "A7" ed ^ce | "Dm" d2 z2 :|
+w: A ja ta-ka dzi-voč-ka, cin-gi ľin-gi bom.
+w: Ra-da vi-jem pi-reč-ka, cin-gi ľin-gi bom.
+|: "F" f2 a2 | a2 a2 | "C7" g2 b2 | "F" a4 | "Gm" gf ef | "A7" g2 "E7" ^g2 | "A" a4 |
+w: Ra-da vi-jem, ra-da dam, cin-gi ľin-gi bom, bom, bom!
+"Dm" f2 f2 | "A" e2 d2 | "A7" A2 g2 | "Dm" f4 | "A7" ed ^ce | "Dm" d2 z2 :|
+w: i za ka-lap za-kla-dam, cin-gi ľin-gi bom.
+T: variation
+|: "Dm" f2 f2 | "A" e2 d2 | "A7" A2 g2 | "Dm" f4 | "A7" ed ^ce | "Dm" d2 z2 :|
+|: "F" f2 a2 | a2 a2 | "C7" g2 b2 | "F" a4 | "Gm" gf ef | "A7" g2 "E7" ^g2 | "A" a4 |
+"Dm" f2 f2 | "A" e2 d2 | "A7" A2 g2 | "Dm" f4 | "A7" ed ^ce | "Dm" d2 z2 :|
+W: 2.
+W: A ja taka jak i mac, cingi ľingi bom,
+W: čarne oči mušim mac, cingili ľingi bom.
+W: Čarne oči mac mala, cingi ľingi, bom, bom, bom,
+W: ja še na ňu podala, cingi ľingi bom.
+W: 3.
+W: A ty cigan šumňe hraj, cingi ľingi bom,
+W: na dzivčata ňežmurkaj cingi ľingi bom.
+W: Na dzivčata, na šumne, cingi ľingi bom, bom, bom,
+W: naj ňechodza po humňe, cingi ľingi bom.
+W: 4.
+W: A ti cigan šaľeni, cingi ľingi bom,
+W: čerajme še na ženi cingi ľingi bom.
+W: [:Tvoja čarna kandrata, cingi lingi bom, bom, bom,
+W: moja bila bohata, cingi lingi bom.
+
+X:22
+T: U Dunaja šaty perú
+M: 2/4
+K: Dm
+L: 1/8
+Q: Slovakia
+"Dm" FE FG | "Am" A G3 | "Dm" D4 | D4 | "Dm" c=B cd | "Am" e d3 | "Dm" A4 | A4 |
+w: U Du-na-ja ša-ty pe-rú, kde hu-sá-ri ma-ší-ru-jú. 
+|: "F" c2 =B2 | "C" c2 d2 | "Dm" A2 d2 | "Gm" A2 G2 | "Dm" FE FG | "Am" A G3 | "Dm" D4 | D4 :|
+w: Po-zna-la mi-lá mi-lé-ho smut-ně vo-la-la na ně-ho.
+W: 2.
+W: Milý, milý, milujem ťa, 
+W: za sto zlatých vyplatím ťa.
+W: Za sto zlatých mňa nedajú,
+W: lebo husárů nemajú.
+W: 3.
+W: Ked bych já byl sprostý voják,
+W: bylo by to všecko ináč,
+W: ale já sem velkým pánem
+W: u švadrony kapitánem.
