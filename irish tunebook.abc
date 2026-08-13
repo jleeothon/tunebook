@@ -293,7 +293,7 @@ K: Dmix
 
 X:20
 T: Rattling Bog
-R: polka or march
+R: march
 M: 2/2
 K: Dmaj
 L: 1/4
@@ -354,10 +354,24 @@ R: march
 M: 4/4
 L: 1/8
 K: Amix
-|: E2FG     |A4 A3A      |ABAG E2D2|B2d2 e2B2|d4       |
-   e2fg     |a3g eged    |BdBA G2E2|G3G G2E2 |G4      :|
-|: e2fg     |a3g eged   |B3d e2f2 |g3f g2a2 |g4       |
-   e2fg     |a3g eged   |BdBA G2E2|G3G G2E2 |G4      :|
+|: E2FG     | A4 A3A     | ABAG E2D2 | B2d2 e2B2 | d4       |
+   e2fg     | a3g eged   | BdBA G2E2 | G3G G2E2  | G4      :|
+|: e2fg     | a3g eged   | B3d  e2f2 | g3f g2a2  | g4       |
+   e2fg     | a3g eged   | BdBA G2E2 | G3G G2E2  | G4      :|
+
+
+X: 11
+T: Lord Mayo
+R: march
+M: 4/4
+L: 1/8
+K: Ador
+|: E2 | A2G2 A2B2 | e3g edBd  | e2A2 A2BA  | GAGF E2    |
+   E2 | A2G2 A2B2 | e3f g3f   | e3g edBG   | A4 A2     :|
+|: e2 | a2a2 gega | b2b2 bag2 | e2d2 deg2  | G3A G2     |
+|1 e2 | a2a2 gega | b2b2 bag2 | e2d2 de gb | a4 a2     :|
+|2 E2 | AGAB d2B2 | A2G2 g3e  | d3G BdBG   | A4 A2     ||
+
 
 %%newpage
 
@@ -668,7 +682,7 @@ K: Gmaj
 X: 49
 T: O'Sullivan's March (2)
 R: jig
-Z: J. Lee Othon based on Brian Hugh's
+Z: J. Lee Othon based on Brian Hughes'
 M: 6/8
 L: 1/8
 K: Gmaj
@@ -677,7 +691,6 @@ P: with swing
         "G" GBA "D" AB/c/d | "Em" edB "D" AB/c/d      | "C" e2g "G" dBG  |1 "D" AGF "G" G2D  :|2 "D" AGF "G" GB/c/d ||
 |: "Em" e2e "D" edB        | "C" e2e "D" edB         | "G" d3 "D" d (3c/d/e/ f |  "G" gdB "D" A2G  |
    "Am" cBc "D/F#" dcd | "C/B" e/f/gB "Am" A2B | "G" GED B2A |1 AGF GB/c/d :|2 AGF G3 |]
-% TO DO upload to The Session
 
 
 X: 50
@@ -871,7 +884,7 @@ dBB fBB  |fgf fed|cBc ABc |1 dfe d2c :|2 dfe dAG |]
 X:123
 T: The Old Tipperary
 T: Sean Tiobrand Árann
-R: jib
+R: jig
 M: 6/8
 L: 1/8
 K: G
@@ -895,6 +908,23 @@ K: Emin
 |:eBB e2f g2f|eBB efg afd|eBB e2f g2a|bag fag fed:|
 |:edB dBA G2D|GAB dge dBA|edB dBA G2A|BAG FAG FED:|
 
+
+
+X: 8
+T: The Humours Of Ballyloughlin
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+Q: 200
+|: "^A⃣" G | A3 AGE| GED D2B | c3 ded | cAG FED |
+A3 AGE | G3 cGE | DED DFA | DED D2 :|
+|: "^B⃣" B | c3 cBc | cBG ABc | ded ded | dAF DFA |
+c3 ded | cAG FEA | DED DFA | DED D2 :|
+|: "^C⃣" e | fdd gdd | fdd ged | ^cde ged | ^cde g2e |
+fdd gdd | fdd ged | ^cde gag | ed^c d2 :|
+|: "^D⃣" G | A3 A2G | F3 GED | E3 EFD | EFG EFG | 
+A3 dAG | F3 GEA | DED DFA | DED D2 :|
 
 
 
@@ -1260,7 +1290,7 @@ K: Dmaj
 X:91
 T: Flatwater Fran
 C: Phil Cunningham
-R: mazurka
+R: waltz
 M: 3/4
 L: 1/8
 K: Gmaj
@@ -1289,6 +1319,24 @@ K: Gmaj
    BG DG Bd | c2 A2 F2  | G3B AF      | G3 A Bd      :|
 [2 BG DG Bd | c2 B2 c2  | d2 g3 e     | d3 e dc       |
    BG DG Bd | c2 A2 F2  | G3B AF      | G4   dc       |]
+
+
+X: 6
+T: Leaving Uist
+R: waltz
+M: 3/4
+L: 1/8
+K: Emin
+% A
+   ed | "Em" B3 A AG | "D/F#" AG E2 EG | "Am" A3 c B2        | "C" e3 e de   |
+        "G"  g3 a ag | "Em" ed B2 BA   | "Am" G3 B "Bm" AG   | "Em" E4 ed    |
+        "Em" B3 A AG | "D/F#" AG E2 EG | "Am" A3 c B2        | "C"  e3 e de ||
+        "G"  g3 a ag | "Em" ed B2 BA   | "G" G3 B de         | "Am" A4      :|
+% B
+|: aa | "C" a3 g ab   | "Am" ag e2eB    | "G" d3 e g2         | g4 ag         |
+         "C" de ga ed | "G" AB de AG    | "Am" EG AB "Bm" AG  | "Em" E4 ed   ||
+         "Em" B3 A AG | "D/F#" AG E3 G  | "Am" A3 c B2        | "C" e3e de    |
+         "G" g3 a ag  | "Em" ed B3 A    | "G" G3 B de         | "Am" A4      :|
 
 
 
@@ -1814,13 +1862,12 @@ zDGA :|
 X:125
 T: Another Winter
 C: Calum Stewart
-R: reel
+R: march
 M: 4/4
 L: 1/8
 Q: 1/4=115
-K: Am
-cB | Aeed edcB |: AG G/A/B c3E | FccB c2BA | FAcd B4 |
-A2AB c3B | cBcg e2d2 | d^FGd- ddcd |1 G^Fe2 d3g | gaed edcB :|2 G^Fe2 d4 ||
-M: 4/4
-"^Coda" g2 ab | c'8- | c'4 b2ag | a8- | a8 |
-ed3 zd/c/ cd- | d4 z^FGc | ed3 zc/B/ Bc- | c4 B2AG | G8- | G4 |] 
+K: Ador
+cB | Aeed edcB |: AG G/A/B c3E | =FccB c2BA | =FAcd B4 |
+A2AB c3B | cBcg e2d2 | dFGd- ddcd |1 GFe2 d3g | gaed edcB :|2 GFe2 d4 ||
+"^Interlude" g2 ab | c'8- | c'4 b2ag | a8- | a8 |
+ed3- dd/c/ cd- | d4 zFGc | ed3- dc/B/ Bc- | c4 B2AG | A8- | A4 |]
