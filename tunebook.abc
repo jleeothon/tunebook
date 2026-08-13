@@ -27,7 +27,7 @@ K: Gmaj
            "C" e2d2 "G" g3e | dedB G2 "D" Ac | "G" B2AG "C" E2 "D" D/E/F  | "G" G4      G2            |]
 
 
-X: 4
+X: 3
 T: Lucy Farr's (G major)
 R: barndance
 M: 4/4
@@ -39,7 +39,7 @@ K: Gmaj
            "G" BcdB "C" G2G2 | "G" GABG "C" E2D2 | "G" DEGA BddB | "D7" A2 "G" G2G2     :|
 
 
-X: 3
+X: 4
 T: Kilnamona
 R: barndance
 M: 4/4
@@ -94,7 +94,7 @@ Q: 180
         "Am" c2B2 A2G2 | "D" FGAF D2dc | "C" BAGB "D" AGGF   | "G" G6         :|
 
 
-X: 1
+X: 8
 T: Terry Teehan's
 T: Deireadh Fómhair
 R: barndance
@@ -110,7 +110,7 @@ Beef g2fe|d2Bd ADFA|Beed BAFA| DEED EFGA|]
 
 %%newpage
 
-X: 8
+X: 9
 T: The Sloe
 R: polka
 M: 2/2
@@ -122,7 +122,7 @@ A    | "D" dA de  | "Bm" f>e dc | "G" BA "A"Bc       | "D" d2 d  :|
 d/d/ | "D" dc "A" ce/e/ | "D" ed df/f/    | "G" fe "A" Bc       | "D" d2 d :|
 
 
-X: 9
+X: 10
 T: Walter Bulwer's 1
 R: polka
 M: 4/4
@@ -134,7 +134,7 @@ K: DMaj
 |: fg | "D" a2fg a2fg | "D" agfg "A" e4 | "A" e2a2 gfe2 | "D" dcde fefg | 
         "D" a2fg a2fg | "D" agfg "A" e4 | "A" e2a2 gfec | "D" d2f2 d2 :| 
 
-X:10
+X:11
 T: Walter Bulwer's 2
 R: polka
 M: 4/4
@@ -145,7 +145,7 @@ K: Dmaj
 |: "D" AA "G/D" BB | "D/F#" AA "D" F2 | "A/G" GG "A" E/F/G      | "D" AA F/G/A | 
    "D" AA "G/D" BB | "D/F#" AA "D" F2 | "A/G" GG "A" E/G/F/E/   | "D" DF D2 :|
 
-X: 11
+X: 12
 T: The Scartaglen
 R: polka
 M: 2/2
@@ -160,7 +160,7 @@ ge e/f/g/e/|dB g>e|dB AB/A/|G2 G2:|
 
 %%newpage
 
-X:12
+X:13
 T: The Ballydesmond 1
 R: polka
 M: 2/4
@@ -171,7 +171,7 @@ K: Ador
 |: "Am"a>g ab | "C" ag ef   | "G"g>f ga        | "G/D"ge ed  |
    "Am"ea ab  | "C" ag ef   |"G"ge dB          | "Am"A2 A2  :|
 
-X:13
+X:14
 T: The Ballydesmond 2
 R: polka
 M: 2/4
@@ -182,7 +182,7 @@ K: Ador
 |:"Am"ea ag/e/      | "G"dg ge/d/        | "Am"ea ab     | "Em"g2 ed  |
 "Am"ea "Em"g/a/g/e/ | "G"dB GA/B/        | "Am"ce "Em"dB | "Am"A2 A2 :|
 
-X: 14
+X: 15
 T: The Ballydesmond 3
 R: polka
 M: 2/4
@@ -195,7 +195,7 @@ K: Gmaj
 
 %%newpage
 
-X: 15
+X: 16
 T: The Ballyhoura Mountains (G major)
 R: polka
 M: 2/4
@@ -207,7 +207,7 @@ K: Gmaj
    gd ed|Bd ed|Bc/B/ AG/A/|BG G2:|
 
 
-X: 16
+X: 17
 T: The Kerry Polka
 T: Peg Ryan's, John Egan's
 R: polka
@@ -219,7 +219,7 @@ K: Dmaj
 |: "D" fa f>e  | ed BA | "G" d2 e>f | "D" ed BA   |
    "D" fa f>e  | ed BA | "G" d2 e>f | "D" ed d2  :|
 
-X:17
+X:18
 T: Britches Full Of Stitches
 R: polka
 M: 2/4
@@ -230,7 +230,7 @@ K: Dmaj
 |: "D" a>b af   | "A" ed ef | "D" a>b af   | "G" ede2  |
    "D" a>b af   | "A" ed ef | "G" d>e dB | "A" BA "D" A2 :|
 
-X:18
+X:19
 T: The Rakes of Mallow
 R: polka
 M: 2/4
@@ -241,7 +241,7 @@ K: Gmaj
 |: "G" gf/e/ dc | Bc d2       | gf/e/ dc                  | Bc "D" A2   |
 "G" gf/e/ dc    | Bc d2       | "C" c/B/A/G/ "D" F/G/A/c/ | "G" BG G2  :|
 
-X: 19
+X: 20
 T: Chanter's Tune
 R: march
 M: 2/4
@@ -252,7 +252,7 @@ K: Dmix
 |: A>B cB/c/ | A/G/A/B/ cB/c/ | dA AG/E/ | cB/c/ AG/E/  |
    DD AG/E/  | DD cB/c/       | dA AG/E/ | D2 D2       :|
 
-X: 1
+X: 21
 T: The White Cockade
 R: polka
 M: 2/4
@@ -266,7 +266,7 @@ BB/d/ c/B/A/G/|Bd g>a|b/a/g/f/ e/f/g/e/|dB B:|
 
 
 
-X: 119
+X: 22
 T: Parson's Farewell (Am)
 R: barndance
 M: 4/4
@@ -278,7 +278,7 @@ c2 A2 A2 Bc|d2 G2 G3 G|AB c2 B2 A2|G2 E2 E2 e2||
 Bc d2 Bc d2|c2 A2 AB cd|e2 dc BA B2|1 A6 e2:|2 B2 A6||
 
 
-X:120
+X:23
 T:Parson's Farewell (Bm, for whistle)
 R:barndance
 M:4/4
@@ -291,7 +291,7 @@ cd e2 cd e2|d2 B2 Bc de|f2 ed cB c2|1 B6 f2:|2 c2 B6||
 
 
 
-X:20
+X:24
 T: Rattling Bog
 R: march
 M: 2/2
@@ -303,7 +303,7 @@ d/e/ | "D" f2 f>e | "G" dB B>B | "D" Aa af       | "A" ed "D" d/A/ :|
    d/e/ | "D" fd "A" ed/e/ | "D" fd "A" ed/e/ | "D" fa af | "A" ed "D" d/A/ :|
 
 
-X:21
+X:25
 T: Traveller's Joy
 C: Janet May
 R: polka
@@ -318,7 +318,7 @@ Q: Shropshire Morris tune
 
 %%newpage
 
-X:23
+X:26
 T: Bonaparte's Grand March
 R: march
 M: 4/4
@@ -333,7 +333,7 @@ K: D
    fg       | "D" a2 aa "G" b2 bb    | "D" a2 aa f2 af        | "G" g2 gg "D" f2 af       | "G" g>f ed "A" e2  |
    A/d/e/f/ | "G" gf ed "A" ce A2    | "D" aa ff dd A2        | fA d/e/f/a/ "G" gf "A" ef  | "D" d2 d>c d2 |]
 
-X: 24
+X: 27
 T: Bony Crossing The Alps
 T: Napóilean Ag Trasnú Na NAlp
 R: march
@@ -346,7 +346,7 @@ K: Amix
    e2fg     | a3g eged   | BdBA G2E2 | G3G G2E2  | G4      :|
 
 
-X: 11
+X: 28
 T: Lord Mayo
 R: march
 M: 4/4
@@ -361,7 +361,7 @@ K: Ador
 
 %%newpage
 
-X: 25
+X: 29
 T: The Boys Of Bluehill
 R: hornpipe
 M: 4/4
@@ -373,7 +373,7 @@ dB    | "D" BAFA "D/F#" D2FA | "G" BA (3Bcd "A" e2 de | "D" faaf "G" egfe | "D" 
 dB    | "D" BAFA "D/F#" D2FA | "G" BA (3Bcd "A" e2 de | "D" faaf "G" egfe | "D" d2 dc d2  :|
 W: On the third measure of each line, some sessions play fagf instead of faaf.
 
-X: 26
+X: 30
 T: The Harvest Home
 R: hornpipe
 M: 4/4
@@ -384,7 +384,7 @@ K: Dmaj
 |:cd | "A" eA (3AAA fA (3AAA | gAfA eA (3AAA | "A" eAfA gAfA | "A" (3efe (3dcB (3ABA (3GFE |
        "D" DAFA DAFA         | defe dcBA     | "A" eAfA gece | "D" d2 f2 d2   :|
 
-X: 27
+X: 31
 T: Off To California
 R: hornpipe
 M: 4/4
@@ -395,7 +395,7 @@ K: Gmaj
 |: (3def | "G" gfeg "D" fedf | "C"edef "Em"  edBd  | "G"gfgd "Em"edBG | "Am" ABAG "D" E2 |
 (3DEF    | "G"GFGB "D"AGED   | "G"GBdg "C"e2 (3def | "G"gfgd "Em"edBG | "D" (3ABA GF "G" G2   :|
 
-X:28
+X:32
 T: Liverpool Hornpipe
 R: hornpipe
 M: 4/4
@@ -406,7 +406,7 @@ K: Dmaj
 |: A2 | "D" d2fd "A" c2ec | "Bm" BABc "D/F#" dcBA | "G"G2BG "D"F2AF | "A"EDEF GBAG |
         "D" FDFA dfaf | "G"gfec "D"dcBA | "G"dfaf "A"bgec | "D"d2 "A"d2 "D"d2 :|
 
-X: 29
+X: 33
 T: The Sailor's
 R: hornpipe
 M: 4/4
@@ -417,7 +417,7 @@ K: Gmaj
 |: dc | "G" Bdgd Bdgd    |  "C" e2c2c2ed | "A" ^ceae ^ceae | "D" f2d2d2   |
    ef | "G"gfed "C" edcB    | "Am" cBAG "G" GFED | "C" EGFA "G" GB"D"Ac   | "G"B2G2G2 :|
 
-X: 30
+X: 34
 T: Portsmouth
 O: England
 R: hornpipe
@@ -430,7 +430,7 @@ G3A BAGF|E4e4|d2B2cBAB|G6:|
 G3A BAGF|E4e4|d2B2cBAB|G6:|
 
 
-X: 31
+X: 35
 T: The Rake
 C: Robert White
 R: hornpipe
@@ -445,7 +445,7 @@ K: Gmaj
 BGDG BGdB | (3gfg (3agf gdBG | (3Bcd gd cAFG         | AGGF G2        |]
 
 
-X:32
+X:36
 T: The Humours Of Tullycrine
 R: hornpipe
 M: 4/4
@@ -456,7 +456,7 @@ K: Ador
 |:cd | "Am"eaab aged | eaab aged | "Em" egga ged2      |"C/G"(3efg "D"(3fga "Em"gedB  |
        "Am"AGAB cBcd | eaag e2dB | "C" c2(3ABc "G"dBGB |"G/D"BAAG "Am"A2             :|
 
-X: 33
+X: 37
 T: The Rights Of Man
 R: hornpipe
 M: 4/4
@@ -470,7 +470,7 @@ K: Emin
 %%newpage
 
 
-X: 34
+X: 38
 T: The Blackthorn Stick
 R: jig
 M: 6/8
@@ -481,7 +481,7 @@ K: Gmaj
 |: d | "C" edd "G" gdd | "C" edd "G" gdd | "C" e2e "G" gfg  | "C" edB "D" A2d   |
        "G" gfg "D" age | "G" dBG "D" AGE | "G" DGG "D" FGA | "G" BGG G2   :|
 
-X: 35
+X: 39
 T: The Irish Washerwoman
 T: An Bhean Níocháin Éireannach
 R: jig
@@ -495,7 +495,7 @@ K: Gmaj
 
 
 
-X: 36
+X: 40
 T: Out On The Ocean
 R: jig
 M: 6/8
@@ -507,7 +507,7 @@ K: Gmaj
    "G" G2A B2d | "C" ege "G" dBA | "C" GED "G" G2A  |1 "D" BGF "G" GBd :|2 "D" BGF "G" GFE |]
 
 
-X: 37
+X: 41
 T: The Frost Is All Over
 R: jig
 M: 6/8
@@ -520,7 +520,7 @@ K: D
 
 
 
-X: 38
+X: 42
 T: Morrison's
 R: jig
 M: 6/8
@@ -534,7 +534,7 @@ K: Edor
   "C"g3 gfe|"G"def g2d|"D"edc d2A|"C"BAG "D"FED |]
 
 
-X: 39
+X: 43
 T: The Kesh
 R: jig
 M: 6/8
@@ -545,7 +545,7 @@ K: Gmaj
 |:"G"B2B dBd|"C"ege dBA|"G"B2B dBG|"D"A2 A AGA|
 "G"B2B dBd|"C"ege dBd|"Am"gfg aga|"D"bgf "G"g3:|
 
-X: 40
+X: 44
 T: Banish Misfortune
 R: jig
 M: 6/8
@@ -560,7 +560,7 @@ K: Dmix
 
 
 
-X: 41
+X: 45
 T: Hag At The Churn
 R: jig
 M: 6/8
@@ -571,7 +571,7 @@ K: Dmix
    "D" AdB "Am7" c2G | "D" Add "Am" efg | "C" fge "G" dcA| "Am7" GEF "D"GED |]
 
 
-X: 42
+X: 46
 T: The Blarney Pilgrim
 R: jig
 M: 6/8
@@ -584,7 +584,7 @@ K: Dmix
 |: "D" A2D "G" B2D | "D" A2D ABc | "C" BAG AGE | GEA GED     |
    "D" ADD "G" BDD | "D" ADD ABc | "C" BAG AGE | GED "D" D3 :|
 
-X: 43
+X: 47
 T: The Lilting Banshee
 R: jig
 M: 6/8
@@ -596,7 +596,7 @@ K: Ador
    "Am" eaa age | "G" dBA G2A | "Em" Bee edB | "Am" dBA A3 :|
 
 
-X: 44
+X: 48
 T: The Tenpenny Bit
 R: jig
 M: 6/8
@@ -608,7 +608,7 @@ K: Ador
 "Am" eaa aga | "G" bag ged | "D" def "G" gdB | BAG "Am" A3      :|
 
 
-X: 45
+X: 49
 T: Emmett's Hedgehog
 R: jig
 M: 6/8
@@ -621,7 +621,7 @@ K: Ador
 
 
 
-X: 46
+X: 50
 T: The Lark In The Morning
 R: jig
 M: 6/8
@@ -640,7 +640,7 @@ K: Dmaj
    "D" Add fdd | "A" edB def     | "G" g2e fed      | "A" edB BAB :|
 
 
-X: 47
+X: 51
 T: Repeal The Union
 R: jig
 M: 6/8
@@ -653,7 +653,7 @@ K: Gmaj
 |: "G" GAG B2c      | "D" ded "G" B2d  | "C" cBc "D" A2c   | "G" BAB G2 D      |
    "G" GAG B2c      | "D" ded "G" B2d  | "C" cBc "D" A2F   | "G" G3 G3        :|
 
-X: 48
+X: 52
 T: O'Sullivan's March
 T: The Rock and Wee Pickle Tow
 R: jig
@@ -665,7 +665,7 @@ K: Gmaj
 |: g | "Am" e2g e2g        | ege edB              | "G" ded dBd | egB "Em" BAG  |
        "Am" cBc "D" dcd | "C" egB "D" A2G    | "G" GBA "C" B2G   | "D" AGG "G" G2      :|
 
-X: 49
+X: 53
 T: O'Sullivan's March (2)
 R: jig
 Z: J. Lee Othon based on Brian Hughes'
@@ -679,7 +679,7 @@ P: with swing
    "Am" cBc "D/F#" dcd | "C/B" e/f/gB "Am" A2B | "G" GED B2A |1 AGF GB/c/d :|2 AGF G3 |]
 
 
-X: 50
+X: 54
 T: An Sean Duine Dóite
 T: John Dunn's, The Burnt Old Man
 C: after The Chieftains
@@ -694,7 +694,7 @@ K: Gmaj
 
 %%newpage
 
-X: 51
+X: 55
 T: The Holly Bush
 T: Three Little Drummers
 R: jig
@@ -706,7 +706,7 @@ K: Gmaj
 |: "G" gdd gdd     | gdd "Bm" dcB    | "Am" Acc Acc    | Acc "D" cBA      |
    "G" BAB "D" cdc | "G" BAG "C" Adc | "G" BAG "C" edB | "D" def "G" g3  :|
 
-X: 52
+X: 56
 T: Patsy Geary's
 R: jig
 M: 6/8
@@ -717,7 +717,7 @@ L: 1/8
 |: "A"  e3 efe   | "D"dBA "A/E" A2 d | "G" BAB "Em" g2 e | "D" fdB "D7" AB/c/d  |
    "A"  e3 efe   | "D"dBA "A/E" A2 g | "D" fga "G" bge   | "D" dBA "D7" AB/c/d :|
 
-X: 53
+X: 57
 T: The Old Favourite
 T: Club Ceili, Kilfenora Jig
 R: jig
@@ -732,7 +732,7 @@ K: Gmaj
 
 %%newpage
 
-X: 54
+X: 58
 T: The Rolling Waves
 R: jig
 M: 6/8
@@ -744,7 +744,7 @@ K: Dmaj
    "D" D2d "A" cAd | "D" fed "A"cAG | "D" FAF "G" GBG | "D" A2F "A" GFE :|
 
 
-X: 55
+X: 59
 T: My Darling Asleep
 R: jig
 M: 6/8
@@ -756,7 +756,7 @@ e    | "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "G" gfg "A" eag  |
        "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "A" gec "D" d2  :|
 
 
-X: 56
+X: 60
 T: Allistrum's March (after The Gloaming)
 R: jig
 M: 6/8
@@ -769,7 +769,7 @@ K: Dmaj
 
 
 
-X: 57
+X: 61
 T: Paddy In London
 R: jig
 M: 6/8
@@ -783,7 +783,7 @@ AG      | FDF ABc | dec def  | AGF G2A   | BGE EDE  |
           gfg f3 | gfe d2A   | Bcd edB   | AFD D   |]
 
 
-X: 58
+X: 62
 T: The Humours Of Kiltyclogher
 R: jig
 M: 6/8
@@ -795,7 +795,7 @@ K: Ador
     c2B c2d|ecA ABc|BAG GEG|A3 A2 :|
 
 
-X:59
+X:63
 T: Allistrum's March (after The Chieftains)
 R: jig
 M: 6/8
@@ -807,7 +807,7 @@ K: D
 |:B2A BFF|B2A BEE|B2A BFF|1B2A BEE:|2B2A BAG:]
 
 
-X: 60
+X: 64
 T: The Castle
 R: jig
 M: 6/8
@@ -823,7 +823,7 @@ V:A    cBc dcd    | ede gab | age dBG     | EFG A2 B  :|
 
 %%newpage
 
-X: 61
+X: 65
 T: Donnybrook Fair
 T: Aonach Domhnach Broc
 R: jig
@@ -838,7 +838,7 @@ D | "G" GFG "D" AGA   | "Em" Bee dBA  | B3 "C" GAB      | "Am" AGE E2D    |
 |2 "Em" gfg "D" aga  | "Em" bge dBA  | "Am" B3 "C" GAB | "D7" AGF "G"G2   |]
 
 
-X: 62
+X: 66
 T: Jimmy Ward's
 R: jig
 M: 6/8
@@ -854,7 +854,7 @@ Q: 180
 
 
 
-X: 63
+X: 67
 T: Tripping Up The Stairs
 R: jig
 M: 6/8
@@ -867,7 +867,7 @@ dBB fBB  |dBB fed|cAA eAA |  efe edc   |
 dBB fBB  |fgf fed|cBc ABc |1 dfe d2c :|2 dfe dAG |]
 
 
-X:123
+X:68
 T: The Old Tipperary
 T: Sean Tiobrand Árann
 R: jig
@@ -881,7 +881,7 @@ bag agf | gfe f2e | dcA d2e | fed cAF :|
 W: I learned this from Mark Redmond in Proitze in 2026.
 
 
-X:65
+X:69
 T: The Kid on the Mountain
 T: Bogadh Faoi Shúsa
 R: slip jig
@@ -896,7 +896,7 @@ K: Emin
 
 
 
-X: 8
+X: 70
 T: The Humours Of Ballyloughlin
 R: jig
 M: 6/8
@@ -914,7 +914,7 @@ A3 dAG | F3 GEA | DED DFA | DED D2 :|
 
 
 
-X: 66
+X: 71
 T: Hunting The Squirrel
 O: England
 R: jig
@@ -927,7 +927,7 @@ K: Gmaj
    "G" dB2 dB2 | dB2 d3        | "C"  GAB "D" A2G | "G"  G3 G3          :|
 
 
-X: 67
+X: 72
 T: Hunting The Hare
 O: Wales
 R: jig
@@ -940,7 +940,7 @@ fed fed|fed fed|ecd ecd|egf e3|
 d2 D FGA|B2 e cBc|d2 D FGA|Bec d3 |
 
 
-X: 68
+X: 73
 T: The Road To Lisdoonvarna
 T: An Bóthar go dtí Lios Dún Bhearna
 R: slide
@@ -953,7 +953,7 @@ K: Edor
 "Em" e2f gfe .| "Bm" d2B Bcd | "A" cdc "D" B2A    .| "Em" B2E E3  :|
 
 
-X: 69
+X: 74
 T: Padraig O'Keeffe's
 R: slide
 M: 12/8
@@ -966,7 +966,7 @@ K: Ador
    "Em" g3  gfe .| "D" dBA "G" G3    | "Bm" BAB "Em" d2e .|      B2A "Am" A3  :|
 
 
-X: 64
+X: 75
 T: The Dingle Regatta
 R: slide
 M: 12/8
@@ -980,7 +980,7 @@ d3 def .   |g3 gfg     |a2gf2e . |def g3 :|
 g3 d3 .    |B3 G3      |FGA DEF .|G3 G3  :|
 
 
-X: 70
+X: 76
 T: Elizabeth Kelly's Delight
 R: slip jig
 M: 9/8
@@ -991,7 +991,7 @@ K: Ador
 |: "C"  c2A "G" BAG AGE | "C" cBA "G" BGE DEG   | "C" c2A "G" BAG "D" AGE | "Em" G3 G2E DEG:|
 
 
-X: 71
+X: 77
 T: The Butterfly
 R: slip jig
 M: 9/8
@@ -1003,7 +1003,7 @@ K: Emin
 |:B3 B2A G2A|B3 BAB dBA|B3 B2A G2A|B2d g2e dBA:|
 
 
-X:72
+X:78
 T: Redican's Mother
 R: slip jig
 M: 9/8
@@ -1018,7 +1018,7 @@ W: The part below middle D can be played a cran instead, or jumping up the octav
 
 
 
-X:73
+X:79
 T: The Musical Priest
 T: An Sagart Ceolmhar, The New Bridge of Erin
 R: single reel
@@ -1029,7 +1029,7 @@ K: Bmin
 |: Bc | "D"  d2dc dfed | "A" c/B/A eA fAec | "Bm" dcBc defb | "A" afec "Bm" B2 :|
 |: Bc | "Bm" dBBB bafb | "A" afec ABce     | "Bm" dBBB bafb | "A" afec "Bm" B2 :|
 
-X: 74
+X: 80
 T: Cooley's
 R: reel
 M: C|
@@ -1041,7 +1041,7 @@ GF  |"Em"EBBA B2EB|B2 AB dBAG|"D"F/E/D AD BDAD|F/E/D AD BAGF|
 "Em"eBB2 eBgf|eBB2 defg|"D"afec dBAF|DEFD "Em"E2:|
 
 
-X: 75
+X: 81
 T: The Maids Of Mount Kisco
 R: reel
 M: C|
@@ -1055,7 +1055,7 @@ K: Ador
         "Am" a2af "Em" gage | "G" dedB GABd | "Am" eAA2 efge         | "G" dBGB "Am" A2 :|
 
 
-X: 76
+X: 82
 T: The Maid Behind The Bar
 R: reel
 M: C|
@@ -1068,7 +1068,7 @@ fgaf bfaf|defd e2 de|fBBA BcdB|AFEF D4:|
 
 
 
-X:77
+X:83
 T: Over The Moor To Maggie
 R: reel
 M: C|
@@ -1081,7 +1081,7 @@ K: Gmaj
 |: cd  | "C" e2ec "G" d2dB | "Am" c2cA "G" BAGD | "Am" EAAG "D" ABAG | "Am" EAAG "D" ABcd|
          "C" e2ec "G" d2dB | "Am" c2cA "G" BAGE | "G" DGGF GBAG | "C"ED"D"EF "G" G2:|
 
-X: 78
+X: 84
 T: The Swallow's Tail
 R: reel
 M: C|
@@ -1093,7 +1093,7 @@ K: Ador
    eaag abag         | edef g2fg | afge dBGB     | AcBG A2 gf :|
 
 
-X:79
+X:85
 T: St. Anne's
 R: reel
 M: C|
@@ -1104,7 +1104,7 @@ de | "D" fedf "A" edcB | "D" A2FA DAFA | "G" B2GB "Em" EBGB | "D" A2FA DAFA |
 |: de | "D" f2fe fedc | "G" Bggf g2gf | "A" edcB ABce | baa^g a2 a=g |
 "D" f2fe fedc | "G" Bggf g2gf | "A" edcB ABce | "D"ed"A"dc "D" d2 :|
 
-X:80
+X:86
 T: Willafjord
 R: reel
 C: Ian Burns
@@ -1117,7 +1117,7 @@ K: Dmaj
      "D" f2ef2 fdf | "G" gfaf gfed | "A" ABcd efge | "D" f2d2 d2 :|
 
 
-X: 81
+X: 87
 T: Spootiskerry
 R: reel
 M: 4/4
@@ -1130,7 +1130,7 @@ K: Gmaj
      "Em" g2 ed edBA |"C" BABG E2 DE    | "G" GABd eged     | "D" B2 A2 A2 DE    |
      "G"  G2 DE GDEG |"C" DEGA "D" B2AB | "C" g2ed "D" edBA | "G" B2 G2 G2       |]
 
-X: 82
+X: 88
 T: The Silver Spear
 R: reel
 M: 4/4
@@ -1141,7 +1141,7 @@ K: Dmaj
 |:"D"faa2 bfaf|"G"gfed "A"Bdde|"D"fa a2 bfaf|"G"gfed "A"B2 A2|
 "D"faa2 bfaf|"G"gfed Bdef|"G"g3 e "D"f3 e| "G"dfed "A"B2 A2:|
 
-X:122
+X:89
 T: The Maid in the Cherry Tree  
 R: reel
 M: 4/4
@@ -1155,7 +1155,7 @@ W: Learned this tune in Proitze in 2026 from Nollaig Mac Cárthaigh. I don't hav
 W: It's a good tune to practice 
 
 
-X: 5
+X: 90
 T: The Sailor's Bonnet
 R: reel
 M: 4/4
@@ -1167,7 +1167,7 @@ Q: 180
    bfff afef | afef dBBB | A2FA defe | dBAF AD D2:|
 
 
-X: 83
+X: 91
 T: The Dublin Lads
 R: single reel
 M: 4/4
@@ -1180,7 +1180,7 @@ Q: 180
 
 
 
-X: 84
+X: 92
 T: Shoe The Donkey
 T: Cuir Crú ar an Asal
 R: mazurka
@@ -1192,7 +1192,7 @@ D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
 
-X: 85
+X: 93
 T: Spancil Hill
 R: waltz
 M: 3/4
@@ -1205,7 +1205,7 @@ K: Edor
 
 
 
-X: 86
+X: 94
 T: Michael Turner's
 T: based on W. A. Mozart - from KV 536, No. 2, ‘Sechs Deutsche Tänze’
 R: waltz
@@ -1218,7 +1218,7 @@ K: Gmaj
    gf | "C"e2 e2 ge     | "G"d2 d2 GA | "G" B2 Bc "D"AB|"G"G4:|
 
 
-X: 87
+X: 95
 T: Paddy's Green Shamrock Shore
 T: Gleanntáin Ghlas' Ghaoth Dobhair, Lough Erin Shore
 R: waltz
@@ -1230,7 +1230,7 @@ a2 | "D" f3e d2 | "A" e3f g2 | "A" a3g f2 | e4 a2     | "G" g3fe2  | "D" d2A2B2 
 ag | "D" f3e d2 | "A" e3f g2 | "A" a3g f2 | e4 a2     | "G" g3f e2 | "D" d2A2B2 | "G" G6- | G4  |
 A2 | "A" e3f g2 | e4A2       | e3c e2     | "D"d2c2A2 | "G" G3F G2 | "D" A4 B2  | "A" A6- | A4 :|
 
-X: 88
+X: 96
 T: Carolan's Welcome
 R: waltz
 M: 3/4
@@ -1246,7 +1246,7 @@ ba fa b2|afef a2|fe de fd|e2 c2 (3ABc|
 d3c B2|e3d c2|df F2 A2| B4 :|
 
 
-X: 89
+X: 97
 T: Orange In Bloom
 R: waltz
 M: 3/4
@@ -1259,7 +1259,7 @@ K: Gmaj
    D2 | "C"  E3 G E2  | "G" D2 G2 A2  | B2 d2 B2      | "Am" A4 BA       |
         "Am" G3 E E2  | "D" D2 G2 A2  | "C" B2 G2 F2  | "G" G4          :|
 
-X: 90
+X: 98
 T: Sweet Jennie Jones
 T: Cadair Idris
 R: waltz
@@ -1273,7 +1273,7 @@ K: Dmaj
    Bc | "D" d2 A2 F2 | "Bm" D3E F2   | "Em" G2 B2 e2 | "A" c2 A2 c2  |
         "D" d2 A2 F2 | "G" G3A B2    | "A" A2 d2 c2  | "D" d4 |]
 
-X:91
+X:99
 T: Flatwater Fran
 C: Phil Cunningham
 R: waltz
@@ -1289,7 +1289,7 @@ K: Gmaj
    B/c/d | "C"  e2 d2 g2 | "G"  B2 dB AG    | "D7" A2 "Bm" d3 c   | "Em"  B3 B |
      AG  | "Am" EA AG AB | "Em" AG E2 GE    | "C"  DE G2 "D7"  G2 | "G"  G4  :|
 
-X: 92
+X: 100
 T: Kevin Keegan's
 R: waltz
 M: 3/4
@@ -1307,7 +1307,7 @@ K: Gmaj
    BG DG Bd | c2 A2 F2  | G3B AF      | G4   dc       |]
 
 
-X: 6
+X: 101
 T: Leaving Uist
 R: waltz
 M: 3/4
@@ -1326,7 +1326,7 @@ K: Emin
 
 
 
-X: 93
+X: 102
 T: Planxty Fanny Power
 C: Turlough O'Carolan
 R: planxty
@@ -1338,7 +1338,7 @@ D2 | "G" G4 D2    | G3A B2      |"C"c4 B2 |"Am"A4 G2   |"D"F2 E2 D2|D2 E2 D2|F4 
 c2 | "G" d2 Bc d2 | d2 Bc d2    |"G"G3B G2|G2 B2 d2 |"Am"e2 cd e2|e2 cd e2|"D"A3 B A2|A2 B2 c2|
      "G" B3c d2   | "C"e2 f2 g2 |"D"f3g a2|d4 c2    |"G"B3A G2   |"D"D2 G2 F2|"G"G4G2| G4 :|
 
-X: 94
+X: 103
 T: Planxty Irwin
 R: planxty
 M: 6/8
@@ -1350,7 +1350,7 @@ K: Gmaj
        "G" g2f "C" e>fg | "G" d2c B>AG | "Am" c2A "D" B>cd  | DGF "G" G2     :|
 
 
-X: 95
+X: 104
 T: Planxty Hugh O'Donnell
 R: planxty
 M: 6/8
@@ -1366,7 +1366,7 @@ d2d e2e|f2f g3|g2d g2c|g2B Aag|
 fed ded|dcB Adc|BAG AGF|G3 G2:|
 
 
-X: 96
+X: 105
 T: Planxty Lady Wrixon
 R: planxty
 M: 6/8
@@ -1379,7 +1379,7 @@ f    | "Am" e2A cBA      | e2A efg           | "G" d2G BAG      | d2G Bcd       
 
 
 
-X:97
+X:106
 T: Glân Meddwdod Mwyn
 R: slow air
 M: 3/4
@@ -1395,7 +1395,7 @@ D/>E | "D" F G A | "G" B c d | "A7" e d c | "D" d2 |]
 
 
 
-X:98
+X:107
 T: Là dhomh 's mi a' dìreadh a' bhalaich
 O: Scotland
 T: As I ascended the pass
@@ -1411,7 +1411,7 @@ K: Gmaj
 
 
 
-X: 99
+X: 108
 T: Am Monadh Ruadh
 C: Calum Stewart
 O: Scotland
@@ -1424,7 +1424,7 @@ K: Emin
 "Em" e2e3dgf|"D" d2d3 ABd|"G" gfdB e2 dB|"D" de2E zABd|
 "Em" e2 dB e2 dB|"D" A2 AB ED D2|1 "G" G6 AG|F3"D" A FABd:|2 "G" G3 A "D" F2 ED|"Em" E8||
 
-X: 100
+X: 109
 T: Tynes in Overtime
 C: Ewen Henderson
 O: Scotland
@@ -1439,7 +1439,7 @@ GA | "Am" B2 A2 A2 GA | B2 A2 A2 Bd | "G" g2 fg "D" a2 fd | "Am" f e3 e2 ef |
       "Am" fe3 e2 ef | "G" g2 fg "D" a2 dB | "G" B2 AB "D" d2 A/B/d | "Am" e3 f "Em" gfed | "Am" B2 A2 A2 :|
 
 
-X: 101
+X: 110
 T: Strong Stands The Black Tower
 R: march
 M: 4/4
@@ -1453,7 +1453,7 @@ e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|e2 A2 A2 Bd|
 e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|d2 G2 gfed|
 e2 dg e2 A2|BABd edef|g2 ea gedB|e2 A2 A4|]
 
-X:102
+X:111
 T: Lahinch
 C: Ryan Murphy, Mànran
 R: march
@@ -1467,7 +1467,7 @@ b3g  f3d | cBGF GBcd | c3c cBcd               |  eddc B/c/d f/g/a  |
 b3g  f3d | cBGF GBcd | c3c cBcd | eddc cBGF | 
 FGBc B3d | fgfd cBcd | c3c cBcd | eddc cBGF |]
 
-X:102
+X:112
 T:Lahinch (D)
 C:Ryan Murphy, Mànran
 R:march
@@ -1482,7 +1482,7 @@ g3e d3B | AGED EGAB | A3A AGAB | cBBA AGED |
 DEGA G3B | dedB AGAB | A3A AGAB | cBBA AGED |]
 
 
-X:103
+X:113
 T: Fingal's Cave
 Q: Scotland
 R: march
@@ -1500,7 +1500,7 @@ B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "Em" g4 | "Am" e2 d<e "G"   g2 f<g  
 
 
 
-X:104
+X:114
 T: The 72nd Highlanders' Farewell To Aberdeen
 R: march
 M: C
@@ -1512,7 +1512,7 @@ K: Dmaj
 |: f>g | "D" a2 A2 A2 =c2 | "G" B2 G2 "D" A4 | "D" A2 d2 A2 d2       | "A" e>dc<B A2 f>g |
          "D" a2 A2 A2 =c2 | "G" B2 G2 "D" A4 | "D" A2 d2 "A" f>ed<c  | "D" d4 d2 :|
 
-X:105
+X:115
 T: Schottische Kerlou
 C: Calum Stewart
 R: schottische
@@ -1526,7 +1526,7 @@ K: Gmaj
 "C" e3 d efgf | "C"e2"D"d2 "Em" B3 B        | "C" cBAG "G/B" d3 B    | "D" A2 AG ABGF |
 "C" E3 E EDDE | GD"D"GA "Em" B2 (3GAB    | "C" cBAG "D" A3 G  | "G" G4 GABd |]
 
-X:106
+X:116
 T: Strong behaviour
 C: Craig Irving & Ryan Murphy
 M: 4/4
@@ -1539,7 +1539,7 @@ AGAB AG A/B/d |1 zedB dBAA- | AGAB AGED :|2 zedB dBAA- | AGAB ABdB ||
 |: e4 degA- | AAAB AG A/B/d | e2de gedg- | gd g/a/b aged | e3B gedA- |
 AGAB AG A/B/d |1 zedB dBAA- | AGAB ABdB :|2 zedB dBAA- | AGAB AGED |],                          
 
-X: 107
+X: 117
 T: Luna's
 C: Bradley Parker(?)
 O: Scotland
@@ -1552,7 +1552,7 @@ E2-E>e d>BA<G | A2-A>B A>GE<G | A2- A>B A>GE<G  |1 B>GF<G d>GE<D :|2 B>GF<G d>AB
 e2-e>g b>c'b<a | f2-f>g f>ed<e | B2-B>d e2-ed/B/ | A4 A>BA<G :| 
 
 
-X: 108
+X: 118
 T: Miss Admiral Gordon's
 R: strathspey
 M: 4/4
@@ -1566,7 +1566,7 @@ g>f e>d e<d c>B|AB c/B/A/G/ E2 E>D|G2 G2 G>D G<e|d<B A>B G2 G D:|
 
 
 
-X:109
+X:119
 T: Makar's Prayer & Medli's Prayer
 L: 1/8
 M: 9/8
@@ -1584,7 +1584,7 @@ R: jig
 "G" gdd "D" f2f | "A" ece "D" dBd | "G" gab "D" fdf |1 "A" e3 efe :||2 "A" e3 e2a |]
 
 
-X: 110
+X: 120
 T: Molly Malone
 R: waltz
 M: 3/4
@@ -1620,7 +1620,7 @@ W: Through streets broad and narrow
 W: Crying, "Cockles and mussels, alive, alive, oh!"
 
 
-X: 111
+X: 121
 T: Spanish Lady
 R: polka
 M: 4/4
@@ -1635,7 +1635,7 @@ fa a>f|ed de/f/|ge fd|BA A2:|
 FA AB/c/|d>c de/f/|ge fd|BA A/B/A/G/|
 FA AB/c/|d>c de/f/|ge fd|BA A2:|
 
-X: 112
+X: 122
 T: The Foggy Dew
 R: march
 M: C
@@ -1670,7 +1670,7 @@ W: For I parted then with valiant men whom I shall never see n'more
 W: But to and fro in my dreams I go and I kneel and pray for you
 W: For slavery fled, O glorious dead, when you fell in the foggy dew
 
-X: 113
+X: 123
 T: The Parting Glass (to do)
 R: polka
 M: C
@@ -1682,7 +1682,7 @@ K: Emin
    BA  | G2 E2 E2 D>E|G2 G2 A2 GA|B2 e2 dc BA|G2 E2 E2:|
 
 
-X:114
+X:124
 T: You'll Never Deceive Me Again
 C: arr. Patrick Steinbach
 R: air
@@ -1694,7 +1694,7 @@ K: G
 |: Bc | "G" d>Bde d2 ga/g/ | "Em" e>def e2ef | "G" g>fag "D" f>edc | "E" BGAG E2GE            |
         "G" D2EG G2gf      | "Em" e>fed B2ed | "D" d>cBG A>GED     | DEG>A G2                :|
 
-X: 115
+X: 125
 T: Wild Mountain Thyme (in progress)
 R: air
 M: 4/4
@@ -1731,7 +1731,7 @@ W: And the wild mountain thyme
 W: Grows around the blooming heather.
 
 
-X: 116
+X: 126
 T: Auld Lang Syne
 R: march
 M: 4/4
@@ -1781,7 +1781,7 @@ W:
 W: Chorus
 
 
-X: 117
+X: 127
 T: Argeers
 T: Argeres, The Weeding Night
 M: 4/4
@@ -1794,7 +1794,7 @@ K: Dmaj
 "D"a2gf "Em"g2 ag|"D"f2ed "A"e4|"G"Bcd2 "A"cdec|"D"d4 d4:|
 
 
-X:118
+X:128
 T:Ententanz
 M:2/4
 L:1/16
@@ -1811,7 +1811,7 @@ e ed | d2 c2 | zc de | d4 | z|]
 
 
 
-X: 121
+X: 129
 T: Rufty Tufty
 R: barndance
 M: 2/2
@@ -1823,7 +1823,7 @@ K: Gmaj
 "C"ecd "G"B/c/|"G"dd cB|"D"A2 "G"G2:|
 
 
-X:124
+X:130
 T: La Légende de la Cane No. 1
 C: Calum Stewart (Hunter's Moon)
 R: hornpipe
@@ -1845,7 +1845,7 @@ M: 4/4
 M: 2/4
 zDGA :|
 
-X:125
+X:131
 T: Another Winter
 C: Calum Stewart
 R: march
