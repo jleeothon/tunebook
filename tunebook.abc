@@ -756,18 +756,6 @@ e    | "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "G" gfg "A" eag  |
        "D" fdd "A" cAA | "G" BAG "D" A2G | "D" FAA def | "A" gec "D" d2  :|
 
 
-X: 60
-T: Allistrum's March (after The Gloaming)
-R: jig
-M: 6/8
-L: 1/8
-K: Dmaj
-  "D" FEE FDD | FAd "G" dBA | "D" FEE FDD | FAd "G" B2A :|
-|: "D" d2f "Em/B" e2f | "D" ded d/B/AF | "D" d2f "Em/B" e2f | "D" ded d/B/AF :|
-|: "Em" B2A B2F | B2A B2F | "Em"BdB BcF |1 "Em" BdB "D" BcF :|2 "Em" B/c/dc "G" B2A || 
-|: "D" Fdd fee | fed "G"B2A | "D"Fdd fee | fed "G" B2A :|
-
-
 
 X: 61
 T: Paddy In London
@@ -805,6 +793,33 @@ K: D
 |:FEE FDD|FEd dBA| FEE FDD|FEd B2A:|
 |:d2f e2f|ded dBA| d2f e2f|ded B2A:|
 |:B2A BFF|B2A BEE|B2A BFF|1B2A BEE:|2B2A BAG:]
+
+
+
+X: 60
+T: Allistrum's March (after The Gloaming)
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+  "D" FEE FDD | FAd "G" dBA | "D" FEE FDD | FAd "G" B2A :|
+|: "D" d2f "Em/B" e2f | "D" ded d/B/AF | "D" d2f "Em/B" e2f | "D" ded d/B/AF :|
+|: "Em" B2A B2F | B2A B2F | "Em"BdB BcF |1 "Em" BdB "D" BcF :|2 "Em" B/c/dc "G" B2A || 
+|: "D" Fdd fee | fed "G"B2A | "D"Fdd fee | fed "G" B2A :|
+
+
+X: 4
+T: Hundred Pipers
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+N: heard this from Robin, the piper / fiddler / box player in Shrewsbury 2026
+|:A|B2 D DED|E2 F G2 e|d2 B BAG|B2 A AGA|
+B2 D DED|E2 F G2 e|d2 B ABA|G2 G2:|
+|:A|B2 d dBd|e2 f g2 e|d2 B BAG|B2 A AGA|
+B2 d dBd|e2 f g2 e|d2 B ABA|G2 G2:|
+
 
 
 X: 64
@@ -863,8 +878,8 @@ K: Dmaj
 Q: 180
 |:FAA GBB|FAd fed|cBc ABc |  dfe dAG   |
 FAA GBB  |FAd fed|cBc ABc |1 dfe dAG :|2 dfe d2c || 
-dBB fBB  |dBB fed|cAA eAA |  efe edc   |
-dBB fBB  |fgf fed|cBc ABc |1 dfe d2c :|2 dfe dAG |]
+|: dBB fBB  | fgf fed | cAA eAA |  efe edc   |
+   dBB fBB  | fgf fed | cBc ABc |1 dfe d2c :|2 dfe dAG |]
 
 
 X:68
@@ -888,11 +903,26 @@ R: slip jig
 M: 9/8
 L: 1/8
 K: Emin
+N: popular in the local slow Session at Molly Malone's
 |:EFE FEF G2 F|E3 cBA BGE|EFE FED G2 A|BAG FAG FED:|
 |:BGB AFA G2 D|GAB dge dBA|BGB AFA G2 A|BAG FAG FED:|
 |:gfg efe e2 f|gfg efg afd|gfg efe e2 a|bag fag fed:|
 |:eBB e2f g2f|eBB efg afd|eBB e2f g2a|bag fag fed:|
 |:edB dBA G2D|GAB dge dBA|edB dBA G2A|BAG FAG FED:|
+
+
+X: 9
+T: Cock O' The North
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+M: 12/8
+N: popular in the local slow Session at Molly Malone's
+|:d2 A B2 A d2 A B2 A|F2 F FED E2 E EFA|
+d2 A B2 A d2 A B2 A|F2 F EFE DFE D3:|
+|:F2 F FED F2 A B2 A|F2 F FED E2 E EDE|
+F2 F FED F2 A B2 A|F2 F EFE DFE D3:|
 
 
 
@@ -911,6 +941,29 @@ c3 ded | cAG FEA | DED DFA | DED D2 :|
 fdd gdd | fdd ged | ^cde gag | ed^c d2 :|
 |: "^D⃣" G | A3 A2G | F3 GED | E3 EFD | EFG EFG | 
 A3 dAG | F3 GEA | DED DFA | DED D2 :|
+
+
+X: 3
+T: The Gold Ring
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BAG A2d|cAG ~G3|BAG A2d|cAG FGA|
+BAG A2d|cAG GBd|gbg afd|cAG G2A:|
+|:~B3 Bdc|~A3 dcA|~G3 GFG|ADE FGA|
+~B3 Bdc|A3 dAG|FDE F2d|1 cAG G2A:|2 cAG G2g||
+|:fdd edd|fdd edd|fdd ed^c|d=cA GBd|
+fdd edd|fdd ed^c|dfa gfd|1 cAG G2z:|2 cAG GBd||
+|:~g3 efd|cAG GBd|~g3 efd|cAG FGA|
+~g3 efd|~g3 fed|gfg afd|1 cAG GBd:|2 cAG G2E||
+|:DBB DBB|DAA DAA|~G3 GBd|cAG FGA|
+DBB DBB|DAA DAA|G3 GBd|1 cAF G2E:|2 cAF G2A||
+|:~B3 ~D3|~A3 ~D3|~G3 GBd|cAG FGA|
+~B3 ~D3|~A3 ~D3|~G3 GBd|cAF G2A:|
+|:B2G A2G|d2G G2A|B2G A2G|cAG FGA|
+BAG AGF|GFD FGA|fag fed|cAF G2A:|
+
 
 
 
@@ -1136,7 +1189,7 @@ R: reel
 M: 4/4
 L: 1/8
 K: Dmaj
-|:"D"FAA2 BAFA|"G"dfed BddA|"D"FA A2 BAFA|"G"dfed "A"B2 A2|
+|:"D"FAA2 BAFA|"G"dfed BcdA|"D"FA A2 BAFA|"G"dfed "A"B2 A2|
 "D"FAA2 BAFA|dfed Bdef|"G"g3 e "D"f3 e|"G"dfed "A"B2 A2:|
 |:"D"faa2 bfaf|"G"gfed "A"Bdde|"D"fa a2 bfaf|"G"gfed "A"B2 A2|
 "D"faa2 bfaf|"G"gfed Bdef|"G"g3 e "D"f3 e| "G"dfed "A"B2 A2:|
@@ -1153,6 +1206,20 @@ fBdB fBdB | AAAc eAce | d2dB cAAA | ecAB cBB2 :|
  d2fd adfd | d2fd ecAc | d2dB cAAA | ecAB cBB2 :|
 W: Learned this tune in Proitze in 2026 from Nollaig Mac Cárthaigh. I don't have a recording, this might not be exactly how he taught me.
 W: It's a good tune to practice 
+
+
+X: 1
+T: Rochdale Coconut Dance
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+N: learned this in 2026 from the GFW folk in Shrewsbury
+|:EFGF E2 B2|EFGF E2 B2|c2 Ac B2 G2|AG F2 E2 D2|
+EFGF E2 B2|EFGF E2 B2|c2 Ac B2 G2|AG F2 G4:|
+|:G2 BB G2 B2|AGFG ABcA|G2 BB G2 B2|AGFE D2 D2|
+G2 BB G2 B2|AGFG ABcA|BdcB AcBA|G2 B2 G4:|
+
 
 
 X: 90
@@ -1309,6 +1376,7 @@ K: Gmaj
 
 X: 101
 T: Leaving Uist
+T: Farewell to Uist
 R: waltz
 M: 3/4
 L: 1/8
@@ -1453,33 +1521,20 @@ e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|e2 A2 A2 Bd|
 e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|d2 G2 gfed|
 e2 dg e2 A2|BABd edef|g2 ea gedB|e2 A2 A4|]
 
-X:111
-T: Lahinch
-C: Ryan Murphy, Mànran
-R: march
-M: 4/4
-L: 1/8
-K: Bbmaj
-FGBc B3d | fgfd cBcd | c3c cBcd | e2dc cBGF   |
-FGBc B3d | fgfd cBcd | c3c cBcd |1 e2dc cBGF :|2 eddc B/c/d f/g/a ||
-b3g  f3d | cBGF GBcd | c3c cBcd               |  eddc B/c/d f/g/a  |
-b3g  f3d | cBGF GBcd | c3c cBcd               |  eddc B/c/d f/g/a  |
-b3g  f3d | cBGF GBcd | c3c cBcd | eddc cBGF | 
-FGBc B3d | fgfd cBcd | c3c cBcd | eddc cBGF |]
-
 X:112
-T:Lahinch (D)
+T:Lahinch
 C:Ryan Murphy, Mànran
 R:march
 M:4/4
 L:1/8
 K:Gmaj
-DEGA G3B | dedB AGAB | A3A AGAB | c2BA AGED |
+DEGA G3B | dedB AGAB | A3A AGAB | c2BA AGED   |
 DEGA G3B | dedB AGAB | A3A AGAB |1 c2BA AGED :|2 cBBA G/2A/2B d/2e/2f ||
-g3e d3B | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
-g3e d3B | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
-g3e d3B | AGED EGAB | A3A AGAB | cBBA AGED | 
+g3e d3B  | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
+g3e d3B  | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
+g3e d3B  | AGED EGAB | A3A AGAB | cBBA AGED | 
 DEGA G3B | dedB AGAB | A3A AGAB | cBBA AGED |]
+W: This is played one minor third higher, in Eb major in the recording.
 
 
 X:113
@@ -1519,12 +1574,12 @@ R: schottische
 M: C
 L: 1/8
 K: Gmaj
-"G" g4 "D" f2 ed  | "C/G" ABc2 "G"BA (3GAB    | "C" c2 cc Bd "D" A2 | z2 AG ABGF |
-"C" E3 E EDDE     | "G" GD"D"GA "Em" B2 (3GAB | "C" cBAG "D" A3 G   | "G" G4 GABd :|
-"C" e3 e edcB | "D" AGGA "Em" B2 (3GAB   | "C" cBAG "G/B" d3 B | "D" A2 AG ABGF |
-"C" E3 E EDDE | "D" GDGA "Em" B2 (3GAB   | "C" cBAG "D" A3 G  | "G" G4 GABd ||
-"C" e3 d efgf | "C"e2"D"d2 "Em" B3 B        | "C" cBAG "G/B" d3 B    | "D" A2 AG ABGF |
-"C" E3 E EDDE | GD"D"GA "Em" B2 (3GAB    | "C" cBAG "D" A3 G  | "G" G4 GABd |]
+"G" g4 "D" f2ed | "C/G" ABc2 "G"BA (3GAB    | "C" c2 cc Bd "D" A2 | z2 AG ABGF      |
+"C" E3 E EDDE   | "G" GD"D"GA "Em" B2 (3GAB | "C" cBAG "D" A3 G   | "G" G4 GABd    :|
+"C" e3 e edcB   | "D" AGGA "Em" B2 (3GAB    | "C" cBAG "G/B" d3 B | "D" A2 AG ABGF  |
+"C" E3 E EDDE | "D" GDGA "Em" B2 (3GAB      | "C" cBAG "D" A3 G   | "G" G4 GABd    ||
+"C" e3 d efgf | "C"e2"D"d2 "Em" B3 B        | "C" cBAG "G/B" d3 B | "D" A2 AG ABGF  |
+"C" E3 E EDDE | GD"D"GA "Em" B2 (3GAB       | "C" cBAG "D" A3 G   | "G" G4 GABd    |]
 
 X:116
 T: Strong behaviour
@@ -1534,18 +1589,19 @@ R: reel
 K: Emin
 L: 1/8
 Q: 134
-E3D EGBA- | AGAB AGED | DEED EGBA- | AGAB dBAG | E3D EGBA- |
-AGAB AG A/B/d |1 zedB dBAA- | AGAB AGED :|2 zedB dBAA- | AGAB ABdB ||
-|: e4 degA- | AAAB AG A/B/d | e2de gedg- | gd g/a/b aged | e3B gedA- |
-AGAB AG A/B/d |1 zedB dBAA- | AGAB ABdB :|2 zedB dBAA- | AGAB AGED |],                          
+   E3D EGBA-     |  AGAB AGED     | DEED EGBA-  |  AGAB dBAG     | E3D EGBA- |
+   AGAB AG A/B/d |1 zedB dBAA-    | AGAB AGED  :|2 zedB dBAA-    | AGAB ABdB ||
+|: e4 degA-      |  AAAB AG A/B/d | e2de gedg-  |  gd g/a/b aged | e3B gedA- |
+   AGAB AG A/B/d |1 zedB dBAA-    | AGAB ABdB  :|2 zedB dBAA-    | AGAB AGED |]                          
 
 X: 117
 T: Luna's
 C: Bradley Parker(?)
 O: Scotland
 R: march
-L: 1/8
+M: 4/4
 K: Emin
+L: 1/8
 E2-E>e d>BA<G | A2-A>B A>GE<G | A2- A>B A>GE<G | G>AF<G B>GE<D  |
 E2-E>e d>BA<G | A2-A>B A>GE<G | A2- A>B A>GE<G  |1 B>GF<G d>GE<D :|2 B>GF<G d>AB<d ||
 |: e2-e>g b>c'b<a | f2-f>g f>ed<e | B2-B>d e2-e>f | g2- g>a b>ag<f |
@@ -1626,13 +1682,11 @@ R: polka
 M: 4/4
 L: 1/4
 K: Dmaj
-P: [A]
 A/G/ |FA AB/c/| dd d/e/f | ge fd | BA A|
 A/G/ | FA AB/c/|dd d/e/f  | ge fd | BA A2 ||
-P: B
-fa a>f|ed de|fa a>f|ed e2|
+|: fa a>f|ed de|fa a>f|ed e2|
 fa a>f|ed de/f/|ge fd|BA A2:|
-FA AB/c/|d>c de/f/|ge fd|BA A/B/A/G/|
+|: FA AB/c/|d>c de/f/|ge fd|BA A/B/A/G/|
 FA AB/c/|d>c de/f/|ge fd|BA A2:|
 
 X: 122
@@ -1780,18 +1834,6 @@ W: for auld lang syne.
 W: 
 W: Chorus
 
-
-X: 127
-T: Argeers
-T: Argeres, The Weeding Night
-M: 4/4
-L: 1/8
-K: Dmaj
-% good for C and F recorders
-|:"D" defg "Em"e2d2|"A"c2A2 A4|a2e2 a3g|"D"f2d2 d4|
-"D"defg "Em"e2d2|"A"cBcd c2 A2|"G"Bcd2 "A"cdef|"D"d4d4:|
-|:"A"cde2 cde2|a2e2 a2e2|cde2 cde2|a2e2 a2e2|
-"D"a2gf "Em"g2 ag|"D"f2ed "A"e4|"G"Bcd2 "A"cdec|"D"d4 d4:|
 
 
 X:128
