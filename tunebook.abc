@@ -1,5 +1,6 @@
 %%printtempo false
 %%infoline   true
+%%writefields TCOPQwWN
 
 %%scale 0.63
 
@@ -9,11 +10,11 @@ R: barndance
 M: 4/4
 L: 1/8
 K: Gmaj
-D2    | "G"G4 "D" d4      | "Em"B2AB "G/D" G2AB  | "C"c2B2 A2G2    | "D"FGEF D3 D    |
-        "C"E4"D"F4        | "G"GFGA "Em"G2c2     | "C"B2AG "D"A2GF | "G" G6         :|
-|: d2 | "D7"dedc "G"B2d2 | "D7"dedc "G"B2d2    | "C"e2d2 "D"e2f2 | "G" g4 "D" d2ef |
-        "G"g2fe "D"d2 d2  | "C"e2dc "Em/B"B2AB | "C"c2B2"Am"A2G2 | "D" F2EF D3D    |
-        "C"E4"D"F4        | "G"GFGA "Em"G2c2     | "C"B2AG "D"A2GF | "G"G6          :|
+D2    | "G" G4 "D" d4       | "Em" B2AB "G/D"  G2AB   | "C" c2B2 A2G2     | "D" FGEF D3 D    |
+        "C" E4 "D" F4       | "G"  GFGA "Em"   G2c2   | "C" B2AG "D" A2GF | "G" G6          :|
+|: d2 | "D7" dedc "G" B2d2  | "D7" dedc "G"    B2d2   | "C" e2d2 "D" e2f2 | "G" g4 "D" d2ef  |
+        "G"  g2fe "D" d2 d2 | "C" e2dc  "Em/B" B2AB   | "C" c2B2"Am" A2G2 | "D" F2EF D3D     |
+        "C"  E4 "D" F4      | "G" GFGA  "Em"   G2c2   | "C" B2AG "D" A2GF | "G" G6          :|
 
 X: 2
 T: Bill Malley's
@@ -262,7 +263,7 @@ G/A/|BB BA/G/|dB Bg/e/|dB c/B/A/G/|BA AG/A/|
 BB c/B/A/G/|Bd g>a|b/a/g/f/ e/f/g/e/|dB B:|
 |:B/c/ |dB gB|dB d>e|dB/d/ gf/g/|aA AG/A/|
 BB/d/ c/B/A/G/|Bd g>a|b/a/g/f/ e/f/g/e/|dB B:|
-% Learned this tune in Proitze in 2026 from Kevin Rowsome
+N: Learned this tune in Proitze in 2026 from Kevin Rowsome.
 
 
 
@@ -358,7 +359,6 @@ K: Ador
 |1 e2 | a2a2 gega | b2b2 bag2 | e2d2 de gb | a4 a2     :|
 |2 E2 | AGAB d2B2 | A2G2 g3e  | d3G BdBG   | A4 A2     ||
 
-
 %%newpage
 
 X: 29
@@ -406,8 +406,34 @@ K: Dmaj
 |: A2 | "D" d2fd "A" c2ec | "Bm" BABc "D/F#" dcBA | "G"G2BG "D"F2AF | "A"EDEF GBAG |
         "D" FDFA dfaf | "G"gfec "D"dcBA | "G"dfaf "A"bgec | "D"d2 "A"d2 "D"d2 :|
 
-X: 33
-T: The Sailor's
+
+X:29
+T: Galway Hornpipe
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+N: learned this from the GFW folks in Shrewsbury in 2026
+   FE | D2FA dAFD | CDEF G2FE | D2FA dcdf | edcB (3ABA (3GFE   |
+        D2FA dAFD | CDEF G2FG | AdcB AGFE | D2F2 D2           :|
+|: de | fefg fedc | BABc B2cd | edef edcB | (3ABA ce a2 (3ABc  |
+        dcde fdAF | GFGA BdcB | AdcB AGFE | D2F2 D2           :|
+
+X:30
+T: Trumpet Hornpipe
+R: hornpipe
+M: 4/4
+L: 1/8
+N: learned this from the GFW folks in Shrewsbury in 2026
+K: Gmaj
+   D2 | (3GGG G2 (3 GGG G2 | BGBd gdBG          | (3 DDD D2 (3 DDD D2 | FDFA cAFD  | 
+        (3GGG G2 (3GGG G2  | BGBd g3g           | fagf egfe           | d2 f2 d2  :|
+|: Bc | (3ddd d2 (3ddd d2  | efgf edcB          | cded cBAG           | FGAG FDEF  |
+        (3GGG G2 (3=FFF F2 | (3EEE E2 (3_EEE E2 | Dgfe dcBA           | G2 B2 G2  :|
+
+X: 31
+T: The Sailor's Hornpipe
+T: Jack's the Lad
 R: hornpipe
 M: 4/4
 L: 1/8
@@ -417,6 +443,31 @@ K: Gmaj
 |: dc | "G" Bdgd Bdgd    |  "C" e2c2c2ed | "A" ^ceae ^ceae | "D" f2d2d2   |
    ef | "G"gfed "C" edcB    | "Am" cBAG "G" GFED | "C" EGFA "G" GB"D"Ac   | "G"B2G2G2 :|
 
+
+X:130
+T: La Légende de la Cane No. 1
+C: Calum Stewart (Hunter's Moon)
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+DGA |: BBAc BAGA | BBAc BAGA | BBAd B4 | \
+M: 2/4
+zDGA :|
+M: 4/4
+|: B2g2 ege2 | dBGA B2d2 | AcB2 G4 | \
+M: 2/4
+zDGA :|
+M: 4/4
+%%score (1 2)
+[V:1] |: B2BA BAGA | B2dc BAGA | BBAc B4 | \
+[V:2] |: X | x2BA x4 | X | \
+%%score 1
+M: 2/4
+zDGA :|
+W: This is the first tune in the track "La Légende de la Cane" in Calum Stewart and Heikki Bourgault's "Hunter's Moon".
+W: I don't know the name of the tune itself.
+
 X: 34
 T: Portsmouth
 O: England
@@ -424,10 +475,10 @@ R: hornpipe
 M: 4/4
 L: 1/8
 K: Gmaj
-|:D2|G3A BAGF|E4e4|d2B2cBAG|A6D2|
-G3A BAGF|E4e4|d2B2cBAB|G6:|
-|:D2|g3a bagf|g2d2B2d2|g2B2cBAG|A6D2||
-G3A BAGF|E4e4|d2B2cBAB|G6:|
+   D2 | G3A BAGF | E4e4     | d2B2cBAG | A6D2  |
+        G3A BAGF | E4e4     | d2B2cBAB | G6   :|
+|: D2 | g3a bagf | g2d2B2d2 | g2B2cBAG|A6D2|
+        G3A BAGF | E4e4     | d2B2cBAB|G6:|
 
 
 X: 35
@@ -569,7 +620,6 @@ K: Dmix
 |: "D" A2G ADD|A2G Adc | "D" A2G ADD |"C"EFG "Am" EFG :|
    "D" AdB "Am7" c2G | "D" Add "Am" efg | "D" AdB "Am7" c2A | GEF "C" GED|
    "D" AdB "Am7" c2G | "D" Add "Am" efg | "C" fge "G" dcA| "Am7" GEF "D"GED |]
-
 
 X: 46
 T: The Blarney Pilgrim
@@ -893,7 +943,7 @@ dcA G2G | AGF G2G | dcA G2G | ADE FGA |
 dcA G2G | AGF Gdd | fdd edd | fdd cAF :|
 |: GBd g3 | gaf g3 | dgg gfg | a2g fga |
 bag agf | gfe f2e | dcA d2e | fed cAF :|
-W: I learned this from Mark Redmond in Proitze in 2026.
+N: I learned this from Mark Redmond in Proitze in 2026.
 
 
 X:69
@@ -1066,8 +1116,8 @@ K: D
    FAA FAd AFD | EDB, DFA B2A :|
 |: f3 faf edB | A2f fef gfe |
    f3 faf edB | AFE DFA B2A :|
-W: This is a fiddle tune. I learned this tune from Conor in 2026.
-W: The part below middle D can be played a cran instead, or jumping up the octave.
+N: This is a fiddle tune. I learned this tune from Conor in 2026.
+N: The part below middle D can be played a cran instead, or jumping up the octave.
 
 
 
@@ -1176,12 +1226,11 @@ R: reel
 M: 4/4
 L: 1/8
 K: Gmaj
- DE |"G"  G2DE GDEG  |"C" DEGA "D" B2AB | "G" G2 DE GABd    | "C" eged "D" B2AB  |
-     "G"  G2DE GDEG  |"C" DEGA "D" B2AB | "C" g2ed "D" edBA | "G" B2G2 G2       :|
- ef |"G"  g2 ed edBA |"C" BABG E2 DE    | "G" GABd eged     | "D" B2 A2 A2 ef    |
-     "G" g2 ed edBA |"C" BABG E2 DE    | "G" GABd eged     | "G" B2 G2 G2 ef    |
-     "Em" g2 ed edBA |"C" BABG E2 DE    | "G" GABd eged     | "D" B2 A2 A2 DE    |
-     "G"  G2 DE GDEG |"C" DEGA "D" B2AB | "C" g2ed "D" edBA | "G" B2 G2 G2       |]
+   DE | "G" G2DE GDEG |"C" DEGA "D" B2AB | "G" G2 DE GABd    | "C" eged "D" B2  |
+   AB | "G" G2DE GDEG |"C" DEGA "D" B2AB | "C" g2ed "D" edBA | "G" B2G2 G2     :|
+|: ef | "G" g2ed edBA |"C" BABG E2 DE    | "G" GABd eged     | "D" B2 A2 A2     |
+|1 ef | "G" g2ed edBA |"C" BABG E2 DE    | "G" GABd eged     | "G" B2 G2 G2    :|
+|2 ef | "G" G2DE GDEG |"C" DEGA "D" B2AB | "C" g2ed "D" edBA | "G" B2 G2 G2    |]
 
 X: 88
 T: The Silver Spear
@@ -1195,7 +1244,8 @@ K: Dmaj
 "D"faa2 bfaf|"G"gfed Bdef|"G"g3 e "D"f3 e| "G"dfed "A"B2 A2:|
 
 X:89
-T: The Maid in the Cherry Tree  
+T: The Maid in the Cherry Tree
+T: The Curragh Races
 R: reel
 M: 4/4
 L: 1/8
@@ -1204,8 +1254,8 @@ K: D
 fBdB fBdB | AAAc eAce | d2dB cAAA | ecAB cBB2 :|
 |: d2fd adfd | d2fd ecAc | d2fd adfd | ecAB cBB2 |
  d2fd adfd | d2fd ecAc | d2dB cAAA | ecAB cBB2 :|
-W: Learned this tune in Proitze in 2026 from Nollaig Mac Cárthaigh. I don't have a recording, this might not be exactly how he taught me.
-W: It's a good tune to practice 
+N: Learned this tune in Proitze in 2026 from Nollaig Mac Cárthaigh. I don't have a recording, this might not be exactly how he taught me.
+N: It's a good tune to practice 
 
 
 X: 1
@@ -1347,14 +1397,14 @@ R: waltz
 M: 3/4
 L: 1/8
 K: Gmaj
-     DE  | "G"  G2 G2 DE |      G2 G2 B/c/d | "C"  e2 d2 G2       | "G"  B4   |
-     DE  | "G"  G2 G2 DE | "Am" A2 A2 GA    | "Em" B2 AG ED       | "C"  E4   |
-   D/E/F | "G"  G2 G2 DE |      G2 G2 B/c/d | "C"  e2 d2 g2       | "G"   B4  |
-   dB    | "Am" A2 AG AB | "Em" AG E2 GE    | "C"  DE G2 "D7" G2  | "G"  G4  :|
-|: B/c/d | "C"  e2 d2 G2 | "G"  B4 B/c/d    | "C"  e2 d2 G2       | "G"   B4  |
-   B/c/d | "C"  e2 d2 g2 | "Em" B2 dB AG    | "Am" A2 AG AB       | "D"  A4   |
-   B/c/d | "C"  e2 d2 g2 | "G"  B2 dB AG    | "D7" A2 "Bm" d3 c   | "Em"  B3 B |
-     AG  | "Am" EA AG AB | "Em" AG E2 GE    | "C"  DE G2 "D7"  G2 | "G"  G4  :|
+   DE | "G"  G2 G2 DE |      G2 G2 Bd | "C"  e2 d2 G2       | "G"  B4     |
+   DE | "G"  G2 G2 DE | "Am" A2 A2 GA | "Em" B2 AG ED       | "C"  E4     |
+   DF | "G"  G2 G2 DE |      G2 G2 Bd | "C"  e2 d2 g2       | "G"   B4    |
+   dB | "Am" A2 AG AB | "Em" AG E2 GE | "C"  DE G2 "D7" G2  | "G"  G4    :|
+|: Bd | "C"  e2 d2 G2 | "G"  B4 Bd    | "C"  e2 d2 G2       | "G"   B4    |
+   Bd | "C"  e2 d2 g2 | "Em" B2 dB AG | "Am" A2 AG AB       | "D"  A4     |
+   Bd | "C"  e2 d2 g2 | "G"  B2 dB AG | "D7" A2 "Bm" d3 c   | "Em"  B3 B  |
+   AG | "Am" EA AG AB | "Em" AG E2 GE | "C"  DE G2 "D7"  G2 | "G"  G4    :|
 
 X: 100
 T: Kevin Keegan's
@@ -1454,8 +1504,8 @@ M: 3/4
 L: 1/4
 K: Dmaj
 O: Wales
-D/>E  | "D" F G A | "G" d c B | "A7" A A/B/ A/G/ | G "D" F |
-D/>E  | "D" F G A | "G" B c d | "D" f/e/ d "A7" c | "D" d2 :|
+D/>E | "D" F G A | "G" d c B | "A7" A A/B/ A/G/ | G "D" F |
+D/>E | "D" F G A | "G" B c d | "D" f/e/ d "A7" c | "D" d2 :|
 d/>e | "D" f f e | "Bm" d d c | "G" d d "A7" e | "D" f2 |
    e | "Bm" d d c | "G" B B A | "Em" G G/B/ A/G/ | "A7" G F |
 D/>E | "D" F G A | "G" B c d | "D" f/e/ d "A7" c | "Bm" d2 |
@@ -1535,6 +1585,29 @@ g3e d3B  | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
 g3e d3B  | AGED EGAB | A3A AGAB | cBBA AGED | 
 DEGA G3B | dedB AGAB | A3A AGAB | cBBA AGED |]
 W: This is played one minor third higher, in Eb major in the recording.
+
+X: 92
+T: Calum's Road
+R: strathspey
+M: 4/4
+L: 1/8
+K: Dmaj
+|:D2A>F A3A|B<d d>c B>A F>A|B2 d>E F2 E>D|B,<D (3DEF E4|
+D2A>F A3A|B>d d>c B>A F>A|B2 d>E F2 E>D|1 B,<D D>E D4:|2 B,<D D>E D2F>A||
+|:B2d>c B4|A>B A<E F2F>A|B2d>c B3A|d2d>e (3fed (3dBA|
+B2d>c B4|A>B A<E F2F>A|B2 d>E F2 E>D|B,<D D>E D4:|
+
+X: 93
+T: Calum's Road (G)
+R: strathspey
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2d>B d3d|e<g g>f e>d B>d|e2 g>A B2 A>G|E<G (3GAB A4|
+G2d>B d3d|e>g g>f e>d B>d|e2 g>A B2 A>G|1 E<G G>A G4:|2 E<G G>A G2B>d||
+|:e2g>f e4|d>e d<A B2B>d|e2g>f e3d|g2g>a (3bag (3ged|
+e2g>f e4|d>e d<A B2B>d|e2 g>A B2 A>G|E<G G>A G4:|
+
 
 
 X:113
@@ -1748,16 +1821,14 @@ K: G
 |: Bc | "G" d>Bde d2 ga/g/ | "Em" e>def e2ef | "G" g>fag "D" f>edc | "E" BGAG E2GE            |
         "G" D2EG G2gf      | "Em" e>fed B2ed | "D" d>cBG A>GED     | DEG>A G2                :|
 
-X: 125
-T: Wild Mountain Thyme (in progress)
+X: 101
+T: Wild Mountain Thyme
 R: air
-M: 4/4
+M: 3/4
 L: 1/4
 K: Gmaj
-G>E | D<D E>G | G<G z B/d/ | e>e e>d|B<d z B/d/|
-e2 d>B | A<G B2 AG- G2|A2 B2 c3B|A2 G2 EG3|G2 E2 D2 E2:|
-G2 G2 G2 Bd|e2 e2 d2 Bd|d2 B2 d2 e2|d2 B2 AG G2|
-A2 B2 c2 B2|A2 G2 E<G G2|GE D2 E2 G2|G2 G2 G2||
+G E | D D2 | E2 G | G G2 | z B d | e2 e | e2 d | B d2- | d |
+B d | e3   | d2 B | A G2 | z A B | c2 B | A2 G | E G2- | G :|
 W: 1. Oh, the summer time is coming,
 W: And the trees are sweetly blooming,
 W: And the wild mountain thyme
@@ -1787,7 +1858,7 @@ W: Grows around the blooming heather.
 
 X: 126
 T: Auld Lang Syne
-R: march
+R: air
 M: 4/4
 L: 1/8
 K: Gmaj
@@ -1850,12 +1921,10 @@ A _AG | F3 A | e3 d | c4 | z |
 B A_A | G3 B | e3 d | d2 c2 | z | 
 e ed | d2 c2 | zc de | d4 | z|]
 
-
-
-
 X: 129
 T: Rufty Tufty
 R: barndance
+O: England
 M: 2/2
 L: 1/4
 K: Gmaj
@@ -1863,29 +1932,6 @@ K: Gmaj
 "G"gf ed|"D7"dc "G"B>c|"G"dd "Am"cB|"D7"A2 "G"G2:|
 |:"G"B>c dd|"C"ec "G"d2|"G"B>c dd|
 "C"ecd "G"B/c/|"G"dd cB|"D"A2 "G"G2:|
-
-
-X:130
-T: La Légende de la Cane No. 1
-C: Calum Stewart (Hunter's Moon)
-R: hornpipe
-M: 4/4
-L: 1/8
-K: Gmaj
-DGA |: BBAc BAGA | BBAc BAGA | BBAd B4 | \
-M: 2/4
-zDGA :|
-M: 4/4
-|: B2g2 ege2 | dBGA B2d2 | AcB2 G4 | \
-M: 2/4
-zDGA :|
-M: 4/4
-%%score (1 2)
-[V:1] |: B2BA BAGA | B2dc BAGA | BBAc B4 | \
-[V:2] |: X | x2BA x4 | X | \
-%%score 1
-M: 2/4
-zDGA :|
 
 X:131
 T: Another Winter
@@ -1899,3 +1945,127 @@ cB | Aeed edcB |: AG G/A/B c3E | =FccB c2BA | =FAcd B4 |
 A2AB c3B | cBcg e2d2 | dFGd- ddcd |1 GFe2 d3g | gaed edcB :|2 GFe2 d4 ||
 "^Interlude" g2 ab | c'8- | c'4 b2ag | a8- | a8 |
 ed3- dd/c/ cd- | d4 zFGc | ed3- dc/B/ Bc- | c4 B2AG | A8- | A4 |]
+
+
+
+X:104
+T: Môn
+T: Anglesey
+O: Wales
+B: Blodau'r Grug
+R: march or polka
+L: 1/8
+M: 2/4
+K: D
+A    | "D" d>d AA | "D" FA de/f/ | "Em" g>f ed    | "A7" e>d cB/A/  |
+       "D" d>d AA | "D" FA dd/e/ | "D" ff "A7" ee | "D" d3         :|
+d/e/ | "D" f>f dd | "A7" ee cc   | "G" de/f/ gf   | "A7" e>d c/B/A  |
+       "D" d>d AA | "D" FA dd/f/ | "D" ff "A7" ee | "D" d3         :|
+
+X:105
+T: Y Dydd Cyntaf of Awst
+T: The first day of August
+O: Wales
+R: March
+:: 1/8
+K: D
+   "D" A3 G F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cd e2 | "G" defg "A7" e2 dc |
+   "D" d2 AG F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cdeg | "D" f2 d2 d4 :|
+|: "D" f2 ed "A7" e2 dc | "Bm" d2cB "A7" c2 BA | "G" Bc d2 "A7" cd e2 |  "G" defg "A7" e2 dc |
+   "D" d2 AG F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cdeg | "D" f2 d2 d4 :| 
+
+
+X:106
+T: Gini Gini
+O: Wales
+C: traditional
+S: John Thomas' Tune book (c1752)
+N: originally in D minor; learned this in Shrewsbury 2026
+Z: based on the arr. by Jem Hammond with chords by Neil Browning
+R: Air
+L: 1/8
+M: 3/4
+K: Em
+"Em" E2 EF GA | "Em" B2 B2 e2 | "G" d2 B2 A2 | "Bm" B6 :|
+"G" B2 BA G2 | "D" A2 AG F2 | "Em" G2 E2 e2 | "Bm" d4 e2 |
+"G" B2 A2 G2 | "Am" A2 G2 F2 | "Em" G2 E2 E2 | "Em" E6 |] 
+
+X:107
+T: Walts ar Drensiwr
+T: Waltz on a Trencher
+C: Stephen P. Rees
+O: Wales
+Z: based on the arr. by Jem Hammond with chords by Neil Browning
+R: Watlz
+L: 1/8
+M: 3/4
+K: Em
+"Em" E2 (EF G)(B | "C" c4) (BA) | "G" (Bc d)(,B AG) | "D" F3 (A GF) |
+"Em" E2 (EF G)(B | "Am" c4)(BA) | "Em/B" (BG E)(G "Bm" FG) |1 "Em" E3 (A GF) :|2 "Em" E4 B2 ||
+|: "C" c2 (cdec) | "G" d4 B2 | "Am" c2 (cBAG) | "D" F4 B2 |
+"C" c2 (cdec) | "G" d4 c2 | "Em/B" (BG E)(G "Bm" FG) | "Em" E4 B2 :|
+
+
+
+X: 2
+T: My Home Town
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+N: learned this from the folks from GFW in Shrewsbury 2026
+|: Ade         | "D" f3 a f/e/d | "G" B3 d cB  | "D"A2 d2 d/e/f     | "A"e3 aag   |
+                 "D" f3 a f/e/d | "G" B3 d cB  | "D"A2 d/e/f "A"e>d | "D"d3      :|
+|: "D" A d/e/f | "G" g2 g2 fe   | "D" f2 d2 af | "A"e3 dfA          | "Bm"B3 AAB  |
+              
+
+
+
+X:91
+T: The Homecoming March
+C: Gary Innes
+R: March
+K: Cmaj
+L: 1/8
+M: 4/4
+Q: 160
+N: from the Mànran album "The Test"
+   e>dd<B A2 A<a | A2 A<G A3 g | e>de<g e3d | e<a g>e d>BG<B  |
+   e>dd<B A2 A<a | A2 A<G A3 g | e>de<g e>a g>e | d>BG<B A4  :| 
+|: a>gg<a A4 | a>gg<a A<a G2   | a>gg<a AA/A/ A>g | e<g d>B G>AB<d | 
+   a>gg<a A4 | a>gg<a A<a G>g  | e>d e>g e<a g>e | d>BG<B A4   :|
+|: e>dd<B A2 AG- | G>A A/A/A G>A A/A/A | e>dd<B A/A/A A<g | e<g d>B G>AB<d |
+   e>dd<B A2 AG- | G>A A/A/A G>A A/A/A | e>d e>g e<a g>e | d>BG<B A4 :| 
+|: a>gg<a A2 AG- | G>A A/A/A G>A A/A/A | a>gg<a AA/A/ A>e | e<g d>B G>AB<d | 
+   a>gg<a A2 AG- | G>A A/A/A G>A A/A/A | e>d e>g e<a g>e | d>BG<B A4 :|
+
+
+
+X: 58
+T: The Walls Of Liscarrol
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:dcA AGE|GED D2E|GEE cEE|GAB cde|
+dcA AGE|GED D2E|GEE cEE|EDD D3:|
+d2d ecA|d2d ecA|GEE c2c|GAB cde|
+[1d2d ecA|d2d ecA|GEE cEE|EDD D3:|
+[2dcA AGE|GED D2E|GEE cEE|EDD D3|| 
+
+X: 2
+T: Da Slockit Light
+C: Tom Anderson
+O: Shetland, Scotland
+R: march
+M: 4/4
+L: 1/8
+K: Dmaj
+N: learned this from the GFW folks in Shrewsbury 2026
+|:FE|D3F A2d2|fedc d2A2|B2d2 A2d2|BAGF EGFE|
+D3F A2d2|fedc d2A2|B2G2 AGFE|D4- D2:|
+g2|f2a2 e3c|d3e dcBA|f2a2 e2^g2|a4- a2=g2|
+f2a2 e3c|d3e dcBA|B2G2 AGFE|D4- D3g|
+f2a2 e3c|d3e dcBA|B2d2 A2d2|BAGF EGFE|
+D3F A2d2|fedc d2A2|B2G2 AGFE|D4- D2||
+
