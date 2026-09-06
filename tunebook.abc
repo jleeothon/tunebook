@@ -258,12 +258,12 @@ T: The White Cockade
 R: polka
 M: 2/4
 L: 1/4
-K: Gmaj
+K: Gmaj | 
+N: Learned this tune in Proitze in 2026 from Kevin Rowsome.
 G/A/|BB BA/G/|dB Bg/e/|dB c/B/A/G/|BA AG/A/|
 BB c/B/A/G/|Bd g>a|b/a/g/f/ e/f/g/e/|dB B:|
 |:B/c/ |dB gB|dB d>e|dB/d/ gf/g/|aA AG/A/|
 BB/d/ c/B/A/G/|Bd g>a|b/a/g/f/ e/f/g/e/|dB B:|
-N: Learned this tune in Proitze in 2026 from Kevin Rowsome.
 
 
 
@@ -939,11 +939,11 @@ R: jig
 M: 6/8
 L: 1/8
 K: G
+N: I learned this from Mark Redmond in Proitze in 2026.
 dcA G2G | AGF G2G | dcA G2G | ADE FGA | 
 dcA G2G | AGF Gdd | fdd edd | fdd cAF :|
 |: GBd g3 | gaf g3 | dgg gfg | a2g fga |
 bag agf | gfe f2e | dcA d2e | fed cAF :|
-N: I learned this from Mark Redmond in Proitze in 2026.
 
 
 X:69
@@ -1112,12 +1112,12 @@ R: slip jig
 M: 9/8
 L: 1/8
 K: D
+N: This is a fiddle tune. I learned this tune from Conor in 2026.
+N: The part below middle D can be played a cran instead, or jumping up the octave.
    FAA FAd AFD | FAA FAd B2A |
    FAA FAd AFD | EDB, DFA B2A :|
 |: f3 faf edB | A2f fef gfe |
    f3 faf edB | AFE DFA B2A :|
-N: This is a fiddle tune. I learned this tune from Conor in 2026.
-N: The part below middle D can be played a cran instead, or jumping up the octave.
 
 
 
@@ -1250,12 +1250,12 @@ R: reel
 M: 4/4
 L: 1/8
 K: D
+N: Learned this tune in Proitze in 2026 from Nollaig Mac Cárthaigh. I don't have a recording, this might not be exactly how he taught me.
+N: It's a good tune to practice popping.
 |: fBdB fBdB | AAAc eAce | fBdB fBdB | ecAB cBB2 |
 fBdB fBdB | AAAc eAce | d2dB cAAA | ecAB cBB2 :|
 |: d2fd adfd | d2fd ecAc | d2fd adfd | ecAB cBB2 |
  d2fd adfd | d2fd ecAc | d2dB cAAA | ecAB cBB2 :|
-N: Learned this tune in Proitze in 2026 from Nollaig Mac Cárthaigh. I don't have a recording, this might not be exactly how he taught me.
-N: It's a good tune to practice 
 
 
 X: 1
@@ -2029,7 +2029,7 @@ K: Cmaj
 L: 1/8
 M: 4/4
 Q: 160
-N: from the Mànran album "The Test"
+N: From the Mànran album "The Test"
    e>dd<B A2 A<a | A2 A<G A3 g | e>de<g e3d | e<a g>e d>BG<B  |
    e>dd<B A2 A<a | A2 A<G A3 g | e>de<g e>a g>e | d>BG<B A4  :| 
 |: a>gg<a A4 | a>gg<a A<a G2   | a>gg<a AA/A/ A>g | e<g d>B G>AB<d | 
@@ -2061,7 +2061,7 @@ R: march
 M: 4/4
 L: 1/8
 K: Dmaj
-N: learned this from the GFW folks in Shrewsbury 2026
+N: Learned this from the GFW folks in Shrewsbury 2026
 |:FE|D3F A2d2|fedc d2A2|B2d2 A2d2|BAGF EGFE|
 D3F A2d2|fedc d2A2|B2G2 AGFE|D4- D2:|
 g2|f2a2 e3c|d3e dcBA|f2a2 e2^g2|a4- a2=g2|

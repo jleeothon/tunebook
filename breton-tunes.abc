@@ -1,0 +1,71 @@
+X:1
+T: Ridées
+T: Laridés à six
+C: Traditional
+O: Brittany
+Z: Jem Hammond 12:8:2024
+R: Ridée
+M: 6/4
+L: 1/8
+K: Am
+A>e e>A e2 d>e f>e d>c|B>A B>c d>e d2 B>d c>B:|]
+[|:A2 E2 B>c A2 F2 B>c|A2 [AE]2 B>c d>c B>d c>B:|]
+M:6/4
+A>G A>B c2 B>c d>c A>E|A>G A>B c2 B>c d>c A2:|]
+[|:e2 A>e-e>A c>A B>d c>A|e2 A>e-e>A c>A B>c A2:|]
+
+X:1
+T:Pach Pi
+C:Traditional
+O:Brittany
+Z:Jem Hammond 12:8:2024
+R:Pach Pi
+M:2/4
+L:1/8
+K:G
+"@-74,34 1.""D"DD ED|G/F/E/F/ "G"GG|"D"DD ED|G/F/E/F/ "G"G2:|]
+|:"D"AA BA|"Em"GE ED|"D"AA BA|G/F/E/F/ "G"G2:|]
+M:2/4
+K:Em
+"@-74,32 2.""Em"EG F/E/D/E/|"B"FF "Em"GE|EG F/E/D/E/|"B"FG "Em"E2:|]
+|:"Em"GB A/G/F/G/|"B7"A[AF] "Em"GE|EG F/E/D/E/|1"B"FF "Em"GE:|]2"B"FG "Em"E2|]
+
+ABC Notation
+X:1
+T:An Dro
+C:Traditional
+O:Brittany
+Z:Jem Hammond 12:8:2024
+R:An Dro
+M:2/2
+L:1/8
+K:Em
+"@-76,20 1."B2 Bc A3 B|G2 GE FGFE|B2 Bc A3 B|1 GBGE F3 B:|]2 GBGE F3 E|]
+EAGF E2 GA|B2 ABGA B2|EAGF E2 GA|BEFG E3 B|
+BAGF E2 GA|B2 ABGA B2|EAGF E2 GA|BEFG E2 E/F/G/A/"@-23,36 D.C."|]
+M:2/2
+K:Bm
+"@-80,8 2."f2 de f3 d|e2 d2 c4|f2 de f3 d|e2 d2 c4:|]
+|:B2 cd c2 de|f2 f2 ed c2|B2 cd c2 de|d2 c2 B4:|]
+M:2/2
+K:Am
+"@-62,22 3."A2 e2 e2 e2|d2 c2 B2 cB|A2 e2 e2 e2|d2 c2 B4:|]
+|:ABcA B2 Bc|d2ed c2 B2|ABcA B2 dc|B2 c2 A4:|]
+
+X:1
+T:Hanter Dro
+C:Traditional
+O:Brittany
+Z:Jem Hammond 12:8:2024
+R:Hanter Dro
+M:3/2
+L:1/4
+K:Bm
+"@-80,18 1."B c/d/ B A B2|d c/d/ e e d c|(3Bcd B A B2|d c/d/ e e d c:|]
+|:B c/d/ e e d B|d c/B/ A B c2|(3Bcd e e d B|d c/B/ c d B2:|]
+M:3/2
+K:Em
+"@-74,30 2."F G/F/ E D E2|G F/G/ A F G F:|]|:E F/G/ A F G E|
+G F/E/ D E F2|E F/G/ A F G E|G F/E/ F G E2:|]
+
+

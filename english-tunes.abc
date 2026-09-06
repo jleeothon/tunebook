@@ -1,0 +1,117 @@
+X: 127
+T: Argeers
+T: The Wedding Night
+M: 4/4
+L: 1/8
+K: Dmaj
+Q: 1/4=200
+% good for C and F recorders
+|: "D" defg "Em" e2d2 | "A" c2A2 A4    | a2e2 a3g          | "D" f2d2 d4  |
+   "D" defg "Em" e2d2 | "A" cBcd e2 A2 | "G" Bcd2 "A" cdef | "D" d4d4    :|
+|: "A" cde2 cde2      | a2e2 a2e2      | cde2 cde2         | a2e2 a2e2    |
+   "D" a2gf "Em" g2ag | "D" f2ed "A" e4| "G" Bcd2 "A" cdec | "D" d4 d4   :|
+
+
+X: 129
+T: Rufty Tufty
+R: barndance
+M: 2/2
+L: 1/4
+K: Gmaj
+Q: 1/4=200
+|: "D" d2 de|"D"f2 ef|"G"gg "A7"f>e|d4:|
+"G"gf ed|"D7"dc "G"B>c|"G"dd "Am"cB|"D7"A2 "G"G2:|
+|:"G"B>c dd|"C"ec "G"d2|"G"B>c dd|
+"C"ecd "G"B/c/|"G"dd cB|"D"A2 "G"G2:|
+
+
+
+X: 97
+T: Orange In Bloom
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|: D2 | "C"  E3 G E2  | "G" D2 G2 A2  | B2 d2 B2      | "Am" A4 BA       |
+        "Am" G3 E E2  | "D" D2 G2 A2  | "C" B2 G2 F2  | "G" G4          :|
+|: A2 | "G"  B3 A Bc  | "Bm" d2 c2 B2 | "Am" A2 G2 A2 | "G" B2 c2 d2     |
+        "C"  e2 d2 B2 | "Am" A2 G2 A2 | "Am" B2 A2 G2 | "C" E4          ||
+   D2 | "C"  E3 G E2  | "G" D2 G2 A2  | B2 d2 B2      | "Am" A4 BA       |
+        "Am" G3 E E2  | "D" D2 G2 A2  | "C" B2 G2 F2  | "G" G4          :|
+
+X: 98
+T: Sweet Jennie Jones
+T: Cadair Idris
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+|: A2 | "D" d2 A2 F2 | "Bm" D3 E F2  | "Em" G2 B2 e2 | "A" c2 A2 |
+   c2 | "D" d2 A2 F2 | "G"  G3 A B2  | "A" A2 d2 c2  | "D" d4       :|
+|: de | "D" f2 d2 f2 | "A"  e2 c2 A2 | "G" d2 B2 d2  | "A" c2 A2     |
+   de | "D" f2 d2 f2 | "A" e2 c2 A2  | "G" d2 c2 B2  | "A" A4        ||
+   Bc | "D" d2 A2 F2 | "Bm" D3E F2   | "Em" G2 B2 e2 | "A" c2 A2 c2  |
+        "D" d2 A2 F2 | "G" G3A B2    | "A" A2 d2 c2  | "D" d4 |]
+
+X:130
+T: Parson's Farewell
+M: 2/2
+L: 1/8
+K: Fmaj
+Q: 1/4=200
+"<(" ">)"  A2 | "Dm" f2d2 d2ef | "C" g2c2 c3c   | def2 e2d2     | "Am" c2A4   :|
+        |: a2 | "F" f4 f2a2    | f4 f2a2        | fga2 fga2     | "C" g2e2 e4  | 
+                 efg2 efg2     | "Dm" f2d2 defg | "A" a2gf ede2 | "Dm" d6     :|
+
+X:131
+T: The New Fagary
+M: 2/2
+L: 1/8
+K: Bbmaj
+F | "Bb" B>B c>c d>e fd | "Cm" ed c>B "F" A3 F | "Bb" B>B c>c d>e fd | "C7" gf =e>f "F" f3 :| z ||
+|: "F" f>f g>a "Bb" b2 ab | "Eb" g>g a>g "Bb" f2 de/f/ | "Gm" gggf "C" =e2 cd/"^(♭)"e/ | "Bb" fd "F" c>B "Bb" B4 :| 
+M: 6/8
+|: "Bb" dfd "F" c>BA | "Bb" B2F B2c     | "Bb" dfd "F" c>BA   | "Bb" B3 d3     :|
+|: "Bb" dfd "F" f3   | "Bb" dfd "Eb" e3 | "Eb" g>ab "Bb" f>ed | "F" c3 "Bb" B3 :|
+
+X:132
+T: Newcastle
+M: 2/2
+L: 1/4
+K: Gmaj
+Q: 1/4=200
+"<(" ">)" D | "G" Bd GB | G>A GD | "G" Bd Gd | "C" eg2 f/e/ | 
+"G" dB AG | "C" Ee2 d/c/ | "G" dB "D7" A>G | "G" G3 :|
+|: e/f/ | "G" g/f/e/d/ g>B | "Am" Ag2A | "Em" G>A BF | "C" Ee2 f |
+       "G" g/f/e/d/ g>B | "Am" AAc>d | "Em" eB "D7" A>G | "G" G3 :|
+
+X:133
+T: Gathering Peascods 
+M: 2/2
+L: 1/4
+K: Gmaj
+Q: 1/4=200
+"<(" ">)" G | "G" d2 dd | B>c dd | "C" edcB     | "D" A3 B | AGGF       | "G" G3 :|
+       |: G | "D" FD FG | A2 BA  | "G" G/A/B AG | "D" F3 F | "A7" EDE>D | "D" D3 :|
+       |: d | "G" BG GA/B/ | "C" c3 c      | "G" BG GA/B/       | "C" c3  |
+          d | "G" BG GA/B/ | "C" c>d ed/c/ | "G" Bc/B/ "D7" A>G | "G" G3 :|
+
+X:135
+T: Botany Bay
+M: 4/4
+R: barndance
+L: 1/8
+K: Gmaj
+   B2 | "Em" e2dc B2E2 | "D" A2FE D2EF | "G" GDAG "Em" E2"D"D2 | "Em" E6 ||
+|: EF | "Em" G2"D"A2 "G" BcdB | "Em" e2"D"d2 "Em"e2B2 | "D" d2f2 edBA | "Em" B6 :|
+   d2 | "Em" e2dc B2E2 | "D" A2FE D2EF | "G" GDAG "Em" E2"D"D2 | "Em" E6 |]
+
+X:134
+T: Wooddicock
+M: 3/4
+L: 1/4
+K: Fmaj
+Q: 1/4=200
+"<(" ">)" A | "Dm" d2d | f> e d | "Am" c2 A | c2 c | "Dm" d2 d | f> e d | "Am" c A A | A2 :|
+       |: d | "F" c2 B | c> B A | "Gm" B G G | G2 G | "A" A A A | "A7" A> =B ^c | "Dm" d D D | D2 :|
+
