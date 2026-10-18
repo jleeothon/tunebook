@@ -638,17 +638,6 @@ GA B2 G2|d2 B2 G2|G2 B2 G2|d2 B2 G2|f4 f2|f2 g2 a2|f6|d4:|
 a2 g2 f2|e2 d2 c2|de f2 d2|c2 A2 F2|f4 c2|de f2 d2|B6|G4:|
 
 
-X:24
-T: Rattling Bog
-R: march
-M: 2/2
-K: Dmaj
-L: 1/4
-d/e/ | "D" f2 f>e | "G" dB B>B | "D" Ad d/c/d/e/ | "A" fee |
-d/e/ | "D" f2 f>e | "G" dB B>B | "D" Aa af       | "A" ed "D" d/A/ :|
-|: d/e/ | "D" fd "A" ed/e/ | "D" fd "A" ed/e/ | "D" fa af | "A" ed e |
-   d/e/ | "D" fd "A" ed/e/ | "D" fd "A" ed/e/ | "D" fa af | "A" ed "D" d/A/ :|
-
 X: 20
 T: Chanter's Tune
 R: march
@@ -659,6 +648,17 @@ K: Dmix
    DD AG/E/  | DD cB/c/       | dA AG/E/ | D2 D2       :|
 |: A>B cB/c/ | A/G/A/B/ cB/c/ | dA AG/E/ | cB/c/ AG/E/  |
    DD AG/E/  | DD cB/c/       | dA AG/E/ | D2 D2       :|
+
+X:24
+T: Rattling Bog
+R: march
+M: 2/2
+K: Dmaj
+L: 1/4
+d/e/ | "D" f2 f>e | "G" dB B>B | "D" Ad d/c/d/e/ | "A" fee |
+d/e/ | "D" f2 f>e | "G" dB B>B | "D" Aa af       | "A" ed "D" d/A/ :|
+|: d/e/ | "D" fd "A" ed/e/ | "D" fd "A" ed/e/ | "D" fa af | "A" ed e |
+   d/e/ | "D" fd "A" ed/e/ | "D" fd "A" ed/e/ | "D" fa af | "A" ed "D" d/A/ :|
 
 %%newpage
 
