@@ -1928,22 +1928,6 @@ Q: 134
    AGAB AG A/B/d |1 zedB dBAA-    | AGAB ABdB  :|2 zedB dBAA-    | AGAB AGED |]                          
 
 
-X:107
-T: Là dhomh 's mi a' dìreadh a' bhalaich
-O: Scotland
-T: As I ascended the pass
-C: based on the arr. by Mànran, from the Patrick McDonald Collection
-M: 6/8
-L: 1/8
-K: Gmaj
-% good for C and F recorders
-   "Em" B3 B2d | "C" e2e ged | "Bm" B3 B2A | "D" Bd2 "Em" e3 |
-|: "Em" E3 G2A | "G" B3 e2d | "G"B2A GB2 | "Em" E3 G3 |
-   "C" e3 ged | e3G3 | "G"d2B BAG | "Bm"d3 B3 ||
-   "Em" B3 B2d | "C"e2e ged | "Bm"B3 B2A | "D"Bd2 "Em"e3 :|
-
-
-
 X: 92
 T: Calum's Road
 R: strathspey
@@ -2152,4 +2136,20 @@ EDEF GFGA|BAGB d3c|B2E2 GFE_E|E6:|
 e2B2 Bdef|gagf efed|Bdeg fedf|e6 ef|
 g3e f3d|edBc d3e|dBAF GABc|dBAF GFED|
 B,2E2 EFGA|B2e2 edef|e2B2 BAGF|E6:|
+
+
+
+X:107
+T: Là dhomh 's mi a' dìreadh a' bhalaich
+O: Scotland
+T: As I ascended the pass
+C: based on the arr. by Mànran, from the Patrick McDonald Collection
+M: 6/8
+L: 1/8
+K: Gmaj
+% good for C and F recorders
+   "Em" B3 B2d | "C" e2e ged | "Bm" B3 B2A | "D" Bd2 "Em" e3 |
+|: "Em" E3 G2A | "G" B3 e2d | "G"B2A GB2 | "Em" E3 G3 |
+   "C" e3 ged | e3G3 | "G"d2B BAG | "Bm"d3 B3 ||
+   "Em" B3 B2d | "C"e2e ged | "Bm"B3 B2A | "D"Bd2 "Em"e3 :|
 
