@@ -407,6 +407,18 @@ K: Gmaj
 |: AB | "C" c2 cd Bc     | "D" A2 A2 Bc     |"G"d2 de cd|"Em"B2 B2 |
    gf | "C"e2 e2 ge     | "G"d2 d2 GA | "G" B2 Bc "D"AB|"G"G4:|
 
+X: 95
+T: Paddy's Green Shamrock Shore
+T: Gleanntáin Ghlas' Ghaoth Dobhair, Lough Erin Shore
+R: waltz
+M: 3/4
+L: 1/8
+K: Amix
+A2 | "A" e3f g2 | e4 A2      | e3c e2     | "D"d2c2A2 | "G" G3F G2 | "A" A4 B2  | A6-     | A4  |
+a2 | "D" f3e d2 | "A" e3f g2 | "A" a3g f2 | e4 a2     | "G" g3fe2  | "D" d2A2B2 | "G" G6- | G4  |
+ag | "D" f3e d2 | "A" e3f g2 | "A" a3g f2 | e4 a2     | "G" g3f e2 | "D" d2A2B2 | "G" G6- | G4  |
+A2 | "A" e3f g2 | e4A2       | e3c e2     | "D"d2c2A2 | "G" G3F G2 | "D" A4 B2  | "A" A6- | A4 :|
+
 %%newpage
 
 X:26
@@ -1406,18 +1418,6 @@ D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
 D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
-
-X: 95
-T: Paddy's Green Shamrock Shore
-T: Gleanntáin Ghlas' Ghaoth Dobhair, Lough Erin Shore
-R: waltz
-M: 3/4
-L: 1/8
-K: Amix
-A2 | "A" e3f g2 | e4 A2      | e3c e2     | "D"d2c2A2 | "G" G3F G2 | "A" A4 B2  | A6-     | A4  |
-a2 | "D" f3e d2 | "A" e3f g2 | "A" a3g f2 | e4 a2     | "G" g3fe2  | "D" d2A2B2 | "G" G6- | G4  |
-ag | "D" f3e d2 | "A" e3f g2 | "A" a3g f2 | e4 a2     | "G" g3f e2 | "D" d2A2B2 | "G" G6- | G4  |
-A2 | "A" e3f g2 | e4A2       | e3c e2     | "D"d2c2A2 | "G" G3F G2 | "D" A4 B2  | "A" A6- | A4 :|
 
 X: 96
 T: Carolan's Welcome
