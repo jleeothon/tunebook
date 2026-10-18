@@ -822,6 +822,41 @@ E2-E>e d>BA<G | A2-A>B A>GE<G | A2- A>B A>GE<G  |1 B>GF<G d>GE<D :|2 B>GF<G d>AB
 |: e2-e>g b>c'b<a | f2-f>g f>ed<e | B2-B>d e2-e>f | g2- g>a b>ag<f |
 e2-e>g b>c'b<a | f2-f>g f>ed<e | B2-B>d e2-ed/B/ | A4 A>BA<G :| 
 
+X: 122
+T: The Foggy Dew
+R: march
+M: C
+L: 1/8
+K: Emin
+Bd | "Em" e2 dB e2 dB | "D" A2 B2 D2 EF|"Em"GBAG E3D|"Em"E6 Bd|
+     "Em" e2 dB e2 dB | "D" A2 B2 D2 EF|"Em"GBAG E3D|E6 D/E/F|
+     "G"  G3 B d2 cB  | "D" A2 GA "Em"B2 GA|"Em"B2 gf edBd|"Em" e3 f e2 |
+Bd | "Em" e2 dB e2 dB | "D" A2 B2 D2 EF|"Em"GBAG E2 D2|"Em"E6:|
+W: 1. As down the glen one Easter morn to a city fair rode I
+W: There armed lines of marching men in squadrons passed me by
+W: No pipe did hum, no battle drum did sound its loud tattoo
+W: But the Angelus Bell o'er the Liffey's swells rang out in the foggy dew
+W: 
+W: 2. Right proudly high in Dublin town hung they out a flag of war
+W: 'Twas better to die 'neath an Irish sky than at Suvla or Sud-El-Bar
+W: And from the plains of Royal Meath strong men came hurrying through
+W: While Britannia's Huns, with their long-range guns sailed in through the foggy dew
+W: 
+W: 3. 'Twas England bade our wild geese go, that small nations might be free
+W: Their lonely graves are by Suvla's waves or the fringe of the great North Sea
+W: Oh, had they died by Pearse's side or fought with Cathal Brugha
+W: Their names we'd keep where the Fenians sleep, 'neath the shroud of the foggy dew
+W: 
+W: 4. Their bravest fell, and the Requiem bell rang mournfully and clear
+W: For those who died that Eastertide in the springing of the year
+W: While the world did gaze, with deep amaze, at those fearless men, but few
+W: Who bore the fight that freedom's light might shine through the foggy dew
+W: 
+W: 5. And back through the glen I rode again, my heart with grief was sore
+W: For I parted then with valiant men whom I shall never see n'more
+W: But to and fro in my dreams I go and I kneel and pray for you
+W: For slavery fled, O glorious dead, when you fell in the foggy dew
+
 %%newpage
 
 X: 29
@@ -1882,41 +1917,6 @@ R: jig
 "G" bge "A" a2a | gfd "D" efe | "A" e2e "D" dcd | "A" e2e aec |
 "G" gdd "D" f2f | "A" ece "D" dBd | "G" gab "D" fdf |1 "A" e3 efe :||2 "A" e3 e2a |]
 
-
-X: 122
-T: The Foggy Dew
-R: march
-M: C
-L: 1/8
-K: Emin
-Bd | "Em" e2 dB e2 dB | "D" A2 B2 D2 EF|"Em"GBAG E3D|"Em"E6 Bd|
-     "Em" e2 dB e2 dB | "D" A2 B2 D2 EF|"Em"GBAG E3D|E6 D/E/F|
-     "G"  G3 B d2 cB  | "D" A2 GA "Em"B2 GA|"Em"B2 gf edBd|"Em" e3 f e2 |
-Bd | "Em" e2 dB e2 dB | "D" A2 B2 D2 EF|"Em"GBAG E2 D2|"Em"E6:|
-W: 1. As down the glen one Easter morn to a city fair rode I
-W: There armed lines of marching men in squadrons passed me by
-W: No pipe did hum, no battle drum did sound its loud tattoo
-W: But the Angelus Bell o'er the Liffey's swells rang out in the foggy dew
-W: 
-W: 2. Right proudly high in Dublin town hung they out a flag of war
-W: 'Twas better to die 'neath an Irish sky than at Suvla or Sud-El-Bar
-W: And from the plains of Royal Meath strong men came hurrying through
-W: While Britannia's Huns, with their long-range guns sailed in through the foggy dew
-W: 
-W: 3. 'Twas England bade our wild geese go, that small nations might be free
-W: Their lonely graves are by Suvla's waves or the fringe of the great North Sea
-W: Oh, had they died by Pearse's side or fought with Cathal Brugha
-W: Their names we'd keep where the Fenians sleep, 'neath the shroud of the foggy dew
-W: 
-W: 4. Their bravest fell, and the Requiem bell rang mournfully and clear
-W: For those who died that Eastertide in the springing of the year
-W: While the world did gaze, with deep amaze, at those fearless men, but few
-W: Who bore the fight that freedom's light might shine through the foggy dew
-W: 
-W: 5. And back through the glen I rode again, my heart with grief was sore
-W: For I parted then with valiant men whom I shall never see n'more
-W: But to and fro in my dreams I go and I kneel and pray for you
-W: For slavery fled, O glorious dead, when you fell in the foggy dew
 
 X:124
 T: You'll Never Deceive Me Again
