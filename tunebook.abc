@@ -480,6 +480,24 @@ K: Gmaj
    Bd | "C"  e2 d2 g2 | "G"  B2 dB AG | "D7" A2 "Bm" d3 c   | "Em"  B3 B  |
    AG | "Am" EA AG AB | "Em" AG E2 GE | "C"  DE G2 "D7"  G2 | "G"  G4    :|
 
+
+X: 100
+T: Kevin Keegan's
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+   BG DG Bd | c2 B2 c2  | d2 g3e      |  d3e dc       |
+   BG DG Bd | c2 A3G    | F/G/A d2 D2 |  F/G/A d2 D2  |
+   BG DG Bd | c2 B2 c2  | d2 g3e      |  d3e dc       |
+   BG DG Bd | c2  A2 F2 | G3B AF      |1 G4 dc       :|2 G3 A Bd |
+|: g3 g g2  | f3 f f2   | e2 f2 g2    |  d3e dc       |
+   BG DG Bd | c2 A3G    | F/G/A d2 D2 |  F/G/A d2 D2  |
+[1 g3 g g2  | f3 f f2   | e2 f2 g2    | d3e dc        |
+   BG DG Bd | c2 A2 F2  | G3B AF      | G3 A Bd      :|
+[2 BG DG Bd | c2 B2 c2  | d2 g3 e     | d3 e dc       |
+   BG DG Bd | c2 A2 F2  | G3B AF      | G4   dc       |]
+
 %%newpage
 
 X:26
@@ -1479,24 +1497,6 @@ D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
 D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
-
-X: 100
-T: Kevin Keegan's
-R: waltz
-M: 3/4
-L: 1/8
-K: Gmaj
-   BG DG Bd | c2 B2 c2  | d2 g3e      |  d3e dc       |
-   BG DG Bd | c2 A3G    | F/G/A d2 D2 |  F/G/A d2 D2  |
-   BG DG Bd | c2 B2 c2  | d2 g3e      |  d3e dc       |
-   BG DG Bd | c2  A2 F2 | G3B AF      |1 G4 dc       :|2 G3 A Bd |
-|: g3 g g2  | f3 f f2   | e2 f2 g2    |  d3e dc       |
-   BG DG Bd | c2 A3G    | F/G/A d2 D2 |  F/G/A d2 D2  |
-[1 g3 g g2  | f3 f f2   | e2 f2 g2    | d3e dc        |
-   BG DG Bd | c2 A2 F2  | G3B AF      | G3 A Bd      :|
-[2 BG DG Bd | c2 B2 c2  | d2 g3 e     | d3 e dc       |
-   BG DG Bd | c2 A2 F2  | G3B AF      | G4   dc       |]
-
 
 X: 101
 T: Leaving Uist
