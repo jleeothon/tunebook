@@ -778,6 +778,24 @@ g3e d3B  | AGED EGAB | A3A AGAB | cBBA AGED |
 DEGA G3B | dedB AGAB | A3A AGAB | cBBA AGED |]
 W: This is played one minor third higher, in Eb major in the recording.
 
+
+
+X:113
+T: Fingal's Cave
+Q: Scotland
+R: march
+M: C
+L: 1/8
+K: Ador
+P: with or without swing
+% good for C and F recorders
+E<G | "Am" A4 B>AG<A          | B2A2 A2 e<d         | "G"  B2 A<G "Em"  e2 d<B  | "G"  d2G2    G2        |
+E<G | "Am" A4 B>AG<A          | B2A2 A2 e<d         | "G"  B2 A<G "Em"  e2 d<B  | "Am" e2A2    A2       :|
+B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "Em" g4 | "Am" e2 d<e "G"   g2 f<g  | "Em" e>dB<A "G" G2     |
+B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "G" g4  | "G"  g>ef<d "Em"  g>ed<B  | "Am" e2A2 A2           |
+B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "Em" g4 | "Am" e2 d<e "G"   g2 f<g  | "Em" e>dB<A "G" G>AB<G |
+      "C" c2 B<c "D" d2 c<d   | "Em" e2 d<e "Am" a4 | "G"  g>ef<d "Em7" g>ed<B  | "Am" e2 A2 A2          |]
+
 %%newpage
 
 X: 29
@@ -1777,24 +1795,6 @@ K: Gmaj
 G2d>B d3d|e>g g>f e>d B>d|e2 g>A B2 A>G|1 E<G G>A G4:|2 E<G G>A G2B>d||
 |:e2g>f e4|d>e d<A B2B>d|e2g>f e3d|g2g>a (3bag (3ged|
 e2g>f e4|d>e d<A B2B>d|e2 g>A B2 A>G|E<G G>A G4:|
-
-
-
-X:113
-T: Fingal's Cave
-Q: Scotland
-R: march
-M: C
-L: 1/8
-K: Ador
-P: with or without swing
-% good for C and F recorders
-E<G | "Am" A4 B>AG<A          | B2A2 A2 e<d         | "G"  B2 A<G "Em"  e2 d<B  | "G"  d2G2    G2        |
-E<G | "Am" A4 B>AG<A          | B2A2 A2 e<d         | "G"  B2 A<G "Em"  e2 d<B  | "Am" e2A2    A2       :|
-B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "Em" g4 | "Am" e2 d<e "G"   g2 f<g  | "Em" e>dB<A "G" G2     |
-B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "G" g4  | "G"  g>ef<d "Em"  g>ed<B  | "Am" e2A2 A2           |
-B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "Em" g4 | "Am" e2 d<e "G"   g2 f<g  | "Em" e>dB<A "G" G>AB<G |
-      "C" c2 B<c "D" d2 c<d   | "Em" e2 d<e "Am" a4 | "G"  g>ef<d "Em7" g>ed<B  | "Am" e2 A2 A2          |]
 
 
 
