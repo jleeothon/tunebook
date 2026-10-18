@@ -808,6 +808,20 @@ K: Dmaj
 |: f>g | "D" a2 A2 A2 =c2 | "G" B2 G2 "D" A4 | "D" A2 d2 A2 d2       | "A" e>dc<B A2 f>g |
          "D" a2 A2 A2 =c2 | "G" B2 G2 "D" A4 | "D" A2 d2 "A" f>ed<c  | "D" d4 d2 :|
 
+
+X: 117
+T: Luna's
+C: Bradley Parker(?)
+O: Scotland
+R: march
+M: 4/4
+K: Emin
+L: 1/8
+E2-E>e d>BA<G | A2-A>B A>GE<G | A2- A>B A>GE<G | G>AF<G B>GE<D  |
+E2-E>e d>BA<G | A2-A>B A>GE<G | A2- A>B A>GE<G  |1 B>GF<G d>GE<D :|2 B>GF<G d>AB<d ||
+|: e2-e>g b>c'b<a | f2-f>g f>ed<e | B2-B>d e2-e>f | g2- g>a b>ag<f |
+e2-e>g b>c'b<a | f2-f>g f>ed<e | B2-B>d e2-ed/B/ | A4 A>BA<G :| 
+
 %%newpage
 
 X: 29
@@ -1836,20 +1850,6 @@ Q: 134
    AGAB AG A/B/d |1 zedB dBAA-    | AGAB AGED  :|2 zedB dBAA-    | AGAB ABdB ||
 |: e4 degA-      |  AAAB AG A/B/d | e2de gedg-  |  gd g/a/b aged | e3B gedA- |
    AGAB AG A/B/d |1 zedB dBAA-    | AGAB ABdB  :|2 zedB dBAA-    | AGAB AGED |]                          
-
-X: 117
-T: Luna's
-C: Bradley Parker(?)
-O: Scotland
-R: march
-M: 4/4
-K: Emin
-L: 1/8
-E2-E>e d>BA<G | A2-A>B A>GE<G | A2- A>B A>GE<G | G>AF<G B>GE<D  |
-E2-E>e d>BA<G | A2-A>B A>GE<G | A2- A>B A>GE<G  |1 B>GF<G d>GE<D :|2 B>GF<G d>AB<d ||
-|: e2-e>g b>c'b<a | f2-f>g f>ed<e | B2-B>d e2-e>f | g2- g>a b>ag<f |
-e2-e>g b>c'b<a | f2-f>g f>ed<e | B2-B>d e2-ed/B/ | A4 A>BA<G :| 
-
 
 X: 118
 T: Miss Admiral Gordon's
