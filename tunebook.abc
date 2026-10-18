@@ -1641,6 +1641,21 @@ fed fed|fed fed|ecd ecd|egf e3|
 d2 D FGA|B2 e cBc|d2 D FGA|Bec d3 |
 
 
+X: 9
+T: Cock O' The North
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+M: 12/8
+N: popular in the local slow Session at Molly Malone's
+% good for C and F recorders
+|: d2 A B2  .| A d2 A B2 A | F2 F FED .| E2 E EFA  |
+   d2 A B2  .| A d2 A B2 A | F2 F EFE .| DFE D3   :|
+|: F2 F FED .| F2 A B2 A   | F2 F FED .| E2 E EDE  |
+   F2 F FED .| F2 A B2 A   | F2 F EFE .| DFE D3   :|
+
+
 X: 73
 T: The Road To Lisdoonvarna
 T: An Bóthar go dtí Lios Dún Bhearna
@@ -1679,21 +1694,6 @@ dcd e2d .  | BAB d2B   |A3 B2A . |G3 G3  :|
 d3 def .   |g3 gfg     |a2gf2e . |def g3 :|
 |:g3 d3 .  |B3 G3      |FGA DEF .|G2A B2d |
 g3 d3 .    |B3 G3      |FGA DEF .|G3 G3  :|
-
-
-X: 9
-T: Cock O' The North
-R: jig
-M: 6/8
-L: 1/8
-K: Dmaj
-M: 12/8
-N: popular in the local slow Session at Molly Malone's
-% good for C and F recorders
-|: d2 A B2  .| A d2 A B2 A | F2 F FED .| E2 E EFA  |
-   d2 A B2  .| A d2 A B2 A | F2 F EFE .| DFE D3   :|
-|: F2 F FED .| F2 A B2 A   | F2 F FED .| E2 E EDE  |
-   F2 F FED .| F2 A B2 A   | F2 F EFE .| DFE D3   :|
 
 
 X: 76
