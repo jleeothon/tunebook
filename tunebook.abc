@@ -516,6 +516,20 @@ K: Emin
          "Em" B3 A AG | "D/F#" AG E3 G  | "Am" A3 c B2        | "C" e3e de    |
          "G" g3 a ag  | "Em" ed B3 A    | "G" G3 B de         | "Am" A4      :|
 
+
+X: 2
+T: My Home Town
+C: Pipe Major John McLellan
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+N: learned this from the folks from GFW in Shrewsbury 2026
+|: Ade        | "D" f3 a f/e/d | "G" B3 d cB  | "D" A2 d2 d/e/f      | "A" e3 aag   |
+                "D" f3 a f/e/d | "G" B3 d cB  | "D" A2 d/e/f "A" e>d | "D" d3      :|
+|: "D" A d/e/f | "G" g2 g2 fe   | "D" f2 d2 af | "A" e3 dfA           | "Bm" B3 AAB  |
+                "D" d3 a f/e/d | "G" B3 d cB  | "D" A2 d/e/f "A" e>d | "D" d3      :|
+
 %%newpage
 
 X:26
@@ -1515,20 +1529,6 @@ D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
 D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
-
-X: 2
-T: My Home Town
-C: Pipe Major John McLellan
-R: waltz
-M: 3/4
-L: 1/8
-K: Dmaj
-N: learned this from the folks from GFW in Shrewsbury 2026
-|: Ade        | "D" f3 a f/e/d | "G" B3 d cB  | "D" A2 d2 d/e/f      | "A" e3 aag   |
-                "D" f3 a f/e/d | "G" B3 d cB  | "D" A2 d/e/f "A" e>d | "D" d3      :|
-|: "D" A d/e/f | "G" g2 g2 fe   | "D" f2 d2 af | "A" e3 dfA           | "Bm" B3 AAB  |
-                "D" d3 a f/e/d | "G" B3 d cB  | "D" A2 d/e/f "A" e>d | "D" d3      :|
-
 
 X: 102
 T: Planxty Fanny Power
