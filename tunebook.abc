@@ -872,6 +872,20 @@ A2AB c3B | cBcg e2d2 | dFGd- ddcd |1 GFe2 d3g | gaed edcB :|2 GFe2 d4 ||
 "^Interlude" g2 ab | c'8- | c'4 b2ag | a8- | a8 |
 ed3- dd/c/ cd- | d4 zFGc | ed3- dc/B/ Bc- | c4 B2AG | A8- | A4 |]
 
+X:104
+T: Môn
+T: Anglesey
+O: Wales
+B: Blodau'r Grug
+R: march or polka
+L: 1/8
+M: 2/4
+K: D
+A    | "D" d>d AA | "D" FA de/f/ | "Em" g>f ed    | "A7" e>d cB/A/  |
+       "D" d>d AA | "D" FA dd/e/ | "D" ff "A7" ee | "D" d3         :|
+d/e/ | "D" f>f dd | "A7" ee cc   | "G" de/f/ gf   | "A7" e>d c/B/A  |
+       "D" d>d AA | "D" FA dd/f/ | "D" ff "A7" ee | "D" d3         :|
+
 %%newpage
 
 X: 29
@@ -2032,20 +2046,6 @@ W:
 W: Chorus
 
 
-
-X:104
-T: Môn
-T: Anglesey
-O: Wales
-B: Blodau'r Grug
-R: march or polka
-L: 1/8
-M: 2/4
-K: D
-A    | "D" d>d AA | "D" FA de/f/ | "Em" g>f ed    | "A7" e>d cB/A/  |
-       "D" d>d AA | "D" FA dd/e/ | "D" ff "A7" ee | "D" d3         :|
-d/e/ | "D" f>f dd | "A7" ee cc   | "G" de/f/ gf   | "A7" e>d c/B/A  |
-       "D" d>d AA | "D" FA dd/f/ | "D" ff "A7" ee | "D" d3         :|
 
 X:105
 T: Y Dydd Cyntaf of Awst
