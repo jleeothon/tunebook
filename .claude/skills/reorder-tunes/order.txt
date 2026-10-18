@@ -1,0 +1,24 @@
+# Category order for tunebook.abc.
+# One category per line: "Category: r-value, r-value, ...".
+# R: values match case-insensitively against the first R: line of each tune.
+# Within a category, tunes keep their current relative order (stable sort).
+# "Other: *" catches any R: value not listed above; reorder.py warns about those.
+
+Barndances: barndance
+Polkas: polka
+Waltzes: waltz
+Mazurkas: mazurka
+Planxties: planxty
+Marches: march, march or polka
+Hornpipes: hornpipe
+Single jigs: single jig
+Jigs: jig
+Slides: slide
+Slip jigs: slip jig
+Single reels: single reel
+Reels: reel
+Strathspeys: strathspey
+Schottisches: schottische
+Airs: air, slow air
+Set dances: set dance
+Other: *
