@@ -618,6 +618,19 @@ K: Gmaj
 d2d e2e|f2f g3|g2d g2c|g2B Aag|
 fed ded|dcB Adc|BAG AGF|G3 G2:|
 
+
+
+X: 105
+T: Planxty Lady Wrixon
+R: planxty
+M: 6/8
+L: 1/8
+K: Ador
+f    | "Am" e2A cBA      | e2A efg           | "G" d2G BAG      | d2G Bcd           |
+       "Am" e2A cBA      | e2A efg           | "G" d2B g2B      | "Am" BAA A2    :|
+|: e | "Am" a2a "Em" bge | "Am" a2a "Em" bge | "G" g2g "D" faf  | "G" gBG "C" e2g   |
+       "D" faf "C" ege   | "D" dfd "Am" cec  | "G" BdB "Em" BgB | "Am"  BAA A2   :|
+
 %%newpage
 
 X:26
@@ -1603,19 +1616,6 @@ Q: 180
 %|: "G" g3d BG~G2 | "D" ABcA DFAd  | "G" ~g3d Bcde    |1 "D" fdcA "G" GABd  :|2 "D" fdcA "G" ~G3c  ||
 |: "G"BGAF "D" DEFE | ~F2df "C" ecdc | "G" BG"D/A"AF "D"Dfeg    |1 "D" fdcA "G" ~G3c  :|2 "D"fdcA "G"GABc  ||
 |: "G"dg~g2 dg~g2| "D"dffe fgfe  |1 "G"dg~g2 "D"d^cde | fdcA "G"GABc    :|2 "D"defg ~a3g  | fdcA "G" GABd |]
-
-
-
-X: 105
-T: Planxty Lady Wrixon
-R: planxty
-M: 6/8
-L: 1/8
-K: Ador
-f    | "Am" e2A cBA      | e2A efg           | "G" d2G BAG      | d2G Bcd           |
-       "Am" e2A cBA      | e2A efg           | "G" d2B g2B      | "Am" BAA A2    :|
-|: e | "Am" a2a "Em" bge | "Am" a2a "Em" bge | "G" g2g "D" faf  | "G" gBG "C" e2g   |
-       "D" faf "C" ege   | "D" dfd "Am" cec  | "G" BdB "Em" BgB | "Am"  BAA A2   :|
 
 
 
