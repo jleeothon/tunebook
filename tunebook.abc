@@ -730,6 +730,20 @@ GA | "Am" B2 A2 A2 GA | B2 A2 A2 Bd | "G" g2 fg "D" a2 fd | "Am" f e3 e2 ef |
    |: B/c/d | "G" g2 fg "D" a2 fd | "Am" fe3 e2 af | "G" g2 fg "D" a2 fd | 
       "Am" fe3 e2 ef | "G" g2 fg "D" a2 dB | "G" B2 AB "D" d2 A/B/d | "Am" e3 f "Em" gfed | "Am" B2 A2 A2 :|
 
+X: 110
+T: Strong Stands The Black Tower
+R: march
+M: 4/4
+L: 1/8
+K: Gmaj
+C: Ewen Henderson
+e2 dg e2 A2|BABd edef|g2 ea gedB|d2G2 gfed |
+e2 dg e2 A2|BABd edef|g2 ea gedB|e2 A2 A2 g2:|
+e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|d2 G2 gfed|
+e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|e2 A2 A2 Bd|
+e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|d2 G2 gfed|
+e2 dg e2 A2|BABd edef|g2 ea gedB|e2 A2 A4|]
+
 %%newpage
 
 X: 29
@@ -1707,20 +1721,6 @@ K: Gmaj
    "Em" B3 B2d | "C"e2e ged | "Bm"B3 B2A | "D"Bd2 "Em"e3 :|
 
 
-
-X: 110
-T: Strong Stands The Black Tower
-R: march
-M: 4/4
-L: 1/8
-K: Gmaj
-C: Ewen Henderson
-e2 dg e2 A2|BABd edef|g2 ea gedB|d2G2 gfed |
-e2 dg e2 A2|BABd edef|g2 ea gedB|e2 A2 A2 g2:|
-e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|d2 G2 gfed|
-e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|e2 A2 A2 Bd|
-e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|d2 G2 gfed|
-e2 dg e2 A2|BABd edef|g2 ea gedB|e2 A2 A4|]
 
 X:112
 T: Lahinch Beach
