@@ -27,6 +27,19 @@ K: Gmaj
 |: g/a/g | "C" e2d2 "G" g3e | dedB G2g/a/g   | "C" e2d2 "G" g3d           | "D" B2A2 A2 "G" g/a/g  |
            "C" e2d2 "G" g3e | dedB G2 "D" Ac | "G" B2AG "C" E2 "D" D/E/F  | "G" G4      G2            |]
 
+X: 1
+T: Rochdale Coconut Dance
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+N: learned this in 2026 from the GFW folk in Shrewsbury
+|:EFGF E2 B2|EFGF E2 B2|c2 Ac B2 G2|AG F2 E2 D2|
+EFGF E2 B2|EFGF E2 B2|c2 Ac B2 G2|AG F2 G4:|
+|:G2 BB G2 B2|AGFG ABcA|G2 BB G2 B2|AGFE D2 D2|
+G2 BB G2 B2|AGFG ABcA|BdcB AcBA|G2 B2 G4:|
+
+
 
 X: 3
 T: Lucy Farr's (G major)
@@ -40,18 +53,6 @@ K: Gmaj
            "G" BcdB "C" G2G2 | "G" GABG "C" E2D2 | "G" DEGA BddB | "D7" A2 "G" G2G2     :|
 
 
-X: 4
-T: Kilnamona
-R: barndance
-M: 4/4
-L: 1/8
-K: Dmaj
-|: "D" ADFA DEFA | A2G2 "A" E3F  | "Em" G2E2 B3B      | "A" B2A2 "D" F4  |
-   "D" ADFA DEFA | A2G2 "A" E3F  | "Em" G2E2 "A" B2A2 | "D" D4 D4       :|
-|: "Bm" f4 fedf   | "A" e3e edBc  | "Bm" dedB "A" A2FA      | "Bm" B2e2 "Em" e2de |
-   "Bm" f3f fedf  | "A" e3e edBc  | "Bm" dedB "A" A2 FA | B2d2 "D" d4 :|
-
-
 X: 5
 T: Lucy Farr's (A dorian)
 R: barndance
@@ -62,6 +63,18 @@ K: Ador
    "Am" cdec "G" B3A | "Am" ABcA "D" F2E2  | "Am" EFAB ceec | "G" B2 "Am" A2A4 :|
 |: "Am" cdec "G" B2A2  | "Am" ABcA "D" F2E2  | "Am" EFAB ceec | c2B2 "G" B3B   |
    "Am" cdec "G" B2A2  | "Am" ABcA "D" F2E2  | "Am" EFAB ceec | "G" B2 A2 "Am" A4 :|
+
+
+X: 4
+T: Kilnamona
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+|: "D" ADFA DEFA | A2G2 "A" E3F  | "Em" G2E2 B3B      | "A" B2A2 "D" F4  |
+   "D" ADFA DEFA | A2G2 "A" E3F  | "Em" G2E2 "A" B2A2 | "D" D4 D4       :|
+|: "Bm" f4 fedf   | "A" e3e edBc  | "Bm" dedB "A" A2FA      | "Bm" B2e2 "Em" e2de |
+   "Bm" f3f fedf  | "A" e3e edBc  | "Bm" dedB "A" A2 FA | B2d2 "D" d4 :|
 
 X:6
 T: Around The Fairy Fort
@@ -424,12 +437,12 @@ T: Trumpet Hornpipe
 R: hornpipe
 M: 4/4
 L: 1/8
-N: learned this from the GFW folks in Shrewsbury in 2026
 K: Gmaj
-   D2 | (3GGG G2 (3 GGG G2 | BGBd gdBG          | (3 DDD D2 (3 DDD D2 | FDFA cAFD  | 
-        (3GGG G2 (3GGG G2  | BGBd g3g           | fagf egfe           | d2 f2 d2  :|
-|: Bc | (3ddd d2 (3ddd d2  | efgf edcB          | cded cBAG           | FGAG FDEF  |
-        (3GGG G2 (3=FFF F2 | (3EEE E2 (3_EEE E2 | Dgfe dcBA           | G2 B2 G2  :|
+N: learned this from the GFW folks in Shrewsbury in 2026
+   D2 | "G" (3GGG G2 (3 GGG G2 | BGBd gdBG      | "D" (3 DDD D2 (3 DDD D2 | FDFA cAFD  | 
+        "G" (3GGG G2 (3GGG G2  | BGBd g3g       | "D" fagf "A" egfe       | "D" d2 f2 d2  :|
+|: Bc | "G" (3ddd d2 (3ddd d2  | efgf edcB  | "C" cded "A" cBAG       | "D" FGAG FDEF  |
+        "G" (3GGG G2 "Bdim" (3=FFF F2 | "C7" (3EEE E2 "Adim7" (3_EEE E2   | "G" Dgfe "D" dcBA   | "G" G2 B2 G2  :|
 
 X: 31
 T: The Sailor's Hornpipe
@@ -443,30 +456,26 @@ K: Gmaj
 |: dc | "G" Bdgd Bdgd    |  "C" e2c2c2ed | "A" ^ceae ^ceae | "D" f2d2d2   |
    ef | "G"gfed "C" edcB    | "Am" cBAG "G" GFED | "C" EGFA "G" GB"D"Ac   | "G"B2G2G2 :|
 
-
 X:130
-T: La Légende de la Cane No. 1
+T: La Légende de la Cane No. 1 (edited)
 C: Calum Stewart (Hunter's Moon)
 R: hornpipe
-M: 4/4
 L: 1/8
 K: Gmaj
-DGA |: BBAc BAGA | BBAc BAGA | BBAd B4 | \
+N: This is the first tune in the track "La Légende de la Cane" in Calum Stewart and Heikki Bourgault's "Hunter's Moon".
+N: I don't know the name of the tune itself.
 M: 2/4
-zDGA :|
+zDGA | \
 M: 4/4
-|: B2g2 ege2 | dBGA B2d2 | AcB2 G4 | \
+BBAc BAGA | BBAc BAGA | BBAd B4 :|
 M: 2/4
-zDGA :|
+|: zDGA | \
 M: 4/4
-%%score (1 2)
-[V:1] |: B2BA BAGA | B2dc BAGA | BBAc B4 | \
-[V:2] |: X | x2BA x4 | X | \
-%%score 1
+B2g2 ege2 | dBGA B2d2 | AcB2 G4 :|
 M: 2/4
-zDGA :|
-W: This is the first tune in the track "La Légende de la Cane" in Calum Stewart and Heikki Bourgault's "Hunter's Moon".
-W: I don't know the name of the tune itself.
+|: zDGA | \
+M: 4/4
+B2BA BAGA | B2dc BAGA | BBAc B4 :|
 
 X: 34
 T: Portsmouth
@@ -961,19 +970,18 @@ N: popular in the local slow Session at Molly Malone's
 |:edB dBA G2D|GAB dge dBA|edB dBA G2A|BAG FAG FED:|
 
 
-X: 9
-T: Cock O' The North
+
+X: 58
+T: The Walls Of Liscarrol
 R: jig
 M: 6/8
 L: 1/8
-K: Dmaj
-M: 12/8
-N: popular in the local slow Session at Molly Malone's
-|:d2 A B2 A d2 A B2 A|F2 F FED E2 E EFA|
-d2 A B2 A d2 A B2 A|F2 F EFE DFE D3:|
-|:F2 F FED F2 A B2 A|F2 F FED E2 E EDE|
-F2 F FED F2 A B2 A|F2 F EFE DFE D3:|
-
+K: Dmix
+|:dcA AGE|GED D2E|GEE cEE|GAB cde|
+dcA AGE|GED D2E|GEE cEE|EDD D3:|
+d2d ecA|d2d ecA|GEE c2c|GAB cde|
+[1d2d ecA|d2d ecA|GEE cEE|EDD D3:|
+[2dcA AGE|GED D2E|GEE cEE|EDD D3|| 
 
 
 X: 70
@@ -999,20 +1007,31 @@ R: jig
 M: 6/8
 L: 1/8
 K: Gmaj
-|:BAG A2d|cAG ~G3|BAG A2d|cAG FGA|
-BAG A2d|cAG GBd|gbg afd|cAG G2A:|
-|:~B3 Bdc|~A3 dcA|~G3 GFG|ADE FGA|
-~B3 Bdc|A3 dAG|FDE F2d|1 cAG G2A:|2 cAG G2g||
-|:fdd edd|fdd edd|fdd ed^c|d=cA GBd|
-fdd edd|fdd ed^c|dfa gfd|1 cAG G2z:|2 cAG GBd||
-|:~g3 efd|cAG GBd|~g3 efd|cAG FGA|
-~g3 efd|~g3 fed|gfg afd|1 cAG GBd:|2 cAG G2E||
-|:DBB DBB|DAA DAA|~G3 GBd|cAG FGA|
-DBB DBB|DAA DAA|G3 GBd|1 cAF G2E:|2 cAF G2A||
-|:~B3 ~D3|~A3 ~D3|~G3 GBd|cAG FGA|
-~B3 ~D3|~A3 ~D3|~G3 GBd|cAF G2A:|
-|:B2G A2G|d2G G2A|B2G A2G|cAG FGA|
-BAG AGF|GFD FGA|fag fed|cAF G2A:|
+|: A | BAG A2d | cAG G3   | BAG A2d  | cAG FGA   |
+       BAG A2d | cAG GBd  | gbg afd  | cAG G2   :|
+|: A | B3 Bdc  | A3 dcA   | G3 GFG   | ADE FGA   |
+       B3 Bdc  | A3 dAG   | FDE F2d  | cAG G2   :|
+|: g | fdd edd | fdd edd  | fdd ed^c | d=cA GBd  |
+       fdd edd | fdd ed^c | dfa gfd  | cAG G2   :|
+|: d | g3 efd  | cAG GBd  | g3 efd   | cAG FGA   |
+       g3 efd  | g3 fed   | gfg afd  | cAG G2   :|
+|: E | DBB DBB | DAA DAA  | G3 GBd   | cAG FGA   |
+       DBB DBB | DAA DAA  | G3 GBd   | cAF G2   :|
+|: A | B3 D3   | A3  D3   | G3 GBd   | cAG FGA   |
+       B3 D3   | A3  D3   | G3 GBd   | cAF G2   :|
+|: A | B2G A2G | d2G G2A  | B2G A2G  | cAG FGA   |
+       BAG AGF | GFD FGA  | fag fed  | cAF G2   :|
+
+
+X: 1
+T: Untitled (1/2 in track Maol Dònnaidh)
+R: jig
+K: Gmaj
+L: 1/8
+   GDG GDG | d2A BAG | GDG GDG | A2G E3  |
+   GDG GDG | d2A BAG | AGE d2A | G2E D3 :|
+|: d3 e2B  | d2A BAG | d3 e2B  | A2G E3  |
+   d3 e2B  | d2A BAG | AGE d2A | G2E D3 :|
 
 
 
@@ -1083,6 +1102,21 @@ d3 def .   |g3 gfg     |a2gf2e . |def g3 :|
 g3 d3 .    |B3 G3      |FGA DEF .|G3 G3  :|
 
 
+X: 9
+T: Cock O' The North
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+M: 12/8
+N: popular in the local slow Session at Molly Malone's
+% good for C and F recorders
+|: d2 A B2  .| A d2 A B2 A | F2 F FED .| E2 E EFA  |
+   d2 A B2  .| A d2 A B2 A | F2 F EFE .| DFE D3   :|
+|: F2 F FED .| F2 A B2 A   | F2 F FED .| E2 E EDE  |
+   F2 F FED .| F2 A B2 A   | F2 F EFE .| DFE D3   :|
+
+
 X: 76
 T: Elizabeth Kelly's Delight
 R: slip jig
@@ -1138,10 +1172,10 @@ R: reel
 M: C|
 L: 1/8
 K: Edor
-GF  |"Em"EBBA B2EB|B2 AB dBAG|"D"F/E/D AD BDAD|F/E/D AD BAGF|
-     "Em"EBBA B2EB|B2 AB defg|"D" afec dBAF|DEFD "Em"E2:|
-|:gf|"Em"eBB2 eBgf|eBB2 gedB|"D"A2 FA DAFA|A2 FA defg|
-"Em"eBB2 eBgf|eBB2 defg|"D"afec dBAF|DEFD "Em"E2:|
+   GF | "Em" EBBA B2EB | B2 AB dBAG | "D" F/E/D AD BDAD | F/E/D AD BAGF  |
+        "Em" EBBA B2EB | B2 AB defg | "D" afec dBAF     | DEFD "Em"E2   :|
+|: gf | "Em" eBB2 eBgf | eBB2 gedB  | "D" A2 FA DAFA    | A2 FA defg     |
+        "Em" eBB2 eBgf | eBB2 defg  | "D" afec dBAF     | DEFD "Em"E2   :|
 
 
 X: 81
@@ -1258,19 +1292,6 @@ fBdB fBdB | AAAc eAce | d2dB cAAA | ecAB cBB2 :|
  d2fd adfd | d2fd ecAc | d2dB cAAA | ecAB cBB2 :|
 
 
-X: 1
-T: Rochdale Coconut Dance
-R: reel
-M: 4/4
-L: 1/8
-K: Gmaj
-N: learned this in 2026 from the GFW folk in Shrewsbury
-|:EFGF E2 B2|EFGF E2 B2|c2 Ac B2 G2|AG F2 E2 D2|
-EFGF E2 B2|EFGF E2 B2|c2 Ac B2 G2|AG F2 G4:|
-|:G2 BB G2 B2|AGFG ABcA|G2 BB G2 B2|AGFE D2 D2|
-G2 BB G2 B2|AGFG ABcA|BdcB AcBA|G2 B2 G4:|
-
-
 
 X: 90
 T: The Sailor's Bonnet
@@ -1329,8 +1350,8 @@ R: waltz
 M: 3/4
 L: 1/8
 K: Gmaj
-|: GA | "G" B2 BD "D" cA |"G"d2 d2 gf|"C"e2 e2 ge|"G"d2 d2 |
-   GA | "G" B2 BD "D"cA     | "G"d2 d2 "D"cA     |"G"G2 G2 "D"AB|"G"G4:|
+|: GA | "G" B2 BG "D" cA |"G"d2 d2 gf|"C"e2 e2 ge|"G"d2 d2 |
+   GA | "G" B2 BG "D"cA     | "G"d2 d2 "D"cA     |"G"G2 G2 "D"AB|"G"G4:|
 |: AB | "C" c2 cd Bc     | "D" A2 A2 Bc     |"G"d2 de cd|"Em"B2 B2 |
    gf | "C"e2 e2 ge     | "G"d2 d2 GA | "G" B2 Bc "D"AB|"G"G4:|
 
@@ -1442,6 +1463,18 @@ K: Emin
          "Em" B3 A AG | "D/F#" AG E3 G  | "Am" A3 c B2        | "C" e3e de    |
          "G" g3 a ag  | "Em" ed B3 A    | "G" G3 B de         | "Am" A4      :|
 
+X: 2
+T: My Home Town
+C: Pipe Major John McLellan
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+N: learned this from the folks from GFW in Shrewsbury 2026
+|: Ade        | "D" f3 a f/e/d | "G" B3 d cB  | "D" A2 d2 d/e/f      | "A" e3 aag   |
+                "D" f3 a f/e/d | "G" B3 d cB  | "D" A2 d/e/f "A" e>d | "D" d3      :|
+|: "D" A d/e/f | "G" g2 g2 fe   | "D" f2 d2 af | "A" e3 dfA           | "Bm" B3 AAB  |
+                "D" d3 a f/e/d | "G" B3 d cB  | "D" A2 d/e/f "A" e>d | "D" d3      :|
 
 
 X: 102
@@ -1572,12 +1605,12 @@ e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|d2 G2 gfed|
 e2 dg e2 A2|BABd edef|g2 ea gedB|e2 A2 A4|]
 
 X:112
-T:Lahinch
-C:Ryan Murphy, Mànran
-R:march
-M:4/4
-L:1/8
-K:Gmaj
+T: Lahinch Beach
+C: Ryan Murphy, Mànran
+R: march
+M: 4/4
+L: 1/8
+K: Gmaj
 DEGA G3B | dedB AGAB | A3A AGAB | c2BA AGED   |
 DEGA G3B | dedB AGAB | A3A AGAB |1 c2BA AGED :|2 cBBA G/2A/2B d/2e/2f ||
 g3e d3B  | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
@@ -1827,34 +1860,36 @@ R: air
 M: 3/4
 L: 1/4
 K: Gmaj
-G E | D D2 | E2 G | G G2 | z B d | e2 e | e2 d | B d2- | d |
-B d | e3   | d2 B | A G2 | z A B | c2 B | A2 G | E G2- | G :|
-W: 1. Oh, the summer time is coming,
-W: And the trees are sweetly blooming,
-W: And the wild mountain thyme
-W: grows around the blooming heather.
-W: 
-W: Chorus:
-W: Will you go, lassie, go?
-W: And we’ll all go together
-W: To pull wild mountain thyme
-W: All around the blooming heather,
-W: Will you go lassie, go?
-W: 
+Q: 180
+G E | D D2 | E2 G | G G2- | G B d | e2 e | e2 d | B d2- | d |
+w: Oh, the sum-mer time is co-ming_ and the trees are sweet-ly bloom-ing,
+B d | e3   | d2 B | A G2- | G A B | c2 B | A2 G | E G2- | G ||
+w: and the wild moun-tain thyme__ grows a-round the bloom-ing hea-ther,
+G E | D3 | E G2 | G3- | G B d | e3 | e d> d | B d2- | d |
+w: Will you go, las-sie, go?_ And we'll all go_ to-ge-ther.
+B d | e3   | d2 B | A G2- | G A B | c2 B | A2 G | E G2- | G |]
+w: to pull wild moun-tain thyme__ all a-round the bloom-ing hea-ther.
 W: 2. I will build my love a bower
 W: By yon clear and crystal fountain,
 W: And on it I will pile
 W: All the flowers of the mountain.
+W: 
+W: Will you go, lassie, go…
+W: 
 W: 3. If my true love, she won’t have me,
 W: I will surely find another
 W: To pull wild mountain thyme
 W: All around the blooming heather.
 W: 
+W: Will you go, lassie, go…
+W: 
 W: 4. Oh, the summer time is coming
 W: And the trees are sweetly blooming
 W: And the wild mountain thyme
 W: Grows around the blooming heather.
-
+W: 
+W: Will you go, lassie, go…
+W: 
 
 X: 126
 T: Auld Lang Syne
@@ -1864,7 +1899,7 @@ L: 1/8
 K: Gmaj
 D2    |"G" G3 G "Em" G2 B2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 G "G" B2 d2    |"C" e6  |
 "C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 E "C" E2 "D" D2|"G" G6  ||
-"C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "D7" e2 |"G" d3 B "Em" B2 d2    |"C" G6  |
+"C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "D7" e2 |"G" d3 B "Em" B2 d2    |"C" e6  |
 "C" g2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 "C" E E2 "D" D2|"G" G4G3||
 W: 1. Should old acquaintance be forgot,
 W: and never brought to mind?
@@ -1906,20 +1941,6 @@ W:
 W: Chorus
 
 
-
-X:128
-T:Ententanz
-M:2/4
-L:1/16
-R:polka
-K:Dmaj
-AA BBFF | A2AA BBFF | A2AA BBdd | c2c2 B2A2 | G2 |
-GG AAEE | G2GG AAEE | G2AA BBcc |1 B2B2 A2G2 | F2 :|2 d2B2 A2G2 | F2 ||
-L:1/8
-A _AG | F3 A | f3 e | e2 d2 | z |
-A _AG | F3 A | e3 d | c4 | z |
-B A_A | G3 B | e3 d | d2 c2 | z | 
-e ed | d2 c2 | zc de | d4 | z|]
 
 X: 129
 T: Rufty Tufty
@@ -2007,18 +2028,6 @@ K: Em
 
 
 
-X: 2
-T: My Home Town
-R: waltz
-M: 3/4
-L: 1/8
-K: Dmaj
-N: learned this from the folks from GFW in Shrewsbury 2026
-|: Ade         | "D" f3 a f/e/d | "G" B3 d cB  | "D"A2 d2 d/e/f     | "A"e3 aag   |
-                 "D" f3 a f/e/d | "G" B3 d cB  | "D"A2 d/e/f "A"e>d | "D"d3      :|
-|: "D" A d/e/f | "G" g2 g2 fe   | "D" f2 d2 af | "A"e3 dfA          | "Bm"B3 AAB  |
-              
-
 
 
 X:91
@@ -2039,20 +2048,6 @@ N: From the Mànran album "The Test"
 |: a>gg<a A2 AG- | G>A A/A/A G>A A/A/A | a>gg<a AA/A/ A>e | e<g d>B G>AB<d | 
    a>gg<a A2 AG- | G>A A/A/A G>A A/A/A | e>d e>g e<a g>e | d>BG<B A4 :|
 
-
-
-X: 58
-T: The Walls Of Liscarrol
-R: jig
-M: 6/8
-L: 1/8
-K: Dmix
-|:dcA AGE|GED D2E|GEE cEE|GAB cde|
-dcA AGE|GED D2E|GEE cEE|EDD D3:|
-d2d ecA|d2d ecA|GEE c2c|GAB cde|
-[1d2d ecA|d2d ecA|GEE cEE|EDD D3:|
-[2dcA AGE|GED D2E|GEE cEE|EDD D3|| 
-
 X: 2
 T: Da Slockit Light
 C: Tom Anderson
@@ -2068,4 +2063,91 @@ g2|f2a2 e3c|d3e dcBA|f2a2 e2^g2|a4- a2=g2|
 f2a2 e3c|d3e dcBA|B2G2 AGFE|D4- D3g|
 f2a2 e3c|d3e dcBA|B2d2 A2d2|BAGF EGFE|
 D3F A2d2|fedc d2A2|B2G2 AGFE|D4- D2||
+
+
+X:128
+T:Ententanz
+M:2/4
+L:1/16
+R:polka
+K:Dmaj
+AA BBFF | A2AA BBFF | A2AA BBdd | c2c2 B2A2 | G2 |
+GG AAEE | G2GG AAEE | G2AA BBcc |1 B2B2 A2G2 | F2 :|2 d2B2 A2G2 | F2 ||
+L:1/8
+A _AG | F3 A | f3 e | e2 d2 | z |
+A _AG | F3 A | e3 d | c4 | z |
+B A_A | G3 B | e3 d | d2 c2 | z | 
+e ed | d2 c2 | zc de | d4 | z|]
+
+X:132
+T: L'Air Mignone
+R: air
+O: Québec
+M: 4/4
+L: 1/8
+K: Gmaj
+   DGA | B3d BAGA | B3d BAGA | E3G D3B | AGFG A  |
+   DGA | B3d BAGA | B3d BAGA | E3G D3B | AGFA G :|
+|: DBd | e3g edBd | e3g edBG | E3G D3B | AGFG A  |
+   DBd | e3g edBd | e3g edBG | E3G D3B | AGFA G :|
+
+X:133
+T: Captain Grant
+R: march
+O: Scotland
+C: trad.
+M: 4/4
+L: 1/8
+K: Amix
+N: I first heard this from Mànran's album An Dà La
+A2A2 A2Bd | e4d2 gf | e2A2 A2ed | BdBA A2GB | 
+A2A2 A2Bd | e4d2 gf | e3d GABG | A4 A2de :|
+A2a2 a3g | a2e2 e3f | g3a g2ge | g2d2 d2e2 | 
+A2a2 a3g | a2e2 e2a2 | gfed efgd | B2A2 A4 |
+A2a2 a3g | a2e2 e3f | g3a g2ge | g2d2 d2g2 | 
+e2g2 a2 a/a/a | a3g e2a2 | gfed efgd | B2A2 A4  |] 
+
+
+X: 1
+T: King Of The Fairies
+R: set dance
+O: Ireland or Scotland
+M: 4/4
+L: 1/8
+K: Edor
+|:B,2|EDEF GFGA|B2B2 G2GA|B2E2 EFGE|FGFE D2B,2|
+EDEF GFGA|BAGB d3c|B2E2 GFE_E|E6:|
+|:d2|e2e2 Bdef|gagf e3f|e2B2 BABc|dedc BcdB|
+e2B2 Bdef|gagf efed|Bdeg fedf|e6 ef|
+g3e f3d|edBc d3e|dBAF GABc|dBAF GFED|
+B,2E2 EFGA|B2e2 edef|e2B2 BAGF|E6:|
+
+
+X: 12
+T: Planxty Burke
+R: waltz
+M: 3/4
+L: 1/8
+K: Ador
+|:c2|A2 B2 cd|e4 d2|c2 cd e2|d2 B2 G2|G2 B2 G2|g2 B2 G2|G2 B2 G2|d2 B2 G2|
+AB c2 A2|e2 c2 A2|A2 c2 A2|a2 c2 A2|g4 g2|g2 a2 b2|g6|e4:|
+|:ga|b2 a2 g2|a2 g2 f2|g2 f2 e2|d2 e2 f2|g2 f2 e2|a2 g2 f2|g2 f2 e2|d2 B2 G2|
+AB c2 A2|e2 c2 A2|A2 c2 A2|e2 c2 A2|g4 g2|g2 a2 b2|g6|e4:|
+|:d2|ef g2 g2|g2 ag f2|g2 ag fe|d2 B2 G2|A2 a2 a2|a2 ba g2|a2 e2 f2|g4 ga|
+b2 a2 g2|f2 e2 d2|ef g2 e2|d2 B2 G2|g4 d2|ef g2 e2|c6|A4:|
+
+
+
+X: 7
+T: Planxty Burke
+R: waltz
+M: 3/4
+L: 1/8
+K: Gdor
+|:B2|G2 A2 Bc|d4 c2|B2 c2 d2|c2 A2 F2|F2 A2 F2|f2 A2 F2|F2 A2 F2|c2 A2 F2|
+GA B2 G2|d2 B2 G2|G2 B2 G2|g2 B2 G2|f4 f2|f2 g2 a2|f6|d4:|
+|:fg|a2 g2 f2|g2 f2 e2|f2 e2 d2|c2 d2 e2|f2 e2 d2|g2 f2 e2|f2 e2 d2|c2 A2 F2|
+GA B2 G2|d2 B2 G2|G2 B2 G2|d2 B2 G2|f4 f2|f2 g2 a2|f6|d4:|
+|:c2|de f2 f2|f2 gf e2|f2 gf ed|c2 A2 F2|g4 g2|g2 ag f2|g2 d2 e2|f4 g2|
+a2 g2 f2|e2 d2 c2|de f2 d2|c2 A2 F2|f4 c2|de f2 d2|B6|G4:|
 

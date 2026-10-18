@@ -115,3 +115,41 @@ Q: 1/4=200
 "<(" ">)" A | "Dm" d2d | f> e d | "Am" c2 A | c2 c | "Dm" d2 d | f> e d | "Am" c A A | A2 :|
        |: d | "F" c2 B | c> B A | "Gm" B G G | G2 G | "A" A A A | "A7" A> =B ^c | "Dm" d D D | D2 :|
 
+
+
+X:136
+T: The Jovial Beggars
+M: 2/2
+L: 1/8
+K: Cmaj
+"C" g2 e2  "F" f2 e2 | "G" dcBA G2 de | "F" f2A2 "G" B2AB | "C" c2G2 E2 DC :|
+|: "C" E2G2- G2 FE | "F" F2 A2- A2 GF | "G" B2 d2- d2 c2 | B2 AB G2 d2 | 
+"C" e2 de c2 de | "Dm" f2 ef d2 ef | "G" g2 A2 B2 AB |1 c2 G2 E2 DC |2 "C" c8 :|
+
+X:137
+T: Jenny Pluck Pears
+Z: John Playford "The Dancing Master"
+M: 6/8
+K: Gmin
+L: 1/8
+"Gm" G2G "Dm" A>Bc | "Gm" B>AG "Dm" F2D | "Gm" G2G "Dm" A>Bc | "Gm" B>AG "Dm" F2D | 
+"Bb" d2d "F" c2A | "Gm" B>AG "Dm" F2D | "C" =E>^FG "D" F>EF | "G" G3 G3 :|
+M: 3/4
+L: 1/4
+N: Slower
+|: "Gm" G d "D" c | "Gm" B2 A | G d "D" c | "Gm" B2 A | 
+"Gm" G d "D" c | "Gm" B> A G | "D" ^F> =E F | "Gm" B3 :| 
+
+X:138
+T: Dull Sir John
+C: traditional
+O: England
+K: Em
+M: 6/8
+L: 1/8
+N: This could be a nice tune for the uillean pipes.
+"Em" E2^D E2F | (G>F)G "D"AFD | "G" G2F G2A | B3 B2A |
+"G" B2A B2^c | "D" d>ed D2G | "D" F2G A>BA | "G" G3 G3 :|
+|: "G" B2A B2^c | "D" d>ed D2G | F2G A>B^G | "Am" A3 A2d | 
+"G" B>AB "D" A2F | "Em" Gg2 "Bm" F2B | "Em" B2e "B"ef^d | "Em" e3 e3 :| 
+

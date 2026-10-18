@@ -34,6 +34,10 @@ The repo lives in iCloud and is reachable at two equivalent paths on this machin
 
 Edits via either path land in the same iCloud-synced files — don't treat them as separate copies. Expect `.DS_Store` noise; do not commit it.
 
+## Reordering tunes
+
+Tune order in `tunebook.abc` follows the categories in `.claude/skills/reorder-tunes/order.txt`; use the `reorder-tunes` skill. Any reordering — by skill or by hand — moves **one tune per commit**, and a move commit contains nothing but that move (no retags, reformatting, or `X:` renumbering).
+
 ## PDFs
 
 The `*.pdf` files are rendered outputs and are checked in. They are produced externally (e.g. `abcm2ps` then `ps2pdf`, or an editor like EasyABC) — there is no script in the repo to regenerate them. After editing an `.abc`, the matching `.pdf` is stale until rebuilt; do not attempt to regenerate it unless explicitly asked.
