@@ -1534,22 +1534,6 @@ dcA G2G | AGF Gdd | fdd edd | fdd cAF :|
 bag agf | gfe f2e | dcA d2e | fed cAF :|
 
 
-X:69
-T: The Kid on the Mountain
-T: Bogadh Faoi Shúsa
-R: slip jig
-M: 9/8
-L: 1/8
-K: Emin
-N: popular in the local slow Session at Molly Malone's
-|:EFE FEF G2 F|E3 cBA BGE|EFE FED G2 A|BAG FAG FED:|
-|:BGB AFA G2 D|GAB dge dBA|BGB AFA G2 A|BAG FAG FED:|
-|:gfg efe e2 f|gfg efg afd|gfg efe e2 a|bag fag fed:|
-|:eBB e2f g2f|eBB efg afd|eBB e2f g2a|bag fag fed:|
-|:edB dBA G2D|GAB dge dBA|edB dBA G2A|BAG FAG FED:|
-
-
-
 X: 58
 T: The Walls Of Liscarrol
 R: jig
@@ -1694,6 +1678,22 @@ dcd e2d .  | BAB d2B   |A3 B2A . |G3 G3  :|
 d3 def .   |g3 gfg     |a2gf2e . |def g3 :|
 |:g3 d3 .  |B3 G3      |FGA DEF .|G2A B2d |
 g3 d3 .    |B3 G3      |FGA DEF .|G3 G3  :|
+
+
+
+X:69
+T: The Kid on the Mountain
+T: Bogadh Faoi Shúsa
+R: slip jig
+M: 9/8
+L: 1/8
+K: Emin
+N: popular in the local slow Session at Molly Malone's
+|:EFE FEF G2 F|E3 cBA BGE|EFE FED G2 A|BAG FAG FED:|
+|:BGB AFA G2 D|GAB dge dBA|BGB AFA G2 A|BAG FAG FED:|
+|:gfg efe e2 f|gfg efg afd|gfg efe e2 a|bag fag fed:|
+|:eBB e2f g2f|eBB efg afd|eBB e2f g2a|bag fag fed:|
+|:edB dBA G2D|GAB dge dBA|edB dBA G2A|BAG FAG FED:|
 
 
 X: 76
