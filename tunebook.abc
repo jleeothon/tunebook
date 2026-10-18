@@ -886,6 +886,19 @@ A    | "D" d>d AA | "D" FA de/f/ | "Em" g>f ed    | "A7" e>d cB/A/  |
 d/e/ | "D" f>f dd | "A7" ee cc   | "G" de/f/ gf   | "A7" e>d c/B/A  |
        "D" d>d AA | "D" FA dd/f/ | "D" ff "A7" ee | "D" d3         :|
 
+
+X:105
+T: Y Dydd Cyntaf of Awst
+T: The first day of August
+O: Wales
+R: March
+:: 1/8
+K: D
+   "D" A3 G F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cd e2 | "G" defg "A7" e2 dc |
+   "D" d2 AG F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cdeg | "D" f2 d2 d4 :|
+|: "D" f2 ed "A7" e2 dc | "Bm" d2cB "A7" c2 BA | "G" Bc d2 "A7" cd e2 |  "G" defg "A7" e2 dc |
+   "D" d2 AG F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cdeg | "D" f2 d2 d4 :| 
+
 %%newpage
 
 X: 29
@@ -2045,19 +2058,6 @@ W: for auld lang syne.
 W: 
 W: Chorus
 
-
-
-X:105
-T: Y Dydd Cyntaf of Awst
-T: The first day of August
-O: Wales
-R: March
-:: 1/8
-K: D
-   "D" A3 G F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cd e2 | "G" defg "A7" e2 dc |
-   "D" d2 AG F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cdeg | "D" f2 d2 d4 :|
-|: "D" f2 ed "A7" e2 dc | "Bm" d2cB "A7" c2 BA | "G" Bc d2 "A7" cd e2 |  "G" defg "A7" e2 dc |
-   "D" d2 AG F2 GA | "G" B2 B2 "D" A2 A2 | "G" Bc d2 "A7" cdeg | "D" f2 d2 d4 :| 
 
 
 X:106
