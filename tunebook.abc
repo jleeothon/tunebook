@@ -1763,6 +1763,19 @@ K: Bmin
 |: Bc | "D"  d2dc dfed | "A" c/B/A eA fAec | "Bm" dcBc defb | "A" afec "Bm" B2 :|
 |: Bc | "Bm" dBBB bafb | "A" afec ABce     | "Bm" dBBB bafb | "A" afec "Bm" B2 :|
 
+
+
+X: 91
+T: The Dublin Lads
+R: single reel
+M: 4/4
+L: 1/8
+K: Gmaj
+Q: 180
+%|: "G" g3d BG~G2 | "D" ABcA DFAd  | "G" ~g3d Bcde    |1 "D" fdcA "G" GABd  :|2 "D" fdcA "G" ~G3c  ||
+|: "G"BGAF "D" DEFE | ~F2df "C" ecdc | "G" BG"D/A"AF "D"Dfeg    |1 "D" fdcA "G" ~G3c  :|2 "D"fdcA "G"GABc  ||
+|: "G"dg~g2 dg~g2| "D"dffe fgfe  |1 "G"dg~g2 "D"d^cde | fdcA "G"GABc    :|2 "D"defg ~a3g  | fdcA "G" GABd |]
+
 X: 80
 T: Cooley's
 R: reel
@@ -1900,19 +1913,6 @@ Q: 180
 |: A2FA dfef | dfef dBBB | A2FA defe | dBAF AD D2:|
 |: faab afef | afef dBBB | fbbb bafa | bfaf feef |
    bfff afef | afef dBBB | A2FA defe | dBAF AD D2:|
-
-
-X: 91
-T: The Dublin Lads
-R: single reel
-M: 4/4
-L: 1/8
-K: Gmaj
-Q: 180
-%|: "G" g3d BG~G2 | "D" ABcA DFAd  | "G" ~g3d Bcde    |1 "D" fdcA "G" GABd  :|2 "D" fdcA "G" ~G3c  ||
-|: "G"BGAF "D" DEFE | ~F2df "C" ecdc | "G" BG"D/A"AF "D"Dfeg    |1 "D" fdcA "G" ~G3c  :|2 "D"fdcA "G"GABc  ||
-|: "G"dg~g2 dg~g2| "D"dffe fgfe  |1 "G"dg~g2 "D"d^cde | fdcA "G"GABc    :|2 "D"defg ~a3g  | fdcA "G" GABd |]
-
 
 
 X:106
