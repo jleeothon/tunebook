@@ -702,6 +702,19 @@ K: Ador
 |1 e2 | a2a2 gega | b2b2 bag2 | e2d2 de gb | a4 a2     :|
 |2 E2 | AGAB d2B2 | A2G2 g3e  | d3G BdBG   | A4 A2     ||
 
+X: 108
+T: Am Monadh Ruadh
+C: Calum Stewart
+O: Scotland
+R: march
+M: C
+L: 1/8
+K: Emin
+"Em" E2GB e2ed|"D" de A2 AGAB|"G" G3d g3f|"D" fgag f2Bd|
+"Em" e2 dB e2 dB|"D" A2 AB ED D2|1 "G" G6 AG|"D" F3 A FA F/E/D:|2 "G" G3 A "D" F2 ED|"Em" E4 z ABd||
+"Em" e2e3dgf|"D" d2d3 ABd|"G" gfdB e2 dB|"D" de2E zABd|
+"Em" e2 dB e2 dB|"D" A2 AB ED D2|1 "G" G6 AG|F3"D" A FABd:|2 "G" G3 A "D" F2 ED|"Em" E8||
+
 %%newpage
 
 X: 29
@@ -1679,19 +1692,6 @@ K: Gmaj
    "Em" B3 B2d | "C"e2e ged | "Bm"B3 B2A | "D"Bd2 "Em"e3 :|
 
 
-
-X: 108
-T: Am Monadh Ruadh
-C: Calum Stewart
-O: Scotland
-R: march
-M: C
-L: 1/8
-K: Emin
-"Em" E2GB e2ed|"D" de A2 AGAB|"G" G3d g3f|"D" fgag f2Bd|
-"Em" e2 dB e2 dB|"D" A2 AB ED D2|1 "G" G6 AG|"D" F3 A FA F/E/D:|2 "G" G3 A "D" F2 ED|"Em" E4 z ABd||
-"Em" e2e3dgf|"D" d2d3 ABd|"G" gfdB e2 dB|"D" de2E zABd|
-"Em" e2 dB e2 dB|"D" A2 AB ED D2|1 "G" G6 AG|F3"D" A FABd:|2 "G" G3 A "D" F2 ED|"Em" E8||
 
 X: 109
 T: Tynes in Overtime
