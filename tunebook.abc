@@ -450,6 +450,20 @@ K: Gmaj
    D2 | "C"  E3 G E2  | "G" D2 G2 A2  | B2 d2 B2      | "Am" A4 BA       |
         "Am" G3 E E2  | "D" D2 G2 A2  | "C" B2 G2 F2  | "G" G4          :|
 
+X: 98
+T: Sweet Jennie Jones
+T: Cadair Idris
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+|: A2 | "D" d2 A2 F2 | "Bm" D3 E F2  | "Em" G2 B2 e2 | "A" c2 A2 |
+   c2 | "D" d2 A2 F2 | "G"  G3 A B2  | "A" A2 d2 c2  | "D" d4       :|
+|: de | "D" f2 d2 f2 | "A"  e2 c2 A2 | "G" d2 B2 d2  | "A" c2 A2     |
+   de | "D" f2 d2 f2 | "A" e2 c2 A2  | "G" d2 c2 B2  | "A" A4        ||
+   Bc | "D" d2 A2 F2 | "Bm" D3E F2   | "Em" G2 B2 e2 | "A" c2 A2 c2  |
+        "D" d2 A2 F2 | "G" G3A B2    | "A" A2 d2 c2  | "D" d4 |]
+
 %%newpage
 
 X:26
@@ -1449,20 +1463,6 @@ D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
 D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
-
-X: 98
-T: Sweet Jennie Jones
-T: Cadair Idris
-R: waltz
-M: 3/4
-L: 1/8
-K: Dmaj
-|: A2 | "D" d2 A2 F2 | "Bm" D3 E F2  | "Em" G2 B2 e2 | "A" c2 A2 |
-   c2 | "D" d2 A2 F2 | "G"  G3 A B2  | "A" A2 d2 c2  | "D" d4       :|
-|: de | "D" f2 d2 f2 | "A"  e2 c2 A2 | "G" d2 B2 d2  | "A" c2 A2     |
-   de | "D" f2 d2 f2 | "A" e2 c2 A2  | "G" d2 c2 B2  | "A" A4        ||
-   Bc | "D" d2 A2 F2 | "Bm" D3E F2   | "Em" G2 B2 e2 | "A" c2 A2 c2  |
-        "D" d2 A2 F2 | "G" G3A B2    | "A" A2 d2 c2  | "D" d4 |]
 
 X:99
 T: Flatwater Fran
