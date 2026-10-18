@@ -543,6 +543,25 @@ W: But her ghost wheels her barrow
 W: Through streets broad and narrow
 W: Crying, "Cockles and mussels, alive, alive, oh!"
 
+
+
+
+
+X:107
+T: Walts ar Drensiwr
+T: Waltz on a Trencher
+C: Stephen P. Rees
+O: Wales
+Z: based on the arr. by Jem Hammond with chords by Neil Browning
+R: waltz
+L: 1/8
+M: 3/4
+K: Em
+"Em" E2 (EF G)(B | "C" c4) (BA) | "G" (Bc d)(,B AG) | "D" F3 (A GF) |
+"Em" E2 (EF G)(B | "Am" c4)(BA) | "Em/B" (BG E)(G "Bm" FG) |1 "Em" E3 (A GF) :|2 "Em" E4 B2 ||
+|: "C" c2 (cdec) | "G" d4 B2 | "Am" c2 (cBAG) | "D" F4 B2 |
+"C" c2 (cdec) | "G" d4 c2 | "Em/B" (BG E)(G "Bm" FG) | "Em" E4 B2 :|
+
 X: 92
 T: Shoe The Donkey
 T: Cuir Crú ar an Asal
@@ -2055,25 +2074,6 @@ K: Em
 "Em" E2 EF GA | "Em" B2 B2 e2 | "G" d2 B2 A2 | "Bm" B6 :|
 "G" B2 BA G2 | "D" A2 AG F2 | "Em" G2 E2 e2 | "Bm" d4 e2 |
 "G" B2 A2 G2 | "Am" A2 G2 F2 | "Em" G2 E2 E2 | "Em" E6 |] 
-
-X:107
-T: Walts ar Drensiwr
-T: Waltz on a Trencher
-C: Stephen P. Rees
-O: Wales
-Z: based on the arr. by Jem Hammond with chords by Neil Browning
-R: waltz
-L: 1/8
-M: 3/4
-K: Em
-"Em" E2 (EF G)(B | "C" c4) (BA) | "G" (Bc d)(,B AG) | "D" F3 (A GF) |
-"Em" E2 (EF G)(B | "Am" c4)(BA) | "Em/B" (BG E)(G "Bm" FG) |1 "Em" E3 (A GF) :|2 "Em" E4 B2 ||
-|: "C" c2 (cdec) | "G" d4 B2 | "Am" c2 (cBAG) | "D" F4 B2 |
-"C" c2 (cdec) | "G" d4 c2 | "Em/B" (BG E)(G "Bm" FG) | "Em" E4 B2 :|
-
-
-
-
 
 X:91
 T: The Homecoming March
