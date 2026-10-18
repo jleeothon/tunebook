@@ -381,6 +381,19 @@ A _AG | F3 A | e3 d | c4 | z |
 B A_A | G3 B | e3 d | d2 c2 | z | 
 e ed | d2 c2 | zc de | d4 | z|]
 
+
+
+X: 93
+T: Spancil Hill
+R: waltz
+M: 3/4
+L: 1/8
+K: Edor
+|: dc | "Em" B4 E2 | B4 cB | "D" A4 F2 | D4 E2 | F2 A2 G2  | E4 D2    | "Em" E6- | E4 ||
+   B2 | "Em" B4 e2 | e4 f2 | e4 d2     | B4 c2 | "D" d4 e2 | d2 c2 B2 | A6-      | A4  |
+   A2 | "Em" B4 e2 | e4 f2 | e4 d2     | B4 c2 | "D" d4 e2 | d2 c2 B2 | A6-      | A4 ||
+   dc | "Em" B4 E2 | B4 cB | "D" A4 F2 | D4 E2 | F2 A2 F2  | E4 D2    | "Em" E6- | E4 :|
+
 %%newpage
 
 X:26
@@ -1380,19 +1393,6 @@ D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
 D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
-
-X: 93
-T: Spancil Hill
-R: waltz
-M: 3/4
-L: 1/8
-K: Edor
-|: dc | "Em" B4 E2 | B4 cB | "D" A4 F2 | D4 E2 | F2 A2 G2  | E4 D2    | "Em" E6- | E4 ||
-   B2 | "Em" B4 e2 | e4 f2 | e4 d2     | B4 c2 | "D" d4 e2 | d2 c2 B2 | A6-      | A4  |
-   A2 | "Em" B4 e2 | e4 f2 | e4 d2     | B4 c2 | "D" d4 e2 | d2 c2 B2 | A6-      | A4 ||
-   dc | "Em" B4 E2 | B4 cB | "D" A4 F2 | D4 E2 | F2 A2 F2  | E4 D2    | "Em" E6- | E4 :|
-
-
 
 X: 94
 T: Michael Turner's
