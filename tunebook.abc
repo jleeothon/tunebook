@@ -578,6 +578,18 @@ D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
 
+X: 102
+T: Planxty Fanny Power
+C: Turlough O'Carolan
+R: planxty
+M: 3/4
+L: 1/8
+K: Gmaj
+D2 | "G" G4 D2    | G3A B2      |"C"c4 B2 |"Am"A4 G2   |"D"F2 E2 D2|D2 E2 D2|F4 G2|A4 c2|
+     "G" B3A G2   | B2 c2 d2    |"C"e4 A2 |"Am"A4 G2   |"D"F2 E2 D2|D2 G2 F2|"G"G4G2| G4 ::
+c2 | "G" d2 Bc d2 | d2 Bc d2    |"G"G3B G2|G2 B2 d2 |"Am"e2 cd e2|e2 cd e2|"D"A3 B A2|A2 B2 c2|
+     "G" B3c d2   | "C"e2 f2 g2 |"D"f3g a2|d4 c2    |"G"B3A G2   |"D"D2 G2 F2|"G"G4G2| G4 :|
+
 %%newpage
 
 X:26
@@ -1565,18 +1577,6 @@ Q: 180
 |: "G"dg~g2 dg~g2| "D"dffe fgfe  |1 "G"dg~g2 "D"d^cde | fdcA "G"GABc    :|2 "D"defg ~a3g  | fdcA "G" GABd |]
 
 
-
-X: 102
-T: Planxty Fanny Power
-C: Turlough O'Carolan
-R: planxty
-M: 3/4
-L: 1/8
-K: Gmaj
-D2 | "G" G4 D2    | G3A B2      |"C"c4 B2 |"Am"A4 G2   |"D"F2 E2 D2|D2 E2 D2|F4 G2|A4 c2|
-     "G" B3A G2   | B2 c2 d2    |"C"e4 A2 |"Am"A4 G2   |"D"F2 E2 D2|D2 G2 F2|"G"G4G2| G4 ::
-c2 | "G" d2 Bc d2 | d2 Bc d2    |"G"G3B G2|G2 B2 d2 |"Am"e2 cd e2|e2 cd e2|"D"A3 B A2|A2 B2 c2|
-     "G" B3c d2   | "C"e2 f2 g2 |"D"f3g a2|d4 c2    |"G"B3A G2   |"D"D2 G2 F2|"G"G4G2| G4 :|
 
 X: 103
 T: Planxty Irwin
