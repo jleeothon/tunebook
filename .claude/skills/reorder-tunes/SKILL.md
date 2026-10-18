@@ -43,3 +43,4 @@ Default file: `tunebook.abc` in the repo root. Another `.abc` file may be named 
 - Blank lines and `%%newpage` directives between tunes stay where they are; only the tune block (from `X:` to the next blank line) moves. Page breaks may therefore land in different places after reordering — mention this, but don't adjust them inside a move commit.
 - The PDF becomes stale; don't regenerate it (see CLAUDE.md).
 - To change the category order, edit `order.txt` (its own commit), then re-run `plan`.
+- Within-category order comes from the commit in `baseline.txt` (tunes matched by `X:` + title), not from current positions — otherwise each move would redefine the order it's meant to preserve. When starting a fresh reordering effort, run `reorder.py init tunebook.abc` and commit the new `baseline.txt` on its own.

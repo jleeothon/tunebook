@@ -3,6 +3,7 @@
 
     reorder.py plan FILE   show category counts and the moves still needed
     reorder.py next FILE   perform exactly one move, print a commit message
+    reorder.py init FILE   record HEAD as the baseline for within-category order
 
 A tune is the X: line through the last line before the next blank line.
 Everything between tunes (blank lines, %%newpage, comments) stays where it is.
@@ -10,10 +11,12 @@ The moves are the minimum needed: tunes on a longest already-ordered
 subsequence never move, every other tune moves exactly once.
 """
 import re
+import subprocess
 import sys
 from pathlib import Path
 
 ORDER_FILE = Path(__file__).with_name("order.txt")
+BASELINE_FILE = Path(__file__).with_name("baseline.txt")
 
 
 def load_order():
@@ -85,12 +88,36 @@ def lis_keep(seq):
     return keep
 
 
+def baseline_ties(path, tunes):
+    """Within-category tie-break: each tune's position in the baseline revision.
+
+    Using current positions instead would let a move redefine the order it is
+    supposed to preserve. Tunes are matched by (X, title); a tune missing from
+    the baseline (new or renamed) sorts just after the tune preceding it now.
+    """
+    rev = BASELINE_FILE.read_text().strip() if BASELINE_FILE.exists() else None
+    if not rev:
+        sys.exit(f"no baseline; run: {sys.argv[0]} init {path}")
+    rel = subprocess.run(["git", "ls-files", "--full-name", str(path)],
+                         capture_output=True, text=True, cwd=path.parent).stdout.strip()
+    old = subprocess.run(["git", "show", f"{rev}:{rel}"], capture_output=True,
+                         text=True, check=True, cwd=path.parent).stdout.split("\n")
+    base = {(t["x"], t["title"]): k for k, t in enumerate(parse(old))}
+    ties, last = [], -1.0
+    for i, t in enumerate(tunes):
+        k = base.get((t["x"], t["title"]))
+        last = k if k is not None else last + 1e-3
+        ties.append((last, i))
+    return ties
+
+
 def analyse(path):
     cats, by_r, other = load_order()
     lines = path.read_text().split("\n")
     tunes = parse(lines)
     unknown = classify(tunes, by_r, other)
-    target = sorted(range(len(tunes)), key=lambda i: (tunes[i]["rank"], i))
+    tie = baseline_ties(path, tunes)
+    target = sorted(range(len(tunes)), key=lambda i: (tunes[i]["rank"], tie[i]))
     pos_in_target = {cur: k for k, cur in enumerate(target)}
     seq = [pos_in_target[i] for i in range(len(tunes))]
     keep = lis_keep(seq)
@@ -157,7 +184,15 @@ def cmd_next(path):
     print(f"COMMIT: Move {t['title']} to {cat.lower()}")
 
 
+def cmd_init(path):
+    rev = subprocess.run(["git", "rev-parse", "--short", "HEAD"], capture_output=True,
+                         text=True, check=True, cwd=path.parent).stdout.strip()
+    BASELINE_FILE.write_text(rev + "\n")
+    print(f"Baseline set to {rev}.")
+
+
 if __name__ == "__main__":
-    if len(sys.argv) != 3 or sys.argv[1] not in ("plan", "next"):
+    cmds = {"plan": cmd_plan, "next": cmd_next, "init": cmd_init}
+    if len(sys.argv) != 3 or sys.argv[1] not in cmds:
         sys.exit(__doc__)
-    {"plan": cmd_plan, "next": cmd_next}[sys.argv[1]](Path(sys.argv[2]))
+    cmds[sys.argv[1]](Path(sys.argv[2]).resolve())
