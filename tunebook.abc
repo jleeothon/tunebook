@@ -566,6 +566,18 @@ W: But her ghost wheels her barrow
 W: Through streets broad and narrow
 W: Crying, "Cockles and mussels, alive, alive, oh!"
 
+X: 92
+T: Shoe The Donkey
+T: Cuir Crú ar an Asal
+R: mazurka
+M: 3/4
+L: 1/8
+K: Gmaj
+D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
+D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
+|: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
+   Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
+
 %%newpage
 
 X:26
@@ -1553,18 +1565,6 @@ Q: 180
 |: "G"dg~g2 dg~g2| "D"dffe fgfe  |1 "G"dg~g2 "D"d^cde | fdcA "G"GABc    :|2 "D"defg ~a3g  | fdcA "G" GABd |]
 
 
-
-X: 92
-T: Shoe The Donkey
-T: Cuir Crú ar an Asal
-R: mazurka
-M: 3/4
-L: 1/8
-K: Gmaj
-D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
-D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
-|: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
-   Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
 
 X: 102
 T: Planxty Fanny Power
