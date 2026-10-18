@@ -796,6 +796,18 @@ B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "G" g4  | "G"  g>ef<d "Em"  g>ed<B  
 B<d | "Am" e2 d<e "Em" g2 e<g | "Am" a2 e<a "Em" g4 | "Am" e2 d<e "G"   g2 f<g  | "Em" e>dB<A "G" G>AB<G |
       "C" c2 B<c "D" d2 c<d   | "Em" e2 d<e "Am" a4 | "G"  g>ef<d "Em7" g>ed<B  | "Am" e2 A2 A2          |]
 
+X:114
+T: The 72nd Highlanders' Farewell To Aberdeen
+R: march
+M: C
+L: 1/8
+K: Dmaj
+% good for C and F recorders
+|: A>B | "D" A2 d2 d2 e>f | "G" g>fe<d "D" f4 | "G" g2 B2 B2 c>d     | "A" e>fe<d d>cB<A |
+         "D" A2 d2 d2 e>f | "G" g>fe<d "D" f4 | "G" g2 B2 "A" c>de<c | "D" d4 d2 :|
+|: f>g | "D" a2 A2 A2 =c2 | "G" B2 G2 "D" A4 | "D" A2 d2 A2 d2       | "A" e>dc<B A2 f>g |
+         "D" a2 A2 A2 =c2 | "G" B2 G2 "D" A4 | "D" A2 d2 "A" f>ed<c  | "D" d4 d2 :|
+
 %%newpage
 
 X: 29
@@ -1797,18 +1809,6 @@ G2d>B d3d|e>g g>f e>d B>d|e2 g>A B2 A>G|1 E<G G>A G4:|2 E<G G>A G2B>d||
 e2g>f e4|d>e d<A B2B>d|e2 g>A B2 A>G|E<G G>A G4:|
 
 
-
-X:114
-T: The 72nd Highlanders' Farewell To Aberdeen
-R: march
-M: C
-L: 1/8
-K: Dmaj
-% good for C and F recorders
-|: A>B | "D" A2 d2 d2 e>f | "G" g>fe<d "D" f4 | "G" g2 B2 B2 c>d     | "A" e>fe<d d>cB<A |
-         "D" A2 d2 d2 e>f | "G" g>fe<d "D" f4 | "G" g2 B2 "A" c>de<c | "D" d4 d2 :|
-|: f>g | "D" a2 A2 A2 =c2 | "G" B2 G2 "D" A4 | "D" A2 d2 A2 d2       | "A" e>dc<B A2 f>g |
-         "D" a2 A2 A2 =c2 | "G" B2 G2 "D" A4 | "D" A2 d2 "A" f>ed<c  | "D" d4 d2 :|
 
 X:115
 T: Schottische Kerlou
