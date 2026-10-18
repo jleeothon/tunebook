@@ -498,6 +498,24 @@ K: Gmaj
 [2 BG DG Bd | c2 B2 c2  | d2 g3 e     | d3 e dc       |
    BG DG Bd | c2 A2 F2  | G3B AF      | G4   dc       |]
 
+X: 101
+T: Leaving Uist
+T: Farewell to Uist
+R: waltz
+M: 3/4
+L: 1/8
+K: Emin
+% A
+   ed | "Em" B3 A AG | "D/F#" AG E2 EG | "Am" A3 c B2        | "C" e3 e de   |
+        "G"  g3 a ag | "Em" ed B2 BA   | "Am" G3 B "Bm" AG   | "Em" E4 ed    |
+        "Em" B3 A AG | "D/F#" AG E2 EG | "Am" A3 c B2        | "C"  e3 e de ||
+        "G"  g3 a ag | "Em" ed B2 BA   | "G" G3 B de         | "Am" A4      :|
+% B
+|: aa | "C" a3 g ab   | "Am" ag e2eB    | "G" d3 e g2         | g4 ag         |
+         "C" de ga ed | "G" AB de AG    | "Am" EG AB "Bm" AG  | "Em" E4 ed   ||
+         "Em" B3 A AG | "D/F#" AG E3 G  | "Am" A3 c B2        | "C" e3e de    |
+         "G" g3 a ag  | "Em" ed B3 A    | "G" G3 B de         | "Am" A4      :|
+
 %%newpage
 
 X:26
@@ -1497,24 +1515,6 @@ D>G | "G" B2 B2 D>G | B2 B2 D>G    | "G" B2 "C" c2 B2     | "D" A4 |
 D>F | "D" A2 A2 D>F | A2 A2 D>F    | "D" A2 "C" B2 "D" A2 |1  "G" G4 :|2 "G" G3 A ||
 |: Bc | "G" d2 g2 f2 | "D" A3 G AB | c2 "C" e2 "D"        | d2 "G" B3 A |
    Bc | "G" B2 A2 B2 | "C" c3 B cd | e2 "D" d2 "D7" F2    |"G" G3 A :|
-
-X: 101
-T: Leaving Uist
-T: Farewell to Uist
-R: waltz
-M: 3/4
-L: 1/8
-K: Emin
-% A
-   ed | "Em" B3 A AG | "D/F#" AG E2 EG | "Am" A3 c B2        | "C" e3 e de   |
-        "G"  g3 a ag | "Em" ed B2 BA   | "Am" G3 B "Bm" AG   | "Em" E4 ed    |
-        "Em" B3 A AG | "D/F#" AG E2 EG | "Am" A3 c B2        | "C"  e3 e de ||
-        "G"  g3 a ag | "Em" ed B2 BA   | "G" G3 B de         | "Am" A4      :|
-% B
-|: aa | "C" a3 g ab   | "Am" ag e2eB    | "G" d3 e g2         | g4 ag         |
-         "C" de ga ed | "G" AB de AG    | "Am" EG AB "Bm" AG  | "Em" E4 ed   ||
-         "Em" B3 A AG | "D/F#" AG E3 G  | "Am" A3 c B2        | "C" e3e de    |
-         "G" g3 a ag  | "Em" ed B3 A    | "G" G3 B de         | "Am" A4      :|
 
 X: 2
 T: My Home Town
