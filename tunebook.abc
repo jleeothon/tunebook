@@ -367,6 +367,20 @@ K: Emin
 |: B>c | "G" d3 e dc BA   | "Em" B2 e2 e2 fg | "Gm" d3e "D" dc BA  | "Em" G2 E2 D2|
    BA  | G2 E2 E2 D>E|G2 G2 A2 GA|B2 e2 dc BA|G2 E2 E2:|
 
+X:128
+T:Ententanz
+M:2/4
+L:1/16
+R:polka
+K:Dmaj
+AA BBFF | A2AA BBFF | A2AA BBdd | c2c2 B2A2 | G2 |
+GG AAEE | G2GG AAEE | G2AA BBcc |1 B2B2 A2G2 | F2 :|2 d2B2 A2G2 | F2 ||
+L:1/8
+A _AG | F3 A | f3 e | e2 d2 | z |
+A _AG | F3 A | e3 d | c4 | z |
+B A_A | G3 B | e3 d | d2 c2 | z | 
+e ed | d2 c2 | zc de | d4 | z|]
+
 %%newpage
 
 X:26
@@ -2064,20 +2078,6 @@ f2a2 e3c|d3e dcBA|B2G2 AGFE|D4- D3g|
 f2a2 e3c|d3e dcBA|B2d2 A2d2|BAGF EGFE|
 D3F A2d2|fedc d2A2|B2G2 AGFE|D4- D2||
 
-
-X:128
-T:Ententanz
-M:2/4
-L:1/16
-R:polka
-K:Dmaj
-AA BBFF | A2AA BBFF | A2AA BBdd | c2c2 B2A2 | G2 |
-GG AAEE | G2GG AAEE | G2AA BBcc |1 B2B2 A2G2 | F2 :|2 d2B2 A2G2 | F2 ||
-L:1/8
-A _AG | F3 A | f3 e | e2 d2 | z |
-A _AG | F3 A | e3 d | c4 | z |
-B A_A | G3 B | e3 d | d2 c2 | z | 
-e ed | d2 c2 | zc de | d4 | z|]
 
 X:132
 T: L'Air Mignone
