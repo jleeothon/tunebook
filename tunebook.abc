@@ -1928,22 +1928,6 @@ Q: 134
    AGAB AG A/B/d |1 zedB dBAA-    | AGAB ABdB  :|2 zedB dBAA-    | AGAB AGED |]                          
 
 
-X:106
-T: Glân Meddwdod Mwyn
-R: slow air
-M: 3/4
-L: 1/4
-K: Dmaj
-O: Wales
-D/>E | "D" F G A | "G" d c B | "A7" A A/B/ A/G/ | G "D" F |
-D/>E | "D" F G A | "G" B c d | "D" f/e/ d "A7" c | "D" d2 :|
-d/>e | "D" f f e | "Bm" d d c | "G" d d "A7" e | "D" f2 |
-   e | "Bm" d d c | "G" B B A | "Em" G G/B/ A/G/ | "A7" G F |
-D/>E | "D" F G A | "G" B c d | "D" f/e/ d "A7" c | "Bm" d2 |
-D/>E | "D" F G A | "G" B c d | "A7" e d c | "D" d2 |]
-
-
-
 X:107
 T: Là dhomh 's mi a' dìreadh a' bhalaich
 O: Scotland
@@ -2009,6 +1993,22 @@ K: Gmaj
 "C" E3 E EDDE | "D" GDGA "Em" B2 (3GAB      | "C" cBAG "D" A3 G   | "G" G4 GABd    ||
 "C" e3 d efgf | "C"e2"D"d2 "Em" B3 B        | "C" cBAG "G/B" d3 B | "D" A2 AG ABGF  |
 "C" E3 E EDDE | GD"D"GA "Em" B2 (3GAB       | "C" cBAG "D" A3 G   | "G" G4 GABd    |]
+
+
+
+X:106
+T: Glân Meddwdod Mwyn
+R: slow air
+M: 3/4
+L: 1/4
+K: Dmaj
+O: Wales
+D/>E | "D" F G A | "G" d c B | "A7" A A/B/ A/G/ | G "D" F |
+D/>E | "D" F G A | "G" B c d | "D" f/e/ d "A7" c | "D" d2 :|
+d/>e | "D" f f e | "Bm" d d c | "G" d d "A7" e | "D" f2 |
+   e | "Bm" d d c | "G" B B A | "Em" G G/B/ A/G/ | "A7" G F |
+D/>E | "D" F G A | "G" B c d | "D" f/e/ d "A7" c | "Bm" d2 |
+D/>E | "D" F G A | "G" B c d | "A7" e d c | "D" d2 |]
 
 
 
