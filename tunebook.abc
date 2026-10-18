@@ -530,6 +530,42 @@ N: learned this from the folks from GFW in Shrewsbury 2026
 |: "D" A d/e/f | "G" g2 g2 fe   | "D" f2 d2 af | "A" e3 dfA           | "Bm" B3 AAB  |
                 "D" d3 a f/e/d | "G" B3 d cB  | "D" A2 d/e/f "A" e>d | "D" d3      :|
 
+
+X: 120
+T: Molly Malone
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+L:1/4
+P: Verse
+D | "G" GGG | "Em" G<B B/G/ | "Am" AAA | "D" A<c | 
+w: In Du-blin's fair ci-ty where the girls are so pret-ty.
+A | "G" B>AG | "D" d>cB | "Em/G" B>AG | "D" A2 ||
+w: I first set my eyes on sweet Mol-ly Ma-lone.
+D/D/ | "G" GGG | "Em" G<B G | "Am" AAA | "D" A<c |
+w: As she wheeled her wheel-bar-row through streets broad and nar-row
+A/G/ | "G" B<d"Am"c | "G" B<d"Am"c | "G" B>G"D"A | "G" G2 ||
+w: cry-ing, "Co-ckles and mus-sels, a-live, a-live, oh!"
+P: Chrous
+D | "G" G>GG | "Em" G<B B/G/ | "Am" A>AA | "D" A<c | 
+w: A-live, a-live, oh!_ A_live, a-live oh!_
+B/A/ | "G" B<d"Am"c | "G" B<d"Am"c | "G"B>G"D"A | "G"G2 |]
+w: Cry-ing, "Co-ckles and mus-sels, a-live, a-live, oh!"
+W: She was a fishmonger
+W: And sure 'twas no wonder
+W: For so were her father and mother before
+W: And they both wheeled their barrows
+W: Through streets broad and narrow
+W: Crying, "Cockles and mussels, alive, alive, oh!"
+W:
+W: She died of the fever
+W: And no one could save her
+W: And that was the end of sweet Molly Malone
+W: But her ghost wheels her barrow
+W: Through streets broad and narrow
+W: Crying, "Cockles and mussels, alive, alive, oh!"
+
 %%newpage
 
 X:26
@@ -1797,42 +1833,6 @@ R: jig
 |: "A" a2a gfe | "G" f2d cde | "A" add "G" gdd | "D" f2f gab |
 "G" bge "A" a2a | gfd "D" efe | "A" e2e "D" dcd | "A" e2e aec |
 "G" gdd "D" f2f | "A" ece "D" dBd | "G" gab "D" fdf |1 "A" e3 efe :||2 "A" e3 e2a |]
-
-
-X: 120
-T: Molly Malone
-R: waltz
-M: 3/4
-L: 1/8
-K: Gmaj
-L:1/4
-P: Verse
-D | "G" GGG | "Em" G<B B/G/ | "Am" AAA | "D" A<c | 
-w: In Du-blin's fair ci-ty where the girls are so pret-ty.
-A | "G" B>AG | "D" d>cB | "Em/G" B>AG | "D" A2 ||
-w: I first set my eyes on sweet Mol-ly Ma-lone.
-D/D/ | "G" GGG | "Em" G<B G | "Am" AAA | "D" A<c |
-w: As she wheeled her wheel-bar-row through streets broad and nar-row
-A/G/ | "G" B<d"Am"c | "G" B<d"Am"c | "G" B>G"D"A | "G" G2 ||
-w: cry-ing, "Co-ckles and mus-sels, a-live, a-live, oh!"
-P: Chrous
-D | "G" G>GG | "Em" G<B B/G/ | "Am" A>AA | "D" A<c | 
-w: A-live, a-live, oh!_ A_live, a-live oh!_
-B/A/ | "G" B<d"Am"c | "G" B<d"Am"c | "G"B>G"D"A | "G"G2 |]
-w: Cry-ing, "Co-ckles and mus-sels, a-live, a-live, oh!"
-W: She was a fishmonger
-W: And sure 'twas no wonder
-W: For so were her father and mother before
-W: And they both wheeled their barrows
-W: Through streets broad and narrow
-W: Crying, "Cockles and mussels, alive, alive, oh!"
-W:
-W: She died of the fever
-W: And no one could save her
-W: And that was the end of sweet Molly Malone
-W: But her ghost wheels her barrow
-W: Through streets broad and narrow
-W: Crying, "Cockles and mussels, alive, alive, oh!"
 
 
 X: 122
