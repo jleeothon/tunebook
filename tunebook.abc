@@ -715,6 +715,21 @@ K: Emin
 "Em" e2e3dgf|"D" d2d3 ABd|"G" gfdB e2 dB|"D" de2E zABd|
 "Em" e2 dB e2 dB|"D" A2 AB ED D2|1 "G" G6 AG|F3"D" A FABd:|2 "G" G3 A "D" F2 ED|"Em" E8||
 
+
+X: 109
+T: Tynes in Overtime
+C: Ewen Henderson
+O: Scotland
+R: march
+M: 4/4
+L: 1/8
+K: Adorian
+% good for C and F recorders
+GA | "Am" B2 A2 A2 GA | B2 A2 A2 Bd | "G" g2 fg "D" a2 fd | "Am" f e3 e2 ef |
+     "G" g2 fg "D" a2 dB | "G" B2 AB "D" d2 A/B/d | "Am" e3 f "G" gfed | "Am" B2 A2 A2 :|
+   |: B/c/d | "G" g2 fg "D" a2 fd | "Am" fe3 e2 af | "G" g2 fg "D" a2 fd | 
+      "Am" fe3 e2 ef | "G" g2 fg "D" a2 dB | "G" B2 AB "D" d2 A/B/d | "Am" e3 f "Em" gfed | "Am" B2 A2 A2 :|
+
 %%newpage
 
 X: 29
@@ -1691,21 +1706,6 @@ K: Gmaj
    "C" e3 ged | e3G3 | "G"d2B BAG | "Bm"d3 B3 ||
    "Em" B3 B2d | "C"e2e ged | "Bm"B3 B2A | "D"Bd2 "Em"e3 :|
 
-
-
-X: 109
-T: Tynes in Overtime
-C: Ewen Henderson
-O: Scotland
-R: march
-M: 4/4
-L: 1/8
-K: Adorian
-% good for C and F recorders
-GA | "Am" B2 A2 A2 GA | B2 A2 A2 Bd | "G" g2 fg "D" a2 fd | "Am" f e3 e2 ef |
-     "G" g2 fg "D" a2 dB | "G" B2 AB "D" d2 A/B/d | "Am" e3 f "G" gfed | "Am" B2 A2 A2 :|
-   |: B/c/d | "G" g2 fg "D" a2 fd | "Am" fe3 e2 af | "G" g2 fg "D" a2 fd | 
-      "Am" fe3 e2 ef | "G" g2 fg "D" a2 dB | "G" B2 AB "D" d2 A/B/d | "Am" e3 f "Em" gfed | "Am" B2 A2 A2 :|
 
 
 X: 110
