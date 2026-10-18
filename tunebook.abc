@@ -1984,6 +1984,18 @@ e2g>f e4|d>e d<A B2B>d|e2 g>A B2 A>G|E<G G>A G4:|
 
 
 
+X: 118
+T: Miss Admiral Gordon's
+R: strathspey
+M: 4/4
+L: 1/8
+K: Gmaj
+% Perhaps I first heard this tune in Liam O'Flynn's The Piper's Call
+G2 G2 G>D G<e|d<B A>G E2 E>D|G2 G2 G>D G<e|d>e g<B d2 d>e|
+d>e g<B d<B A>G|A>B c/B/A/G/ E2 E>D|G2 G2 G>D G<e|d<B A>B G2 G2:|
+|:B>d g<d e<d g<d|B>d c/B/A/G/ E2 E>D|B>d g<d e<d g<d|B>c d/e/f/g/ d2 d>e|
+g>f e>d e<d c>B|AB c/B/A/G/ E2 E>D|G2 G2 G>D G<e|d<B A>B G2 G D:|
+
 X:115
 T: Schottische Kerlou
 C: Calum Stewart
@@ -1997,18 +2009,6 @@ K: Gmaj
 "C" E3 E EDDE | "D" GDGA "Em" B2 (3GAB      | "C" cBAG "D" A3 G   | "G" G4 GABd    ||
 "C" e3 d efgf | "C"e2"D"d2 "Em" B3 B        | "C" cBAG "G/B" d3 B | "D" A2 AG ABGF  |
 "C" E3 E EDDE | GD"D"GA "Em" B2 (3GAB       | "C" cBAG "D" A3 G   | "G" G4 GABd    |]
-
-X: 118
-T: Miss Admiral Gordon's
-R: strathspey
-M: 4/4
-L: 1/8
-K: Gmaj
-% Perhaps I first heard this tune in Liam O'Flynn's The Piper's Call
-G2 G2 G>D G<e|d<B A>G E2 E>D|G2 G2 G>D G<e|d>e g<B d2 d>e|
-d>e g<B d<B A>G|A>B c/B/A/G/ E2 E>D|G2 G2 G>D G<e|d<B A>B G2 G2:|
-|:B>d g<d e<d g<d|B>d c/B/A/G/ E2 E>D|B>d g<d e<d g<d|B>c d/e/f/g/ d2 d>e|
-g>f e>d e<d c>B|AB c/B/A/G/ E2 E>D|G2 G2 G>D G<e|d<B A>B G2 G D:|
 
 
 
