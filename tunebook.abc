@@ -744,6 +744,21 @@ e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|e2 A2 A2 Bd|
 e2 dB g3 a|agfa g2 dB|G2 Bd g2 dB|d2 G2 gfed|
 e2 dg e2 A2|BABd edef|g2 ea gedB|e2 A2 A4|]
 
+X:112
+T: Lahinch Beach
+C: Ryan Murphy, Mànran
+R: march
+M: 4/4
+L: 1/8
+K: Gmaj
+DEGA G3B | dedB AGAB | A3A AGAB | c2BA AGED   |
+DEGA G3B | dedB AGAB | A3A AGAB |1 c2BA AGED :|2 cBBA G/2A/2B d/2e/2f ||
+g3e d3B  | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
+g3e d3B  | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
+g3e d3B  | AGED EGAB | A3A AGAB | cBBA AGED | 
+DEGA G3B | dedB AGAB | A3A AGAB | cBBA AGED |]
+W: This is played one minor third higher, in Eb major in the recording.
+
 %%newpage
 
 X: 29
@@ -1721,21 +1736,6 @@ K: Gmaj
    "Em" B3 B2d | "C"e2e ged | "Bm"B3 B2A | "D"Bd2 "Em"e3 :|
 
 
-
-X:112
-T: Lahinch Beach
-C: Ryan Murphy, Mànran
-R: march
-M: 4/4
-L: 1/8
-K: Gmaj
-DEGA G3B | dedB AGAB | A3A AGAB | c2BA AGED   |
-DEGA G3B | dedB AGAB | A3A AGAB |1 c2BA AGED :|2 cBBA G/2A/2B d/2e/2f ||
-g3e d3B  | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
-g3e d3B  | AGED EGAB | A3A AGAB | cBBA G/2A/2B d/2e/2f |
-g3e d3B  | AGED EGAB | A3A AGAB | cBBA AGED | 
-DEGA G3B | dedB AGAB | A3A AGAB | cBBA AGED |]
-W: This is played one minor third higher, in Eb major in the recording.
 
 X: 92
 T: Calum's Road
