@@ -1176,6 +1176,16 @@ K: Emin
 |: ga | "Em" babg efga | babg egfe | "D"  d^cde fefg     |      afdf a2gf     |
         "Em" edef gfga | bg"D"af "C" gf"Em/B"ef | "Em/B" gfed "Bm/F#" Bgfg | "Em" e2 E2 E2 :|
 
+X: 86
+T: Hag At The Churn
+R: single jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: "D" A2G ADD|A2G Adc | "D" A2G ADD |"C"EFG "Am" EFG :|
+   "D" AdB "Am7" c2G | "D" Add "Am" efg | "D" AdB "Am7" c2A | GEF "C" GED|
+   "D" AdB "Am7" c2G | "D" Add "Am" efg | "C" fge "G" dcA| "Am7" GEF "D"GED |]
+
 %%newpage
 
 
@@ -1268,16 +1278,6 @@ K: Dmix
     "C"c2c cAG     | AGA cde       | "D"fed cAG    | "C"Ad^c "D"d2:|
 
 
-
-X: 86
-T: Hag At The Churn
-R: single jig
-M: 6/8
-L: 1/8
-K: Dmix
-|: "D" A2G ADD|A2G Adc | "D" A2G ADD |"C"EFG "Am" EFG :|
-   "D" AdB "Am7" c2G | "D" Add "Am" efg | "D" AdB "Am7" c2A | GEF "C" GED|
-   "D" AdB "Am7" c2G | "D" Add "Am" efg | "C" fge "G" dcA| "Am7" GEF "D"GED |]
 
 X: 87
 T: The Blarney Pilgrim
