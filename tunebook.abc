@@ -694,14 +694,14 @@ K: D
    AB/c/    | "D" dd AA FF AA        | dd AA FF AA            | "G" d>c df "A" ed ef  | "D" d2 d>c d2     :|
 |: gf       | "A" ed cB AB c/B/A     | "D" d2 d>c de fd       | "A" ed cB AB c/B/A    |  "D" d2 d>c de     |
    f/e/d/c/ | "G" B2 g>g g2 g/f/e/d/ | "D" Af/f/ ff fa gf     | "A" e2 e>f ed ef      |1 "D" d2 d>c df    :|2 "D" d2 d>c de ||
-|: fg       | "D" a2 aa "G" b2 bb    | "D" a2 aa f2 af        | "G" g2 gg "D" f2 af   | "A" g>f ed e2      |
-   A/d/e/f/ | "G" gf ed "A" ce A2    | "D" aa ff dd A2        | fA d/e/f/a/ "G" gf ed | "A" Aa/a/ aa ae    ||
-   fg       | "D" a2 aa "G" b2 bb    | "D" a2 aa f2 af        | "G" g2 gg "D" f2 af       | "G" g>f ed "A" e2  |
-   A/d/e/f/ | "G" gf ed "A" ce A2    | "D" aa ff dd A2        | fA d/e/f/a/ "G" gf "A" ef  | "D" d2 d>c d2 |]
+|: fg       | "D" a2 aa "G" b2 bb    | "D" a2 aa f2 af        | "G" g2 gg "D" f2 af   | "G" g>f ed "A" e2      |
+   |1 A/d/e/f/ | "G" gf ed "A" ce A2    | "D" aa ff dd A2        | fA d/e/f/a/ "G" gf ed | "A" Aa/a/ aa ae    :|
+% |2 fg       | "D" a2 aa "G" b2 bb    | "D" a2 aa f2 af        | "G" g2 gg "D" f2 af       | "G" g>f ed "A" e2  |
+   |2 A/d/e/f/ | "G" gf ed "A" ce A2    | "D" aa ff dd A2        | fA d/e/f/a/ "A" gf ef  | "D" d2 d>c d2 |]
 
 X: 51
-T: Bony Crossing The Alps
-T: Napóilean Ag Trasnú Na NAlp
+T: Bonaparte Crossing The Alps
+T: Napóilean ag Trasnú na nAlp
 R: march
 M: 4/4
 L: 1/8
@@ -710,6 +710,46 @@ K: Amix
    e2fg     | a3g eged   | BdBA G2E2 | G3G G2E2  | G4      :|
 |: e2fg     | a3g eged   | B3d  e2f2 | g3f g2a2  | g4       |
    e2fg     | a3g eged   | BdBA G2E2 | G3G G2E2  | G4      :|
+
+
+X: 1
+T: Bonaparte Crossing The Alps (2)
+T: Napóilean ag Trasnú nAlp (2)
+R: march
+M: 4/4
+L: 1/8
+K: Ador
+|:EG|A2 AB AGE2|cdec d2 eg|aged cded|cAGE G2 cB|
+A2 AB AGE2|cdec d2 eg|aged cAGE|A2 A2 A2:|
+|:eg|aged cdeg|agec d2 eg|aged cded|cAGE G2 EG|
+A2 AB AGEG|cdec d2 eg|aged cABG|A2 (3cBG A2:|
+
+
+X: 3
+T: Bonaparte Crossing The Rhine
+R: march
+M: 4/4
+L: 1/8
+K: Dmaj
+FG|:"D" [FA]B AF [F2A2] de|fefa [A2d2] dc|"G" BcdB "D" AFDF|
+"A" E2 E>F E2 FG|"D" [FA]B AF [F2A2] de|fefa [A2d2] dc|
+"G" BcdB "D" AF "A"EF|1 "D" D2 DE D2 FG:|2 "D" D2 DE D2 de||
+|:"D" fefg [A2a2] aA|"G" [GB]A Bc "D" [A3d3] A|"G" [GB]c dB "D" AFDF|
+"A" E2 E>F E2 FG|"D"[FA]B AF [F2A2] de|[Af]e fa [A3d3] d|
+"G" B>c dB "D" AF "A"EF|1 "D" D2 D>E DAde:|2 "D" D2 D>E [D4A4]||
+
+
+X: 1
+T: Bonapart's Expedition
+R: march
+M: 4/4
+L: 1/8
+K: Gmaj
+|:D|G>AGB AGGB | AGGB d3B | G>AGB AGGD |EDEF G3:|
+|:B/c/|dBGe cAFd | BGEc AFD2 | GAGB AGGD | EDEF G3:|
+W: Adapted from “A Favorite Collection of Tunes with Variations Adapted for the Northumberland Smallpipes, Violin or Flute”
+W: by John Peacock and Thomas Wright, printed in Newcastle, England by W.Wright, 1805
+
 
 
 X: 52
@@ -1070,6 +1110,19 @@ K: Gmaj
         G3A BAGF | E4e4     | d2B2cBAB | G6   :|
 |: D2 | g3a bagf | g2d2B2d2 | g2B2cBAG|A6D2|
         G3A BAGF | E4e4     | d2B2cBAB|G6:|
+
+
+X: 10
+T: Soldier's Joy
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+  dB|AFDF AFDF|A2 d2 d2 cB|AFDF AFDF|G2E2 E2|
+  FG|AFDF AFDF|A2 d2 d2 de|fafd egec|d2f2d2:|
+|:de|fdAd fagf|edcd efge|fdAd fgaf|edcB A2 |
+  de|fdAd fagf|edcd efge|fafd egec|d2f2 d2:|
+
 
 
 X: 76
@@ -1945,6 +1998,18 @@ Q: 134
    AGAB AG A/B/d |1 zedB dBAA-    | AGAB ABdB  :|2 zedB dBAA-    | AGAB AGED |]                          
 
 
+X: 1
+T: Father Kelly's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:B2GB AGEG|DGGF G2AB|c2AB cBAG|EAAG FDGA|
+B2GB AGEG|DGGF GABc|d2Bd gdBd|1 cAFA ~G3A:|2 cAFA GABc||
+|:d2Bd gdBd|d2Bd gdBd|e2ce agfe|defg agfe|
+d2Bd gdBd|d2Bd gdBd|c2Ac BAGB|1 AGFA GABc:|2 AGFA ~G3A||
+
+
 X: 141
 T: Calum's Road
 R: strathspey
@@ -2068,10 +2133,10 @@ R: air
 M: 4/4
 L: 1/8
 K: Gmaj
-D2    |"G" G3 G "Em" G2 B2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 G "G" B2 d2    |"C" e6  |
-"C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 E "C" E2 "D" D2|"G" G6  ||
-"C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "D7" e2 |"G" d3 B "Em" B2 d2    |"C" e6  |
-"C" g2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 "C" E E2 "D" D2|"G" G4G3||
+D2    |"G" G3 G "Em" G2 B2|"Am" A3 G "D" A2 "B7" BA|"Em" G3 G "G" B2 d2    |"C" e6  |
+"C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "B7" BA|"Em" G3 E "C" E2 "D" D2|"G" G6  ||
+|: "^Chorus" "C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "D7" e2 |"G" d3 B "Em" B2 d2    |"C" e6  |
+"C" g2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "B7" BA|"Em" G3 "C" E E2 "D" D2|"G" G4G3 :|
 W: 1. Should old acquaintance be forgot,
 W: and never brought to mind?
 W: Should old acquaintance be forgot,
@@ -2129,7 +2194,7 @@ K: Em
 "G" B2 A2 G2 | "Am" A2 G2 F2 | "Em" G2 E2 E2 | "Em" E6 |] 
 
 X:150
-T: L'Air Mignone
+T: L'Air Mignonne
 R: air
 O: Québec
 M: 4/4
@@ -2137,7 +2202,7 @@ L: 1/8
 K: Gmaj
    DGA | B3d BAGA | B3d BAGA | E3G D3B | AGFG A  |
    DGA | B3d BAGA | B3d BAGA | E3G D3B | AGFA G :|
-|: DBd | e3g edBd | e3g edBG | E3G D3B | AGFG A  |
+|: ABd | e3g edBd | e3g edBG | E3G D3B | AGFG A  |
    DBd | e3g edBd | e3g edBG | E3G D3B | AGFA G :|
 
 X: 151
@@ -2170,4 +2235,60 @@ K: Gmaj
 |: "Em" E3 G2A | "G" B3 e2d | "G"B2A GB2 | "Em" E3 G3 |
    "C" e3 ged | e3G3 | "G"d2B BAG | "Bm"d3 B3 ||
    "Em" B3 B2d | "C"e2e ged | "Bm"B3 B2A | "D"Bd2 "Em"e3 :|
+
+
+X: 1
+T: The Lark In The Morning (Song)
+R: air
+M: 6/8
+L: 1/8
+K: Dmaj
+B|B2 A B2 c|d3 d2 B|A2 B A2 F|D3 DEF|
+G2 F G2 A|B2 d B2 A|G2E F2D|(E3 E2) |
+e|e2 E E2 E|e2e d2 B|A2 B A2 F|D3 DEF|
+G2 F G2 A|B2 d B2 A|G2 E F2 D|(E3|E2)|]
+W: O the lark in the morning she rises off her nest,
+W: She goes whistling and singing with the dew all on her breast.
+W: Like a jolly ploughboy she whistles and she sings
+W: She comes home in the evening with the dew all on her wings.
+W: 
+W: Roger the ploughboy he’s a bonnie blade,
+W: He goes whistling and singing down by yon green glade.
+W: He’s met with dark-eyed Susan, she’s handsome I declare,
+W: She is far more enticing than the birds of the air. 𝄇
+W: 
+W: As he was coming home one evening from town,
+W: With the meadows being green, the grass just cut down.
+W: As he should chance to stumble all in the new mown hay,
+W: “It’s love me now or never,” this bonnie lass did say.
+W: 
+W: So good luck to the ploughboys wherever they may be
+W: That takes the sweet maidens to sit her on their knee,
+W: [With a jug of strong porter you’ll whistle and you’ll say,?]
+W: There’s no life like a ploughboy’s in the merry month of May.
+
+X: 1
+T: The Star Of The County Down
+R: march
+M: 4/4
+L: 1/8
+K: Bmin
+FA|B2B2 B2AB|d2d2 e2de|f2ed B2AF|A6 FA|
+B2B2 B2AB|d2d2 e2de|f2ed B2B2|B6||
+fg|a2f2 f2ed|e2e2 e2de|f2ed B2AF|A6 FA|
+B2B2 B2AB|d2d2 e2de|f2ed B2B2|B6||
+fg|a2f2 f2ed|e2e2 e2de|f2ed B2AF|A6 FA|
+B2B2 B2AB|d2d2 e2de|f2ed B2B2|B6||
+
+
+X: 5
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:FAF EFE|DFA BAF|ABd ede|fdB AFE|
+FAF EFE|DFA BAF|AdB AFE|FDD D3:|
+|:fdB ABd|faa afd|gfg fed|Bee efg|
+fdB ABd|faa afa|baf gfe fdd d3:|
 
