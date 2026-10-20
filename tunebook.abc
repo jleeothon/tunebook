@@ -1710,6 +1710,18 @@ N: popular in the local slow Session at Molly Malone's
    F2 F FED .| F2 A B2 A   | F2 F EFE .| DFE D3   :|
 
 
+X: 5
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:FAF EFE|DFA BAF|ABd ede|fdB AFE|
+FAF EFE|DFA BAF|AdB AFE|FDD D3:|
+|:fdB ABd|faa afd|gfg fed|Bee efg|
+fdB ABd|faa afa|baf gfe fdd d3:|
+
+
 X: 118
 T: The Road To Lisdoonvarna
 T: An Bóthar go dtí Lios Dún Bhearna
@@ -2280,15 +2292,3 @@ W: So good luck to the ploughboys wherever they may be
 W: That takes the sweet maidens to sit her on their knee,
 W: [With a jug of strong porter you’ll whistle and you’ll say,?]
 W: There’s no life like a ploughboy’s in the merry month of May.
-
-X: 5
-T: The Rose In The Heather
-R: jig
-M: 6/8
-L: 1/8
-K: Dmaj
-|:FAF EFE|DFA BAF|ABd ede|fdB AFE|
-FAF EFE|DFA BAF|AdB AFE|FDD D3:|
-|:fdB ABd|faa afd|gfg fed|Bee efg|
-fdB ABd|faa afa|baf gfe fdd d3:|
-
